@@ -1,6 +1,6 @@
 
 
-| Places Online You Can Reach Out To Me.|
+  Places Online You Can Reach Out To Me.
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
