@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Places online you can reach out to me.
+Places Online You Can Reach Out To Me.
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
