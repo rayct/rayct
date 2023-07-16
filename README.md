@@ -1,8 +1,4 @@
-|     Rayct   | Places Online You Can Reach Out To Me|                          |
-| ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
+### Places Online You Can Reach Out To Me
 
 <!--
 **rayct/rayct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
