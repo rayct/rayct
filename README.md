@@ -1,5 +1,6 @@
-### Places You Can Find Me
 # Zettelkasten for Turner, Raymond C.
+### Places You Can Find Me
+
 
 <!--
 **rayct/rayct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
