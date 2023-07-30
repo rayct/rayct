@@ -1,4 +1,4 @@
-### Places Online You Can Reach Out To Me
+### Places You Can Find Me
 My Zettelkasten
 
 <!--
