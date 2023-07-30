@@ -1,5 +1,6 @@
-# Zettelkasten for Turner, Raymond C.
 ### Places You Can Find Me
+# Zettelkasten for Turner, Raymond C.
+
 
 
 <!--
