@@ -1,5 +1,4 @@
-### Places You Can Find Me
-# Zettelkasten for Turner, Raymond C.
+# Zettelkasten for Turner, Raymond C. (rwxray)
 
 
 
