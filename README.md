@@ -1,4 +1,4 @@
-# Zettelkasten for Turner, Raymond C. (rwxray)
+# Zettelkasten for Turner, Raymond C.
 
 
 
