@@ -1,6 +1,6 @@
 # Zettelkasten for Turner, Raymond C.
 
-### "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction"\
+### "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction"
 ― Rachel Carson
 
 <!--
@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</br>
+
+---
 
 **Last Upadte: Saturday 9th September 2023**
