@@ -1,6 +1,7 @@
 # Zettelkasten for Turner, Raymond C.
 
-
+### "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction"\
+― Rachel Carson
 
 <!--
 **rayct/rayct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Last Upadte: Friday 8th September 2023
+**Last Upadte: Saturday 9th September 2023**
