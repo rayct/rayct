@@ -2,9 +2,6 @@
 
 </br>
 
-### "Earth provides enough to satisfy every man's needs, but not every man's greed."
-— Mahatma Gandhi
-
 ### "Greed is a bottomless pit which exhausts the person in an endless effort to satisfy the need without ever reaching satisfaction."\
 ― Erich Fromm
 
