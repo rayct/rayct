@@ -2,7 +2,7 @@
 
 </br>
 
-### "Greed is a bottomless pit which exhausts the person in an endless effort to satisfy the need without ever reaching satisfaction nor gratification."
+### "Greed is a bottomless pit that exhausts a person in an endless effort to satisfy the need without ever reaching satisfaction nor fulfillment."
 ― Erich Fromm
 
 <!--
