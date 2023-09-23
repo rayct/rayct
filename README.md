@@ -11,4 +11,4 @@
 
 ---
 
-**Last Upadte: Thursday 21st September 2023**
+**Last Update:** Saturday 23rd September 2023
