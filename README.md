@@ -14,4 +14,4 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 
 ---
 
-**Last Updated:** Saturday 30th September 2023
+Last Updated: Sunday 31st September 2023
