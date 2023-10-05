@@ -11,4 +11,4 @@
 
 ---
 
-**Last Updated:** Thursday 5th October 2023
+**Thursday 5th October 2023**
