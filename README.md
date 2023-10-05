@@ -11,4 +11,4 @@
 
 ---
 
-**Thursday 5th October 2023**
+Friday 6th October 2023
