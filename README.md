@@ -4,11 +4,11 @@
 
 </br>
 
-"If you wish to be the king of the jungle, it's not enough to act like a king; you must be the king. And there can be no doubt because doubt causes chaos and leads to one's own demise."\
-― The Unknown Queen
+"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."\
+― Winston Churchill
 
 </br>
 
 ---
 
-Saturday 7th October 2023
+Sunday 8th October 2023
