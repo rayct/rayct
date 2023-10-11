@@ -4,8 +4,8 @@
 
 </br>
 
-"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."\
-― Winston Churchill
+“The true gung fu master aims his blows at himself, and when successful, he may even succeed in knocking himself out. The primary function of one’s tools is really revealed when they are self-directed and used to destroy greed, fear, anger and folly.“\ 
+- Bruce Lee
 
 </br>
 
