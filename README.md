@@ -12,4 +12,4 @@
 
 ---
 
-Thursday 12th October 2023
+Friday 13th October 2023
