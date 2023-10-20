@@ -6,11 +6,11 @@
 
 "The greatest enemy of knowledge is not ignorance; it is the illusion of knowledge."
 
-―  Stephen Hawking
+― Stephen Hawking
 
 “I don't care that they stole my idea . . I care that they don't have any of their own.”
 
-―  Nikola Tesla
+― Nikola Tesla
 
 "Never memorize something that you can look up."
 
