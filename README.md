@@ -8,9 +8,13 @@
 
 ―  Stephen Hawking
 
-“I don't care that they stole my idea . . I care that they don't have any of their own”
+“I don't care that they stole my idea . . I care that they don't have any of their own.”
 
 ―  Nikola Tesla
+
+"Never memorize something that you can look up."
+
+― Albert Einstein
 
 </br>
 
