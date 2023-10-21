@@ -16,4 +16,4 @@
 
 ---
 
-Saturday 21st October 2023
+Sunday 22nd October 2023
