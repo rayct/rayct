@@ -16,4 +16,4 @@
 
 ---
 
-Tuesday 24th October 2023
+Wednesday 25th October 2023
