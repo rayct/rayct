@@ -16,4 +16,4 @@
 
 ---
 
-Wednesday 1st November 2023
+Thursday 2nd November 2023
