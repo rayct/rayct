@@ -15,4 +15,4 @@
 
 ---
 
-Wednesday 8th November 2023
+Thursday 9th November 2023
