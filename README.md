@@ -15,4 +15,4 @@
 
 ---
 
-Saturday 18th November 2023
+Sunday 19th November 2023
