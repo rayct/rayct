@@ -15,4 +15,4 @@
 
 ---
 
-Wednesday 22nd November 2023
+Thursday 23rd November 2023
