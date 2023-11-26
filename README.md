@@ -15,4 +15,4 @@
 
 ---
 
-Saturday 25th November 2023
+Sunday 26th November 2023
