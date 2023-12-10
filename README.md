@@ -4,8 +4,8 @@
 
 </br>
 
-"The only rules are the ones dictated by the laws of pyshics"\
-― The Universe
+"There is a ceiling below which you cannot fall.\
+ ― Obama, The G Word"
 
 </br>
 
