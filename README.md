@@ -4,8 +4,8 @@
 
 </br>
 
-"There is a ceiling below which you cannot fall.\
-  ― Obama, The G Word"
+"Physics is like sex: sure, it may give some practical results, but that's not why we do it."\
+  ― Richard P. Feynman
 
 </br>
 
