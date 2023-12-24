@@ -4,8 +4,7 @@
 
 </br>
 
-
-"Physics is like sex: sure, it may give some practical results, but that's not why we do it."\
+"I think nature's imagination is so much greater than man's, she's never gonna let us relax!" \
   ― Richard P. Feynman
 
 </br>
