@@ -10,9 +10,6 @@
 "We cannot solve our problems with the same thinking we used when we created them."\
   ― Albert Einstein
 
-"Awakening, self-realization, and seeing into one’s own being – these are synonymous."\
-  ― Bruce Lee
-
 </br>
 
 ---
