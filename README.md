@@ -4,8 +4,9 @@
 
 </br>
 
-"If you cannot explain something in simple terms, you do not understand it."\
-  ― Richard Feynman (1918 - 1988)
+"The effort to understand the universe is one of the very few things which lifts human life a little above
+the level of farce and gives it some of the grace of tragedy."\
+  ― Steven Weinberg (1933-2021)
   
 </br>
 
