@@ -4,7 +4,7 @@
 
 </br>
 
-"The endeavor to comprehend the universe is one of the very few things that elevates human life slightly above the level of farce and imparts upon it a touch of the grace of tragedy."\
+"The endeavor to comprehend the universe is one of the very few things that elevates human life slightly above the level of farce and imparts upon it a touch of the grace of tragedy."
 
 ― Steven Weinberg (1933-2021)
   
