@@ -4,9 +4,9 @@
 
 </br>
 
-"The endeavor to comprehend the universe is one of the very few things that elevates human life slightly above the level of farce and imparts upon it a touch of the grace of tragedy."
+"You will continue to suffer if you have an emotional reaction to everything that is said to you. True power is sitting back and observing evrything with logic. If words control you that means everyone else can control you. Breathe and allow things to pass."
 
-  ― Steven Weinberg (1933-2021)
+  ― Bruce Lee
   
 </br>
 
