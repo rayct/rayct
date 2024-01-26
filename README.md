@@ -8,10 +8,6 @@
 
 -- Hubert Reeves"
 
-"Math is the study of anything that obeys the rules of logic, using the rules of logic.
-
-― Eugenia Cheng"
-  
 </br>
 
 ---
