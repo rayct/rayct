@@ -4,15 +4,9 @@
 
 <br>
 
-"It is easier to denature plutonium than it is to denature the evil spirit of man.
+"If a 'religion' is defined to be a system of ideas that contains unprovable statements, then Gödel taught us that mathematics is not only a religion, it is the only religion that can prove itself to be one.
 
--- A. Einstein (1879 - 1955)"
-
----
-
-"Man is the most insane species. He worships an invisible God and destroys a visible Nature. Unaware that this Nature he's destroying is this God he's worshipping.
-
--- Hubert Reeves"
+ -- John D. Barrow, The Artful Universe (1995)"
 
 </br>
 
