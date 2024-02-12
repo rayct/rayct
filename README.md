@@ -5,9 +5,9 @@
 <br>
 
 
-"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
+"The laws of physics suffice, without supernatural intervention.
 
--- Henry Ford (1863 - 1947)"
+-- Carl Sagan"
  
 
 </br>
