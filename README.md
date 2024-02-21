@@ -5,9 +5,9 @@
 <br>
 
 
-"The laws of physics suffice, without supernatural intervention.
+"The deepest sin against the human mind is to believe things without evidence.
 
--- Carl Sagan"
+-- Aldous Huxley"
  
 
 </br>
