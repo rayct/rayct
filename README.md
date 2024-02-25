@@ -6,7 +6,7 @@
 
 
 "The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt."
- - Bertrand Russell
+ -- Bertrand Russell
  
 
 </br>
