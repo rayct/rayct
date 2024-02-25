@@ -5,9 +5,8 @@
 <br>
 
 
-"The deepest sin against the human mind is to believe things without evidence.
-
--- Aldous Huxley"
+"The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt."
+ - Bertrand Russell
  
 
 </br>
