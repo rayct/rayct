@@ -5,8 +5,8 @@
 <br>
 
 
-"The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt."\
- -- Bertrand Russell
+"All governments suffer a recurring problem: Power attracts pathological personalitie. It is not that power corrupts but that it is magnetic to the corruptible."\
+ -- Frank Herbert, Dune
  
 
 </br>
