@@ -5,14 +5,8 @@
 <br>
 
 
-"It is easier to fool people than to convince them that they have been fooled."\
-  -- Mark Twain
-
-"Illusion is the first of all pleasures."\
-  -- Oscar Wilde
-
-"The greatest trick the devil ever pulled was convincing the world he didn't exist."\
-  -- Charles Baudelaire
+"The only true wisdom is in knowing you know nothing."\
+  - Socrates
  
 
 </br>
