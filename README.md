@@ -4,14 +4,9 @@
 
 <br>
 
-"The first principle is that you must not fool yourself, and you are the easiest person to fool."\
-  -- Richard Feynman
-
-
-"The only true wisdom is in knowing you know nothing."\
-  -- Socrates
+A Fool doesn't learn from his mistakes. A Smart man does. The Wise Man learns from the fool's mistakes"\
+  -- Quote from a substitute teacher in my high school
  
-
 </br>
 
 ---
