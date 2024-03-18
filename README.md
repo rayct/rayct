@@ -4,7 +4,7 @@
 
 <br>
 
-A Fool doesn't learn from his mistakes. A Smart man does. The Wise Man learns from the fool's mistakes"\
+"A fool doesn't learn from his mistakes. A smart man does. The wise man learns from the fool's mistakes."\
   -- Quote from a substitute teacher in my high school
  
 </br>
