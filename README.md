@@ -4,8 +4,8 @@
 
 <br>
 
-"A fool doesn't learn from his mistakes. A smart man does. The wise man learns from the fool's mistakes."\
-    ― Quote from a substitute teacher in my high school
+“If you have an idea that you genuinely think is good, don’t let some idiot talk you out if it.”\
+    ― Stan Lee
  
 </br>
 
