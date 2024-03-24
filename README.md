@@ -4,8 +4,8 @@
 
 <br>
 
-“If you have an idea that you genuinely think is good, don’t let some idiot talk you out if it.”\
-    ― Stan Lee
+“Tact is the art of making a point without making an enemy.”\
+    ― HOWARD W. NEWTON
  
 </br>
 
