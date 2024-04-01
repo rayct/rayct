@@ -4,8 +4,8 @@
 
 <br>
 
-“Tact is the art of making a point without making an enemy.”\
-    ― HOWARD W. NEWTON
+"Life’s not a bitch; Nemesis is."\
+    ― THE eNIGMA
  
 </br>
 
