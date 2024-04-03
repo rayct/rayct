@@ -4,10 +4,10 @@
 
 <br>
 
-"Life’s not a bitch; Nemesis is."\
-    ― THE eNIGMA
+"To live is the rarest thing in the world. Most people exist, that is all."\
+    ― Oscar Wilde
  
 </br>
 
 ---
-April 2nd, 2024
+April 3rd, 2024
