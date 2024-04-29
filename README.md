@@ -4,7 +4,7 @@
 
 <br>
 
-"If we do not destroy ourselves, we will venture to the stars."\
+"If we do not destroy ourselves, we will one day venture to the stars."\
     ― DR, CARL SAGAN (1934 - 1996)
  
 </br>
