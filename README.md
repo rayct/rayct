@@ -4,8 +4,8 @@
 
 <br>
 
-"To live is the rarest thing in the world. Most people exist, that is all."\
-    ― Oscar Wilde
+"If we do not destroy ourselves, we will venture to the stars."\
+    ― DR, CARL SAGAN (1934 - 1996)
  
 </br>
 
