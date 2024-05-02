@@ -4,7 +4,7 @@
 
 <br>
 
-"If we do not destroy ourselves, we will one day venture to the stars."\
+"You can't convince a believer of anything; their belief is not based on evidence, it based on a deep seated need to believe."\
     ― DR, CARL SAGAN (1934 - 1996)
  
 </br>
