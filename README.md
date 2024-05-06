@@ -4,8 +4,8 @@
 
 <br>
 
-"You can't convince a believer of anything; their belief is not based on evidence, it based on a deep seated need to believe."\
-    ― DR, CARL SAGAN (1934 - 1996)
+"The task is not to see what has never been seen before, but to think what has never been thought before about what you see everyday."\
+    ― ERWIN SCHRODINGER
  
 </br>
 
