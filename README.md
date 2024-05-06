@@ -1,4 +1,4 @@
-# Welcome to My GitHub repository!
+# Welcome to My GitHub Repository!
 
 ---
 
