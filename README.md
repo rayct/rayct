@@ -1,4 +1,4 @@
-# Welcome to the Github home for Turner, Raymond C.
+# Welcome to Turner, Raymond C.'s GitHub repository!
 
 ---
 
