@@ -4,8 +4,9 @@
 
 <br>
 
-"The task is not to see what has never been seen before, but to think what has never been thought before about what you see everyday."\
-    ― ERWIN SCHRODINGER
+"Any fool can know. The point is to understand.\"
+
+―  A. Einstein (1879 - 1955)
  
 </br>
 
