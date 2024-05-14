@@ -4,9 +4,14 @@
 
 <br>
 
-"Any fool can know. The point is to understand.\"
+"To follow the path:
+    look to the master,
+    follow the master,
+    walk with the master,
+    see through the master,
+    become the master.\"
 
-―  A. Einstein (1879 - 1955)
+―  Eric Steven Raymond
  
 </br>
 
