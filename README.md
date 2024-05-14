@@ -11,7 +11,7 @@
     see through the master,\
     become the master. "
 
-―  Eric Steven Raymond
+―  Eric S. Raymond
  
 </br>
 
