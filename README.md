@@ -9,7 +9,7 @@
     follow the master,\
     walk with the master,\
     see through the master,\
-    become the master.\ "
+    become the master. "
 
 ―  Eric Steven Raymond
  
