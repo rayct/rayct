@@ -4,14 +4,9 @@
 
 <br>
 
-" To follow the path:\
-    look to the master,\
-    follow the master,\
-    walk with the master,\
-    see through the master,\
-    become the master. "
+"When action grows unprofitable, gather information; when information grows unprofitable, sleep"\.
 
-―  Eric S. Raymond
+― Ursula K. Le Guin, The Left Hand of Darkness
  
 </br>
 
