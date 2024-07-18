@@ -4,9 +4,9 @@
 
 <br>
 
-"When action grows unprofitable, gather information; when information grows unprofitable, sleep"\.
+"Extinction is the Rule. Survival is the Exception"\.
 
-― Ursula K. Le Guin, The Left Hand of Darkness
+― DR. CARL SAGAN
  
 </br>
 
