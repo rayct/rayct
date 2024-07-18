@@ -4,7 +4,7 @@
 
 <br>
 
-"Extinction is the Rule. Survival is the Exception."\
+"Extinction is the Rule. Survival is the Exception"\.
 
 ― DR. CARL SAGAN
  
