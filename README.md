@@ -11,4 +11,4 @@
 </br>
 
 ---
-August 1st, 2024
+August 2nd, 2024
