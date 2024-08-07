@@ -4,9 +4,9 @@
 
 <br>
 
-"Extinction is the Rule. Survival is the Exception"\.
+"If your absence doesn't effect them, your presence never mattered"\.
 
-― DR. CARL SAGAN
+― Mindful
  
 </br>
 
