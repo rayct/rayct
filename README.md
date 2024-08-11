@@ -4,9 +4,9 @@
 
 <br>
 
-"If your absence doesn't effect them, your presence never mattered"\.
+"Difficulty is what wakes up the genius"\.
 
-― Mindful
+― Nassim Nicholas Taleeb
  
 </br>
 
