@@ -11,4 +11,4 @@
 </br>
 
 ---
-September 24th, 2024
+Tuesday 24th September, 2024
