@@ -11,4 +11,4 @@
 </br>
 
 ---
-Thursday 3rd October, 2024
+Friday 4th October, 2024
