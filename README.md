@@ -11,4 +11,4 @@
 </br>
 
 ---
-November 2nd, 2024
+November 3rd, 2024
