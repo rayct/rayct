@@ -1,6 +1,3 @@
-# Welcome to My GitHub Repository!
-
----
 
 <br>
 
