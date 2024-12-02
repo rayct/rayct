@@ -8,4 +8,4 @@
 </br>
 
 ---
-December 1st, 2024
+December 2nd, 2024
