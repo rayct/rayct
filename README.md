@@ -1,9 +1,9 @@
 
 <br>
 
-"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."
+"Hello and Merry Christmas to all, raise a glass to a Better and more Happier new year."
 
-― Stephen Hawking
+― Raymond C. Turner
  
 </br>
 
