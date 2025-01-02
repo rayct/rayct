@@ -8,4 +8,4 @@
 </br>
 
 ---
-January 1st, 2025
+January 2nd, 2025
