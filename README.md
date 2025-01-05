@@ -1,11 +1,10 @@
 
 <br>
 
-"Happy New Year ahead. Cheers to love, laughter, and new beginnings!"
-
-― Raymond C. Turner
+"The two most important days in your life are the day you are born and the day you find out why."\
+  – Mark Twain
  
 </br>
 
 ---
-January 4th, 2025
+January 5th, 2025
