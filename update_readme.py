@@ -1,7 +1,7 @@
 import random
 import datetime
 
-# List of scientific quotes with a newline and tab before the hyphen and author
+# List of scientific quotes with newline and tab before the hyphen and author
 quotes = [
     """Science is a way of thinking much more than it is a body of knowledge.
 \t- Carl Sagan""",
@@ -55,17 +55,28 @@ quotes = [
 \t- Karl Popper"""
 ]
 
+def make_blockquote(text):
+    """
+    Process the text so that:
+    - Every line is prefixed with '> ' (for Markdown blockquote)
+    - If a line (after leading whitespace) starts with '- ', we escape the hyphen with a backslash.
+    """
+    lines = text.splitlines()
+    processed_lines = []
+    for line in lines:
+        # Check if line (after stripping leading whitespace) starts with "- "
+        stripped = line.lstrip()
+        if stripped.startswith("- "):
+            # Determine the original indentation
+            indent = line[:len(line) - len(stripped)]
+            # Replace the hyphen with an escaped hyphen
+            line = f"{indent}\\- {stripped[2:]}"
+        # Prefix each line with "> " for blockquote formatting
+        processed_lines.append("> " + line)
+    return "\n".join(processed_lines)
+
 # Choose a random quote
 quote = random.choice(quotes)
-
-# Process the quote to ensure that every line in the blockquote gets a '> ' prefix.
-# This makes markdown render each line (including the newline with tab) as part of the blockquote.
-def make_blockquote(text):
-    # Split the text into lines
-    lines = text.splitlines()
-    # Prefix each line with '> ' and return the reassembled string
-    return "\n".join("> " + line for line in lines)
-
 blockquote_quote = make_blockquote(quote)
 
 # Get current date
