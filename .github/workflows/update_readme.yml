@@ -17,7 +17,11 @@ jobs:
         with:
           python-version: "3.x"
 
-      # Debug step: Print current date and time
+      - name: Debug Git Status
+        run: |
+          git status
+          git log -1
+
       - name: Print current time
         run: date
 
@@ -32,6 +36,9 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add README.md
-          git commit -m "Daily update: $(date)" || echo "No changes to commit"
-          git push
-
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily update: $(date)"
+            git push
+          fi
