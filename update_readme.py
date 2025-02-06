@@ -66,7 +66,7 @@ quote = random.choice(quotes)
 current_date = datetime.datetime.now().strftime("%d-%m-%Y")
 
 # Update the README.md file
-readme_content = f"""# Ray's Repository
+readme_content = f"""# Welcome
 
 
 {current_date}
