@@ -3,7 +3,7 @@
 06-02-2025
 
 ### Daily Quote:
-> Science is organized knowledge. Wisdom is organized life.
-	-​ Immanuel Kant
+> In science, there are no shortcuts to truth.
+> 	- Karl Popper
 
 Stay Curious and keep Exploring!
