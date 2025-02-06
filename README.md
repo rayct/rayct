@@ -4,7 +4,7 @@
 06-02-2025
 
 ### Daily Quote:
-> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
-        - Richard P. Feynman
+> To confine our attention to terrestrial matters would be to limit the human spirit.
+         - Stephen Hawking
 
-Stay curious and keep Exploring!
+Stay Curious and keep Exploring!
