@@ -3,7 +3,7 @@
 **Date:** 06-02-2025
 
 ### Daily Scientific Quote:
-> Science is organized knowledge. Wisdom is organized life.
-    - Immanuel Kant
+> The important thing is not to stop questioning. Curiosity has its own reason for existing.
+- Albert Einstein
 
 Stay curious and keep exploring!
