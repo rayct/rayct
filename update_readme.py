@@ -31,7 +31,7 @@ readme_content = f"""# Ray's Repository
 
 {current_date}
 
-### Daily Scientific Quote:
+### Daily Quote:
 > {quote}
 
 Stay curious and keep exploring!
