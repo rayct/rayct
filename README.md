@@ -3,7 +3,7 @@
 06-02-2025
 
 ### Daily Quote:
-> Time is an illusion. Lunchtime doubly so.
-> 	\- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+> Science is organized knowledge. Wisdom is organized life.
+	-​ Immanuel Kant
 
 Stay Curious and keep Exploring!
