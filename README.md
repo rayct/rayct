@@ -1,10 +1,9 @@
 # Welcome
 
-
 06-02-2025
 
 ### Daily Quote:
-> The beauty of a flower is a scientific fact.
-	- Richard P. Feynman
+> The most incomprehensible thing about the world is that it is comprehensible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
