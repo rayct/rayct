@@ -17,8 +17,6 @@ quotes = [
 - Neil deGrasse Tyson```"""
 ]
 
-]
-
 # Join all the quotes into a single string with each quote separated by a newline
 formatted_quotes = "\n\n".join(quotes)
 
