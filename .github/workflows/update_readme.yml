@@ -35,6 +35,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add README.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
@@ -42,3 +43,4 @@ jobs:
             git commit -m "Daily update: $(date)"
             git push
           fi
+
