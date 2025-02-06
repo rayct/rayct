@@ -3,7 +3,7 @@
 06-02-2025
 
 ### Daily Quote:
-> The most incomprehensible thing about the world is that it is comprehensible.
-> 	- Albert Einstein
+> Time is an illusion. Lunchtime doubly so.
+> 	\- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
 
 Stay Curious and keep Exploring!
