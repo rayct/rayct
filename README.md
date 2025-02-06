@@ -1,8 +1,8 @@
-# rayct Repository
+# Ray's Repository
 
 **Date:** 06-02-2025
 
 ### Daily Scientific Quote:
-> Science is a way of thinking much more than it is a body of knowledge. - Carl Sagan
+> Somewhere, something incredible is waiting to be known.        - Carl Sagan
 
 Stay curious and keep exploring!
