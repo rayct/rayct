@@ -3,7 +3,7 @@
 06-02-2025
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be known.
->     > - Carl Sagan
+> The important thing is not to stop questioning. Curiosity has its own reason for existing.
+>     	 - Albert Einstein
 
 Stay Curious and keep Exploring!
