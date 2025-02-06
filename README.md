@@ -3,6 +3,8 @@
 06-02-2025
 
 ### Daily Quote:
-> Equipped with his five senses, man explores the universe around him and calls the adventure Science.        - Edwin Powell Hubble
+> Science is a way of thinking much more than it is a body of knowledge.
+> 
+>             - Carl Sagan
 
 Stay Curious and keep Exploring!
