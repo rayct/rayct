@@ -4,7 +4,7 @@
 06-02-2025
 
 ### Daily Quote:
-> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-         - Carl Sagan
+> The laws of physics are the same everywhere in the universe.
+    - Stephen Hawking
 
 Stay curious and keep Exploring!
