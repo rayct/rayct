@@ -1,10 +1,8 @@
+# rayct Repository
 
-<br>
+**Date:** 06-02-2025
 
-"The two most important days in your life are the day you are born and the day you find out why."\
-  – Mark Twain
- 
-</br>
+### Daily Scientific Quote:
+> Science is a way of thinking much more than it is a body of knowledge. - Carl Sagan
 
----
-February 6th, 2025
+Stay curious and keep exploring!
