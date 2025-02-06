@@ -1,7 +1,7 @@
 import random
 import datetime
 
-# List of scientific quotes
+# List of scientific quotes with a newline and tab before the hyphen and author
 quotes = [
     """Science is a way of thinking much more than it is a body of knowledge.
 \t- Carl Sagan""",
@@ -55,14 +55,18 @@ quotes = [
 \t- Karl Popper"""
 ]
 
-
-
-
-# Join all the quotes into a single string with each quote separated by a newline
-formatted_quotes = "\n\n".join(quotes)
-
 # Choose a random quote
 quote = random.choice(quotes)
+
+# Process the quote to ensure that every line in the blockquote gets a '> ' prefix.
+# This makes markdown render each line (including the newline with tab) as part of the blockquote.
+def make_blockquote(text):
+    # Split the text into lines
+    lines = text.splitlines()
+    # Prefix each line with '> ' and return the reassembled string
+    return "\n".join("> " + line for line in lines)
+
+blockquote_quote = make_blockquote(quote)
 
 # Get current date
 current_date = datetime.datetime.now().strftime("%d-%m-%Y")
@@ -70,11 +74,10 @@ current_date = datetime.datetime.now().strftime("%d-%m-%Y")
 # Update the README.md file
 readme_content = f"""# Welcome
 
-
 {current_date}
 
 ### Daily Quote:
-> {quote}
+{blockquote_quote}
 
 Stay Curious and keep Exploring!
 """
