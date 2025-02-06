@@ -3,7 +3,6 @@
 06-02-2025
 
 ### Daily Quote:
-> Science is organized knowledge. Wisdom is organized life.
-> 	- Immanuel Kant
+> Equipped with his five senses, man explores the universe around him and calls the adventure Science.        - Edwin Powell Hubble
 
 Stay Curious and keep Exploring!
