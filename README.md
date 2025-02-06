@@ -4,7 +4,7 @@
 06-02-2025
 
 ### Daily Quote:
-> The most incomprehensible thing about the world is that it is comprehensible.
-- Albert Einstein
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+         - Carl Sagan
 
 Stay curious and keep Exploring!
