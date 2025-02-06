@@ -68,12 +68,13 @@ current_date = datetime.datetime.now().strftime("%d-%m-%Y")
 # Update the README.md file
 readme_content = f"""# Ray's Repository
 
+
 {current_date}
 
 ### Daily Quote:
 > {quote}
 
-Stay curious and keep exploring!
+Stay curious and keep Exploring!
 """
 
 with open("README.md", "w") as readme_file:
