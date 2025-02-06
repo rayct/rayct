@@ -1,9 +1,10 @@
-# Ray's Repository
+# Welcome
+
 
 06-02-2025
 
 ### Daily Quote:
-> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-- Edwin Powell Hubble
+> The most incomprehensible thing about the world is that it is comprehensible.
+- Albert Einstein
 
-Stay curious and keep exploring!
+Stay curious and keep Exploring!
