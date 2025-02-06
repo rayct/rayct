@@ -2,8 +2,6 @@ import random
 import datetime
 
 # List of scientific quotes
-import pyperclip
-
 quotes = [
     """Science is a way of thinking much more than it is a body of knowledge.
 - Carl Sagan""",
@@ -21,12 +19,6 @@ quotes = [
 
 # Join all the quotes into a single string with each quote separated by a newline
 formatted_quotes = "\n\n".join(quotes)
-
-# Copy the formatted quotes to the clipboard
-pyperclip.copy(formatted_quotes)
-
-print("Quotes have been copied to the clipboard!")
-
 
 # Choose a random quote
 quote = random.choice(quotes)
