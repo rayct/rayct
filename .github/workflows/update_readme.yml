@@ -17,6 +17,10 @@ jobs:
         with:
           python-version: "3.x"
 
+      # Debug step: Print current date and time
+      - name: Print current time
+        run: date
+
       - name: Run update script
         run: |
           python update_readme.py
