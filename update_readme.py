@@ -29,7 +29,7 @@ current_date = datetime.datetime.now().strftime("%d-%m-%Y")
 # Update the README.md file
 readme_content = f"""# Ray's Repository
 
-**Date:** {current_date}
+**** {current_date}
 
 ### Daily Scientific Quote:
 > {quote}
