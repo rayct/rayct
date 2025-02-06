@@ -3,7 +3,7 @@
 **Date:** 06-02-2025
 
 ### Daily Scientific Quote:
-> `Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-- Edwin Powell Hubble`
+> ```The good thing about science is that it’s true whether or not you believe in it.
+- Neil deGrasse Tyson```
 
 Stay curious and keep exploring!
