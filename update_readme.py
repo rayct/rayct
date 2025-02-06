@@ -15,7 +15,7 @@ quotes = [
 quote = random.choice(quotes)
 
 # Get current date
-current_date = datetime.datetime.now().strftime("%Y-%m-%d")
+current_date = datetime.datetime.now().strftime("%d-%m-%Y")
 
 # Update the README.md file
 readme_content = f"""# rayct Repository
