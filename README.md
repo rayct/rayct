@@ -1,9 +1,9 @@
 # Ray's Repository
 
-**Date:** 06-02-2025
+**** 06-02-2025
 
 ### Daily Scientific Quote:
-> ```The good thing about science is that it’s true whether or not you believe in it.
-- Neil deGrasse Tyson```
+> ```Science is a way of thinking much more than it is a body of knowledge.
+- Carl Sagan```
 
 Stay curious and keep exploring!
