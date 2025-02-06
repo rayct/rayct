@@ -4,17 +4,17 @@ import datetime
 # List of scientific quotes
 quotes = [
     """Science is a way of thinking much more than it is a body of knowledge.
-- Carl Sagan""",
+    - Carl Sagan""",
     """The important thing is not to stop questioning. Curiosity has its own reason for existing.
-- Albert Einstein""",
+    - Albert Einstein""",
     """Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-- Edwin Powell Hubble""",
+    - Edwin Powell Hubble""",
     """Somewhere, something incredible is waiting to be known.
-- Carl Sagan""",
+    - Carl Sagan""",
     """Science is organized knowledge. Wisdom is organized life.
-- Immanuel Kant""",
+    - Immanuel Kant""",
     """The good thing about science is that it’s true whether or not you believe in it.
-- Neil deGrasse Tyson"""
+    - Neil deGrasse Tyson"""
 ]
 
 # Choose a random quote
