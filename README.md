@@ -4,7 +4,7 @@
 06-02-2025
 
 ### Daily Quote:
-> The laws of physics are the same everywhere in the universe.
-    - Stephen Hawking
+> Time is an illusion. Lunchtime doubly so.
+     - Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
 
 Stay curious and keep Exploring!
