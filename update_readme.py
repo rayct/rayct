@@ -3,14 +3,14 @@ import datetime
 
 # List of scientific quotes with a newline and tab before the hyphen and author
 quotes = [
-    """Science is a way of thinking much more than it is a body of knowledge.\n
-            - Carl Sagan""",
-    """The important thing is not to stop questioning. Curiosity has its own reason for existing.\n
-            - Albert Einstein""",
+    """Science is a way of thinking much more than it is a body of knowledge.
+    - Carl Sagan""",
+    """The important thing is not to stop questioning. Curiosity has its own reason for existing.
+    - Albert Einstein""",
     """Equipped with his five senses, man explores the universe around him and calls the adventure Science.\
-            - Edwin Powell Hubble""",
-    """Somewhere, something incredible is waiting to be known.\n
-            - Carl Sagan"""
+    - Edwin Powell Hubble""",
+    """Somewhere, something incredible is waiting to be known.
+    - Carl Sagan"""
 ]
 
 # Choose a random quote
