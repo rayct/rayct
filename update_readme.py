@@ -1,5 +1,6 @@
 import random
 import datetime
+import pyperclip
 
 # List of scientific quotes
 quotes = [
@@ -16,9 +17,17 @@ quotes = [
     """The good thing about science is that it’s true whether or not you believe in it.
 - Neil deGrasse Tyson"""
 ]
+def copy_quote_to_clipboard(quote):
+    pyperclip.copy(quote)
+    print("Quote copied to clipboard!")
 
 # Choose a random quote
 quote = random.choice(quotes)
+
+# Offer the user the option to copy the quote to clipboard
+user_input = input("Would you like to copy the quote to clipboard? (yes/no): ").strip().lower()
+if user_input == 'yes':
+    copy_quote_to_clipboard(quote)
 
 # Get current date
 current_date = datetime.datetime.now().strftime("%d-%m-%Y")
