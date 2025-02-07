@@ -70,7 +70,6 @@ blockquote_quote = make_blockquote(quote)
 
 # Get current date
 # current_date = datetime.datetime.now().strftime("%d-%m-%Y")
-
 def ordinal(n):
     """Convert an integer into its ordinal representation."""
     if 11 <= (n % 100) <= 13:
