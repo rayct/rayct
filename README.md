@@ -3,7 +3,7 @@
 February 7th, 2025
 
 ### Daily Quote:
-> We are like butterflies who flutter for a day and think it is forever.
+> Science is a way of thinking much more than it is a body of knowledge.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
