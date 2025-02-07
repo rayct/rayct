@@ -69,7 +69,23 @@ def make_blockquote(text):
 blockquote_quote = make_blockquote(quote)
 
 # Get current date
-current_date = datetime.datetime.now().strftime("%d-%m-%Y")
+# current_date = datetime.datetime.now().strftime("%d-%m-%Y")
+
+def ordinal(n):
+    """Convert an integer into its ordinal representation."""
+    if 11 <= (n % 100) <= 13:
+        suffix = "th"
+    else:
+        suffix = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
+    return str(n) + suffix
+
+now = datetime.datetime.now()
+month = now.strftime("%B")  # Full month name, e.g., "February"
+day = ordinal(now.day)      # Day of the month with ordinal, e.g., "7th"
+year = now.year             # Year, e.g., 2025
+
+current_date = f"{month} {day}, {year}"
+print(current_date)  # For example: February 7th, 2025
 
 # Update the README.md file
 readme_content = f"""# Welcome
