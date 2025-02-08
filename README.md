@@ -3,7 +3,7 @@
 February 8th, 2025
 
 ### Daily Quote:
-> The important thing is not to stop questioning. Curiosity has its own reason for existing.
+> The whole of science is nothing more than a refinement of everyday thinking.
 > 	- Albert Einstein
 
 Stay Curious and keep Exploring!
