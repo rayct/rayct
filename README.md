@@ -3,7 +3,7 @@
 February 8th, 2025
 
 ### Daily Quote:
-> The whole of science is nothing more than a refinement of everyday thinking.
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 > 	- Albert Einstein
 
 Stay Curious and keep Exploring!
