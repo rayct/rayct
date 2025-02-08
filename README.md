@@ -1,9 +1,9 @@
 # Welcome
 
-February 7th, 2025
+February 8th, 2025
 
 ### Daily Quote:
-> The universe is not only stranger than we imagine, it is stranger than we can imagine.
-> 	- J.B.S. Haldane
+> The important thing is not to stop questioning. Curiosity has its own reason for existing.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
