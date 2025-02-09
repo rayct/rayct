@@ -3,7 +3,7 @@
 February 9th, 2025
 
 ### Daily Quote:
-> The beauty of a flower is a scientific fact.
-> 	- Richard P. Feynman
+> In science, there are no shortcuts to truth.
+> 	- Karl Popper
 
 Stay Curious and keep Exploring!
