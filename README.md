@@ -3,7 +3,7 @@
 February 10th, 2025
 
 ### Daily Quote:
-> Physics is not about how the world is, it is about what we can say about the world.
-> 	- Niels Bohr
+> I think we have a great responsibility to understand our role in the universe.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
