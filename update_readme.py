@@ -1,5 +1,6 @@
 import random
 import datetime
+from zoneinfo import ZoneInfo  # Available in Python 3.9+
 
 # List of scientific quotes with a newline and tab before the hyphen and author
 quotes = [
@@ -78,7 +79,7 @@ def ordinal(n):
         suffix = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
     return str(n) + suffix
 
-now = datetime.datetime.now()
+now = datetime.datetime.now(ZoneInfo("Europe/London"))
 month = now.strftime("%B")  # Full month name, e.g., "February"
 day = ordinal(now.day)      # Day of the month with ordinal, e.g., "7th"
 year = now.year             # Year, e.g., 2025

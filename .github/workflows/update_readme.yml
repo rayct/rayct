@@ -2,9 +2,7 @@ name: Update README Daily
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Midnight UTC (Winter: Midnight UK time)
-    - cron: "0 23 * * *" # 11:00 PM UTC (Summer: Midnight UK time)
-
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -28,8 +26,7 @@ jobs:
         run: date
 
       - name: Run update script
-        run: |
-          python update_readme.py
+        run: python update_readme.py
 
       - name: Commit and push changes
         env:
@@ -45,4 +42,3 @@ jobs:
             git commit -m "Daily update: $(date)"
             git push
           fi
-
