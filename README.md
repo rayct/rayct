@@ -1,9 +1,9 @@
 # Welcome
 
-February 10th, 2025
+February 11th, 2025
 
 ### Daily Quote:
-> I think we have a great responsibility to understand our role in the universe.
-> 	- Neil deGrasse Tyson
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
