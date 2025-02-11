@@ -26,7 +26,7 @@ jobs:
         run: date
 
       - name: Print detailed current time
-        run: date +"%Y-%m-%d %H:%M:%S %Z"
+        run: date +"%d-%m-%Y %H:%M:%S %Z"
       
 
       - name: Run update script
