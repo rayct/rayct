@@ -3,7 +3,7 @@
 February 11th, 2025
 
 ### Daily Quote:
-> In science, there are no shortcuts to truth.
-> 	- Karl Popper
+> The universe is under no obligation to make sense to you.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
