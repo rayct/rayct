@@ -84,6 +84,7 @@ month = now.strftime("%B")  # Full month name, e.g., "February"
 day = ordinal(now.day)      # Day of the month with ordinal, e.g., "7th"
 year = now.year             # Year, e.g., 2025
 
+
 current_date = f"{month} {day}, {year}"
 print(current_date)  # For example: February 7th, 2025
 

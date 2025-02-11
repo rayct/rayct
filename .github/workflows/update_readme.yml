@@ -25,6 +25,10 @@ jobs:
       - name: Print current time
         run: date
 
+      - name: Print detailed current time
+        run: date +"%Y-%m-%d %H:%M:%S %Z"
+      
+
       - name: Run update script
         run: python update_readme.py
 
