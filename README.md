@@ -1,9 +1,9 @@
 # Welcome
 
-February 11th, 2025
+February 12th, 2025
 
 ### Daily Quote:
-> The universe is under no obligation to make sense to you.
-> 	- Neil deGrasse Tyson
+> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
+> 	- Edwin Powell Hubble
 
 Stay Curious and keep Exploring!
