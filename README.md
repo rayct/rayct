@@ -1,9 +1,9 @@
 # Welcome
 
-February 15th, 2025
+February 16th, 2025
 
 ### Daily Quote:
-> Science is organized knowledge. Wisdom is organized life.
-> 	- Immanuel Kant
+> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
