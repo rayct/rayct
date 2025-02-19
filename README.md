@@ -1,9 +1,9 @@
 # Welcome
 
-February 18th, 2025
+February 19th, 2025
 
 ### Daily Quote:
-> To confine our attention to terrestrial matters would be to limit the human spirit.
+> The laws of physics are the same everywhere in the universe.
 > 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
