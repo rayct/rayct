@@ -1,9 +1,9 @@
 # Welcome
 
-February 19th, 2025
+February 20th, 2025
 
 ### Daily Quote:
-> The laws of physics are the same everywhere in the universe.
-> 	- Stephen Hawking
+> If you can't explain it simply, you don't understand it well enough.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
