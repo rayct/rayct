@@ -1,9 +1,9 @@
 # Welcome
 
-February 24th, 2025
+February 25th, 2025
 
 ### Daily Quote:
-> Astronomy compels the soul to look upwards and leads us from this world to another.
-> 	- Plato
+> The laws of physics are the same everywhere in the universe.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
