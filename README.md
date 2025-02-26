@@ -1,9 +1,9 @@
 # Welcome
 
-February 25th, 2025
+February 26th, 2025
 
 ### Daily Quote:
-> The laws of physics are the same everywhere in the universe.
-> 	- Stephen Hawking
+> Physics is not about how the world is, it is about what we can say about the world.
+> 	- Niels Bohr
 
 Stay Curious and keep Exploring!
