@@ -53,8 +53,40 @@ quotes = [
     """The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
 \t- Richard P. Feynman""",
     """In science, there are no shortcuts to truth.
-\t- Karl Popper"""
+\t- Karl Popper""",
+    # --- Additional quotes ---
+    """Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+\t- Richard Feynman""",
+    """I would rather have questions that can't be answered than answers that can't be questioned.
+\t- Richard Feynman""",
+    """If I have seen further it is by standing on the shoulders of giants.
+\t- Isaac Newton""",
+    """The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+\t- Isaac Asimov""",
+    """Mathematics is the language with which God has written the universe.
+\t- Galileo Galilei""",
+    """Research is what I'm doing when I don't know what I'm doing.
+\t- Wernher von Braun""",
+    """It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+\t- Carl Sagan""",
+    """The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
+\t- William Lawrence Bragg""",
+    """Science is the great antidote to the poison of enthusiasm and superstition.
+\t- Adam Smith""",
+    """The universe is full of magical things patiently waiting for our wits to grow sharper.
+\t- Eden Phillpotts""",
+    """Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+\t- Jules Verne""",
+    """Exploration is in our nature. We began as wanderers, and we are wanderers still.
+\t- Carl Sagan""",
+    """For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
+\t- Carl Sagan""",
+    """I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
+\t- Richard Feynman""",
+    """The universe seems neither benign nor hostile, merely indifferent.
+\t- Carl Sagan"""
 ]
+
 
 # Choose a random quote
 quote = random.choice(quotes)
