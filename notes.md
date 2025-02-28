@@ -1,4 +1,4 @@
-No, you **cannot directly trigger a GitHub Actions workflow on a remote repository from your local CLI** using native GitHub CLI commands or tools. However, you can achieve this using the **GitHub API** or **GitHub CLI (`gh`)**, which allows you to trigger workflows remotely.
+You **cannot directly trigger a GitHub Actions workflow on a remote repository from your local CLI** using native GitHub CLI commands or tools. However, you can achieve this using the **GitHub API** or **GitHub CLI (`gh`)**, which allows you to trigger workflows remotely.
 
 ---
 
@@ -73,5 +73,3 @@ Alternatively, you can use the GitHub API to trigger a workflow remotely:
 ### Summary
 - **Use `gh` CLI**: Simpler and more user-friendly for triggering workflows remotely.
 - **Use cURL with GitHub API**: More flexible for automation and advanced use cases.
-
-Let me know if you need further assistance! 😊
