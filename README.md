@@ -1,9 +1,9 @@
 # Welcome
 
-February 28th, 2025
+March 1st, 2025
 
 ### Daily Quote:
-> Research is what I'm doing when I don't know what I'm doing.
-> 	- Wernher von Braun
+> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
