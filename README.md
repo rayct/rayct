@@ -1,9 +1,9 @@
 # Welcome
 
-March 2nd, 2025
+March 3rd, 2025
 
 ### Daily Quote:
-> Time is an illusion. Lunchtime doubly so.
-> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
