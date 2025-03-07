@@ -1,9 +1,9 @@
 # Welcome
 
-March 6th, 2025
+March 7th, 2025
 
 ### Daily Quote:
-> Mathematics is the language with which God has written the universe.
-> 	- Galileo Galilei
+> The good thing about science is that it’s true whether or not you believe in it.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
