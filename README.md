@@ -1,9 +1,9 @@
 # Welcome
 
-March 10th, 2025
+March 11th, 2025
 
 ### Daily Quote:
-> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
-> 	- William Lawrence Bragg
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
