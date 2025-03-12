@@ -1,9 +1,9 @@
 # Welcome
 
-March 11th, 2025
+March 12th, 2025
 
 ### Daily Quote:
-> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-> 	- Carl Sagan
+> The most incomprehensible thing about the world is that it is comprehensible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
