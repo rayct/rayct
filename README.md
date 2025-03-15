@@ -1,9 +1,9 @@
 # Welcome
 
-March 14th, 2025
+March 15th, 2025
 
 ### Daily Quote:
-> If you can't explain it simply, you don't understand it well enough.
-> 	- Albert Einstein
+> Exploration is in our nature. We began as wanderers, and we are wanderers still.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
