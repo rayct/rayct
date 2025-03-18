@@ -1,9 +1,9 @@
 # Welcome
 
-March 17th, 2025
+March 18th, 2025
 
 ### Daily Quote:
-> The universe is full of magical things patiently waiting for our wits to grow sharper.
-> 	- Eden Phillpotts
+> We are like butterflies who flutter for a day and think it is forever.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
