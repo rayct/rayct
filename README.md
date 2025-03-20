@@ -1,9 +1,9 @@
 # Welcome
 
-March 19th, 2025
+March 20th, 2025
 
 ### Daily Quote:
-> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
-> 	- William Lawrence Bragg
+> We are like butterflies who flutter for a day and think it is forever.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
