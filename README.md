@@ -1,9 +1,9 @@
 # Welcome
 
-March 21st, 2025
+March 22nd, 2025
 
 ### Daily Quote:
-> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
-> 	- Carl Sagan
+> Everything is theoretically impossible, until it is done.
+> 	- Robert A. Heinlein
 
 Stay Curious and keep Exploring!
