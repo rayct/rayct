@@ -1,9 +1,9 @@
 # Welcome
 
-March 24th, 2025
+March 25th, 2025
 
 ### Daily Quote:
-> The universe is not only stranger than we imagine, it is stranger than we can imagine.
-> 	- J.B.S. Haldane
+> The universe seems neither benign nor hostile, merely indifferent.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
