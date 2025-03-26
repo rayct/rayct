@@ -1,9 +1,9 @@
 # Welcome
 
-March 25th, 2025
+March 26th, 2025
 
 ### Daily Quote:
-> The universe seems neither benign nor hostile, merely indifferent.
-> 	- Carl Sagan
+> The laws of physics are the same everywhere in the universe.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
