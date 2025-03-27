@@ -1,9 +1,9 @@
 # Welcome
 
-March 26th, 2025
+March 27th, 2025
 
 ### Daily Quote:
-> The laws of physics are the same everywhere in the universe.
-> 	- Stephen Hawking
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
