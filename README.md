@@ -1,9 +1,9 @@
 # Welcome
 
-March 27th, 2025
+March 28th, 2025
 
 ### Daily Quote:
-> Science is a way of thinking much more than it is a body of knowledge.
-> 	- Carl Sagan
+> The important thing is not to stop questioning. Curiosity has its own reason for existing.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
