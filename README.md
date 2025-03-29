@@ -1,9 +1,9 @@
 # Welcome
 
-March 28th, 2025
+March 29th, 2025
 
 ### Daily Quote:
-> The important thing is not to stop questioning. Curiosity has its own reason for existing.
-> 	- Albert Einstein
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
