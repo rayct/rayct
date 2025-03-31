@@ -1,9 +1,9 @@
 # Welcome
 
-March 30th, 2025
+March 31st, 2025
 
 ### Daily Quote:
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
-> 	- Isaac Asimov
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
