@@ -1,9 +1,9 @@
 # Welcome
 
-April 1st, 2025
+April 2nd, 2025
 
 ### Daily Quote:
-> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-> 	- Edwin Powell Hubble
+> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
