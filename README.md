@@ -1,9 +1,9 @@
 # Welcome
 
-April 3rd, 2025
+April 4th, 2025
 
 ### Daily Quote:
-> The universe seems neither benign nor hostile, merely indifferent.
+> We are like butterflies who flutter for a day and think it is forever.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
