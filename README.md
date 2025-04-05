@@ -1,9 +1,9 @@
 # Welcome
 
-April 4th, 2025
+April 5th, 2025
 
 ### Daily Quote:
-> We are like butterflies who flutter for a day and think it is forever.
-> 	- Carl Sagan
+> To confine our attention to terrestrial matters would be to limit the human spirit.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
