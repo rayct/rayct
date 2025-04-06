@@ -1,9 +1,9 @@
 # Welcome
 
-April 5th, 2025
+April 6th, 2025
 
 ### Daily Quote:
-> To confine our attention to terrestrial matters would be to limit the human spirit.
-> 	- Stephen Hawking
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!
