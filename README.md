@@ -1,9 +1,9 @@
 # Welcome
 
-April 7th, 2025
+April 8th, 2025
 
 ### Daily Quote:
-> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
-> 	- Carl Sagan
+> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
+> 	- William Lawrence Bragg
 
 Stay Curious and keep Exploring!
