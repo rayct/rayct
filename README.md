@@ -1,9 +1,9 @@
 # Welcome
 
-April 13th, 2025
+April 14th, 2025
 
 ### Daily Quote:
-> Exploration is in our nature. We began as wanderers, and we are wanderers still.
-> 	- Carl Sagan
+> Astronomy compels the soul to look upwards and leads us from this world to another.
+> 	- Plato
 
 Stay Curious and keep Exploring!
