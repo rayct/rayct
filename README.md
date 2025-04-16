@@ -1,9 +1,9 @@
 # Welcome
 
-April 15th, 2025
+April 16th, 2025
 
 ### Daily Quote:
-> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
-> 	- J. B. S. Haldane
+> Everything is theoretically impossible, until it is done.
+> 	- Robert A. Heinlein
 
 Stay Curious and keep Exploring!
