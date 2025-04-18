@@ -1,9 +1,9 @@
 # Welcome
 
-April 17th, 2025
+April 18th, 2025
 
 ### Daily Quote:
-> The important thing is not to stop questioning. Curiosity has its own reason for existing.
-> 	- Albert Einstein
+> Somewhere, something incredible is waiting to be known.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
