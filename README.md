@@ -1,9 +1,9 @@
 # Welcome
 
-April 18th, 2025
+April 19th, 2025
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be known.
-> 	- Carl Sagan
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!
