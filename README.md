@@ -1,9 +1,9 @@
 # Welcome
 
-April 21st, 2025
+April 22nd, 2025
 
 ### Daily Quote:
-> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+> Exploration is in our nature. We began as wanderers, and we are wanderers still.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
