@@ -1,9 +1,9 @@
 # Welcome
 
-April 22nd, 2025
+April 23rd, 2025
 
 ### Daily Quote:
-> Exploration is in our nature. We began as wanderers, and we are wanderers still.
+> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
