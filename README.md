@@ -1,9 +1,9 @@
 # Welcome
 
-April 24th, 2025
+April 25th, 2025
 
 ### Daily Quote:
-> I would rather have questions that can't be answered than answers that can't be questioned.
-> 	- Richard Feynman
+> Exploration is in our nature. We began as wanderers, and we are wanderers still.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
