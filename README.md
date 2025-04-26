@@ -1,9 +1,9 @@
 # Welcome
 
-April 25th, 2025
+April 26th, 2025
 
 ### Daily Quote:
-> Exploration is in our nature. We began as wanderers, and we are wanderers still.
-> 	- Carl Sagan
+> Science is the great antidote to the poison of enthusiasm and superstition.
+> 	- Adam Smith
 
 Stay Curious and keep Exploring!
