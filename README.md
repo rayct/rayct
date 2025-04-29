@@ -1,9 +1,9 @@
 # Welcome
 
-April 28th, 2025
+April 29th, 2025
 
 ### Daily Quote:
-> Science is a way of thinking much more than it is a body of knowledge.
-> 	- Carl Sagan
+> The universe is full of magical things patiently waiting for our wits to grow sharper.
+> 	- Eden Phillpotts
 
 Stay Curious and keep Exploring!
