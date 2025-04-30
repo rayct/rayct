@@ -1,9 +1,9 @@
 # Welcome
 
-April 29th, 2025
+April 30th, 2025
 
 ### Daily Quote:
-> The universe is full of magical things patiently waiting for our wits to grow sharper.
-> 	- Eden Phillpotts
+> The beauty of a flower is a scientific fact.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
