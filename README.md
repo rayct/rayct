@@ -1,6 +1,6 @@
 # Welcome
 
-April 30th, 2025
+May 1st, 2025
 
 ### Daily Quote:
 > The beauty of a flower is a scientific fact.
