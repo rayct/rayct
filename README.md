@@ -3,7 +3,7 @@
 May 2nd, 2025
 
 ### Daily Quote:
-> The most incomprehensible thing about the world is that it is comprehensible.
-> 	- Albert Einstein
+> Science is the great antidote to the poison of enthusiasm and superstition.
+> 	- Adam Smith
 
 Stay Curious and keep Exploring!
