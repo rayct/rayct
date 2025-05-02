@@ -54,7 +54,6 @@ quotes = [
 \t- Richard P. Feynman""",
     """In science, there are no shortcuts to truth.
 \t- Karl Popper""",
-    # --- Additional quotes ---
     """Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
 \t- Richard Feynman""",
     """I would rather have questions that can't be answered than answers that can't be questioned.
