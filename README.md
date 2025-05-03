@@ -1,9 +1,9 @@
 # Welcome
 
-May 2nd, 2025
+May 3rd, 2025
 
 ### Daily Quote:
-> Science is the great antidote to the poison of enthusiasm and superstition.
-> 	- Adam Smith
+> If I have seen further it is by standing on the shoulders of giants.
+> 	- Isaac Newton
 
 Stay Curious and keep Exploring!
