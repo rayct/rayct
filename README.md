@@ -1,9 +1,9 @@
 # Welcome
 
-May 3rd, 2025
+May 4th, 2025
 
 ### Daily Quote:
-> If I have seen further it is by standing on the shoulders of giants.
-> 	- Isaac Newton
+> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
