@@ -1,9 +1,9 @@
 # Welcome
 
-May 4th, 2025
+May 5th, 2025
 
 ### Daily Quote:
-> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
-> 	- Carl Sagan
+> Research is what I'm doing when I don't know what I'm doing.
+> 	- Wernher von Braun
 
 Stay Curious and keep Exploring!
