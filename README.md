@@ -1,9 +1,9 @@
 # Welcome
 
-May 5th, 2025
+May 6th, 2025
 
 ### Daily Quote:
-> Research is what I'm doing when I don't know what I'm doing.
-> 	- Wernher von Braun
+> The most incomprehensible thing about the world is that it is comprehensible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
