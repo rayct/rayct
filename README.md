@@ -1,9 +1,9 @@
 # Welcome
 
-May 6th, 2025
+May 7th, 2025
 
 ### Daily Quote:
-> The most incomprehensible thing about the world is that it is comprehensible.
-> 	- Albert Einstein
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!
