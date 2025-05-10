@@ -1,9 +1,9 @@
 # Welcome
 
-May 9th, 2025
+May 10th, 2025
 
 ### Daily Quote:
-> If you can't explain it simply, you don't understand it well enough.
-> 	- Albert Einstein
+> The universe is under no obligation to make sense to you.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
