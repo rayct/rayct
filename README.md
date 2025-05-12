@@ -1,9 +1,9 @@
 # Welcome
 
-May 11th, 2025
+May 12th, 2025
 
 ### Daily Quote:
-> If you can't explain it simply, you don't understand it well enough.
-> 	- Albert Einstein
+> The good thing about science is that it’s true whether or not you believe in it.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
