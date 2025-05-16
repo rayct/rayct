@@ -1,9 +1,9 @@
 # Welcome
 
-May 15th, 2025
+May 16th, 2025
 
 ### Daily Quote:
-> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
 > 	- Richard Feynman
 
 Stay Curious and keep Exploring!
