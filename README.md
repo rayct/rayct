@@ -1,9 +1,9 @@
 # Welcome
 
-May 16th, 2025
+May 17th, 2025
 
 ### Daily Quote:
-> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
-> 	- Richard Feynman
+> Research is what I'm doing when I don't know what I'm doing.
+> 	- Wernher von Braun
 
 Stay Curious and keep Exploring!
