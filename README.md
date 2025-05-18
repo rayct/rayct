@@ -1,9 +1,9 @@
 # Welcome
 
-May 17th, 2025
+May 18th, 2025
 
 ### Daily Quote:
-> Research is what I'm doing when I don't know what I'm doing.
-> 	- Wernher von Braun
+> We are like butterflies who flutter for a day and think it is forever.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
