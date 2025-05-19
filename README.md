@@ -1,9 +1,9 @@
 # Welcome
 
-May 18th, 2025
+May 19th, 2025
 
 ### Daily Quote:
-> We are like butterflies who flutter for a day and think it is forever.
-> 	- Carl Sagan
+> I think we have a great responsibility to understand our role in the universe.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
