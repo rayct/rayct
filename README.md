@@ -1,9 +1,9 @@
 # Welcome
 
-May 19th, 2025
+May 20th, 2025
 
 ### Daily Quote:
-> I think we have a great responsibility to understand our role in the universe.
-> 	- Neil deGrasse Tyson
+> Science is the great antidote to the poison of enthusiasm and superstition.
+> 	- Adam Smith
 
 Stay Curious and keep Exploring!
