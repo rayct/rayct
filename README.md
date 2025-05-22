@@ -1,9 +1,9 @@
 # Welcome
 
-May 21st, 2025
+May 22nd, 2025
 
 ### Daily Quote:
-> The good thing about science is that it’s true whether or not you believe in it.
-> 	- Neil deGrasse Tyson
+> Everything is theoretically impossible, until it is done.
+> 	- Robert A. Heinlein
 
 Stay Curious and keep Exploring!
