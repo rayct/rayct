@@ -1,9 +1,9 @@
 # Welcome
 
-May 23rd, 2025
+May 24th, 2025
 
 ### Daily Quote:
-> Exploration is in our nature. We began as wanderers, and we are wanderers still.
-> 	- Carl Sagan
+> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
+> 	- William Lawrence Bragg
 
 Stay Curious and keep Exploring!
