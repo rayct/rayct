@@ -1,9 +1,9 @@
 # Welcome
 
-May 27th, 2025
+May 28th, 2025
 
 ### Daily Quote:
-> If I have seen further it is by standing on the shoulders of giants.
-> 	- Isaac Newton
+> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+> 	- Jules Verne
 
 Stay Curious and keep Exploring!
