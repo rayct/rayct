@@ -1,9 +1,9 @@
 # Welcome
 
-May 28th, 2025
+May 29th, 2025
 
 ### Daily Quote:
-> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
-> 	- Jules Verne
+> Physics is not about how the world is, it is about what we can say about the world.
+> 	- Niels Bohr
 
 Stay Curious and keep Exploring!
