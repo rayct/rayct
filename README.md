@@ -1,9 +1,9 @@
 # Welcome
 
-June 2nd, 2025
+June 3rd, 2025
 
 ### Daily Quote:
-> Everything is theoretically impossible, until it is done.
-> 	- Robert A. Heinlein
+> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
+> 	- Edwin Powell Hubble
 
 Stay Curious and keep Exploring!
