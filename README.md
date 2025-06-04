@@ -1,9 +1,9 @@
 # Welcome
 
-June 3rd, 2025
+June 4th, 2025
 
 ### Daily Quote:
-> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-> 	- Edwin Powell Hubble
+> The universe is not only stranger than we imagine, it is stranger than we can imagine.
+> 	- J.B.S. Haldane
 
 Stay Curious and keep Exploring!
