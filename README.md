@@ -1,6 +1,6 @@
 # Welcome
 
-June 5th, 2025
+June 6th, 2025
 
 ### Daily Quote:
 > Science is a way of thinking much more than it is a body of knowledge.
