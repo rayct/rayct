@@ -1,9 +1,9 @@
 # Welcome
 
-June 6th, 2025
+June 7th, 2025
 
 ### Daily Quote:
-> Science is a way of thinking much more than it is a body of knowledge.
-> 	- Carl Sagan
+> Science is the great antidote to the poison of enthusiasm and superstition.
+> 	- Adam Smith
 
 Stay Curious and keep Exploring!
