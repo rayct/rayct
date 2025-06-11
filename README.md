@@ -1,9 +1,9 @@
 # Welcome
 
-June 10th, 2025
+June 11th, 2025
 
 ### Daily Quote:
-> I would rather have questions that can't be answered than answers that can't be questioned.
-> 	- Richard Feynman
+> If I have seen further it is by standing on the shoulders of giants.
+> 	- Isaac Newton
 
 Stay Curious and keep Exploring!
