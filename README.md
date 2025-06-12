@@ -1,9 +1,9 @@
 # Welcome
 
-June 11th, 2025
+June 12th, 2025
 
 ### Daily Quote:
-> If I have seen further it is by standing on the shoulders of giants.
-> 	- Isaac Newton
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
