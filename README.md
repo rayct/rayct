@@ -1,9 +1,9 @@
 # Welcome
 
-June 12th, 2025
+June 13th, 2025
 
 ### Daily Quote:
-> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
-> 	- Richard Feynman
+> Science is the great antidote to the poison of enthusiasm and superstition.
+> 	- Adam Smith
 
 Stay Curious and keep Exploring!
