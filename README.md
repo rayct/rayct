@@ -1,9 +1,9 @@
 # Welcome
 
-June 13th, 2025
+June 14th, 2025
 
 ### Daily Quote:
-> Science is the great antidote to the poison of enthusiasm and superstition.
-> 	- Adam Smith
+> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+> 	- Jules Verne
 
 Stay Curious and keep Exploring!
