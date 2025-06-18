@@ -1,9 +1,9 @@
 # Welcome
 
-June 17th, 2025
+June 18th, 2025
 
 ### Daily Quote:
-> The universe is not only stranger than we imagine, it is stranger than we can imagine.
-> 	- J.B.S. Haldane
+> The whole of science is nothing more than a refinement of everyday thinking.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
