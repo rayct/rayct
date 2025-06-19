@@ -1,9 +1,9 @@
 # Welcome
 
-June 18th, 2025
+June 19th, 2025
 
 ### Daily Quote:
-> The whole of science is nothing more than a refinement of everyday thinking.
-> 	- Albert Einstein
+> The good thing about science is that it’s true whether or not you believe in it.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
