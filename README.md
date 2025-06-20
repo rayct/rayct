@@ -1,9 +1,9 @@
 # Welcome
 
-June 19th, 2025
+June 20th, 2025
 
 ### Daily Quote:
-> The good thing about science is that it’s true whether or not you believe in it.
-> 	- Neil deGrasse Tyson
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
