@@ -1,9 +1,9 @@
 # Welcome
 
-June 20th, 2025
+June 21st, 2025
 
 ### Daily Quote:
-> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-> 	- Carl Sagan
+> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
