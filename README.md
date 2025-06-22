@@ -1,9 +1,9 @@
 # Welcome
 
-June 21st, 2025
+June 22nd, 2025
 
 ### Daily Quote:
-> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
-> 	- Richard P. Feynman
+> Exploration is in our nature. We began as wanderers, and we are wanderers still.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
