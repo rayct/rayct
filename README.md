@@ -1,9 +1,9 @@
 # Welcome
 
-June 22nd, 2025
+June 23rd, 2025
 
 ### Daily Quote:
-> Exploration is in our nature. We began as wanderers, and we are wanderers still.
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
