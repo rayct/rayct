@@ -1,9 +1,9 @@
 # Welcome
 
-June 23rd, 2025
+June 24th, 2025
 
 ### Daily Quote:
-> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-> 	- Carl Sagan
+> In science, there are no shortcuts to truth.
+> 	- Karl Popper
 
 Stay Curious and keep Exploring!
