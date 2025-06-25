@@ -1,9 +1,9 @@
 # Welcome
 
-June 24th, 2025
+June 25th, 2025
 
 ### Daily Quote:
-> In science, there are no shortcuts to truth.
-> 	- Karl Popper
+> The good thing about science is that it’s true whether or not you believe in it.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
