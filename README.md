@@ -1,9 +1,9 @@
 # Welcome
 
-June 28th, 2025
+June 29th, 2025
 
 ### Daily Quote:
-> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-> 	- Carl Sagan
+> The universe is under no obligation to make sense to you.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
