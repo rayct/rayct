@@ -77,3 +77,8 @@ Alternatively, you can use the GitHub API to trigger a workflow remotely:
 ### Summary
 - **Use `gh` CLI**: Simpler and more user-friendly for triggering workflows remotely.
 - **Use cURL with GitHub API**: More flexible for automation and advanced use cases.
+
+---
+
+**Documentation By:** Raymond C. Turner
+**Date:** 2nd July, 2025
