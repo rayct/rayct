@@ -1,9 +1,9 @@
 # Welcome
 
-July 1st, 2025
+July 2nd, 2025
 
 ### Daily Quote:
-> The universe seems neither benign nor hostile, merely indifferent.
-> 	- Carl Sagan
+> I would rather have questions that can't be answered than answers that can't be questioned.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
