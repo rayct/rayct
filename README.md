@@ -1,9 +1,9 @@
 # Welcome
 
-July 6th, 2025
+July 7th, 2025
 
 ### Daily Quote:
-> Research is what I'm doing when I don't know what I'm doing.
-> 	- Wernher von Braun
+> The universe is not only stranger than we imagine, it is stranger than we can imagine.
+> 	- J.B.S. Haldane
 
 Stay Curious and keep Exploring!
