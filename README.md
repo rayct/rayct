@@ -1,9 +1,9 @@
 # Welcome
 
-July 7th, 2025
+July 8th, 2025
 
 ### Daily Quote:
-> The universe is not only stranger than we imagine, it is stranger than we can imagine.
-> 	- J.B.S. Haldane
+> Exploration is in our nature. We began as wanderers, and we are wanderers still.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
