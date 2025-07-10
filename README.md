@@ -1,9 +1,9 @@
 # Welcome
 
-July 9th, 2025
+July 10th, 2025
 
 ### Daily Quote:
-> In science, there are no shortcuts to truth.
-> 	- Karl Popper
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
