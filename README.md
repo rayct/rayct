@@ -1,9 +1,9 @@
 # Welcome
 
-July 11th, 2025
+July 12th, 2025
 
 ### Daily Quote:
-> I would rather have questions that can't be answered than answers that can't be questioned.
-> 	- Richard Feynman
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
