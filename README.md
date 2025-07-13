@@ -1,9 +1,9 @@
 # Welcome
 
-July 12th, 2025
+July 13th, 2025
 
 ### Daily Quote:
-> Science is a way of thinking much more than it is a body of knowledge.
-> 	- Carl Sagan
+> The beauty of a flower is a scientific fact.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
