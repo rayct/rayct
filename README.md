@@ -1,9 +1,9 @@
 # Welcome
 
-July 13th, 2025
+July 14th, 2025
 
 ### Daily Quote:
-> The beauty of a flower is a scientific fact.
-> 	- Richard P. Feynman
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
