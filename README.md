@@ -1,9 +1,9 @@
 # Welcome
 
-July 15th, 2025
+July 16th, 2025
 
 ### Daily Quote:
-> Physics is not about how the world is, it is about what we can say about the world.
-> 	- Niels Bohr
+> The whole of science is nothing more than a refinement of everyday thinking.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
