@@ -1,9 +1,9 @@
 # Welcome
 
-July 20th, 2025
+July 21st, 2025
 
 ### Daily Quote:
-> I would rather have questions that can't be answered than answers that can't be questioned.
-> 	- Richard Feynman
+> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+> 	- Jules Verne
 
 Stay Curious and keep Exploring!
