@@ -1,9 +1,9 @@
 # Welcome
 
-July 21st, 2025
+July 22nd, 2025
 
 ### Daily Quote:
-> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
-> 	- Jules Verne
+> Exploration is in our nature. We began as wanderers, and we are wanderers still.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
