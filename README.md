@@ -1,9 +1,9 @@
 # Welcome
 
-July 22nd, 2025
+July 23rd, 2025
 
 ### Daily Quote:
-> Exploration is in our nature. We began as wanderers, and we are wanderers still.
-> 	- Carl Sagan
+> Everything is theoretically impossible, until it is done.
+> 	- Robert A. Heinlein
 
 Stay Curious and keep Exploring!
