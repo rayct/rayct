@@ -1,9 +1,9 @@
 # Welcome
 
-July 24th, 2025
+July 25th, 2025
 
 ### Daily Quote:
-> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
-> 	- Richard Feynman
+> Mathematics is the language with which God has written the universe.
+> 	- Galileo Galilei
 
 Stay Curious and keep Exploring!
