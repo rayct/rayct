@@ -1,9 +1,9 @@
 # Welcome
 
-July 25th, 2025
+July 26th, 2025
 
 ### Daily Quote:
-> Mathematics is the language with which God has written the universe.
-> 	- Galileo Galilei
+> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+> 	- Jules Verne
 
 Stay Curious and keep Exploring!
