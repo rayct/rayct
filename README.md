@@ -1,9 +1,9 @@
 # Welcome
 
-July 27th, 2025
+July 28th, 2025
 
 ### Daily Quote:
-> The laws of physics are the same everywhere in the universe.
-> 	- Stephen Hawking
+> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
+> 	- Edwin Powell Hubble
 
 Stay Curious and keep Exploring!
