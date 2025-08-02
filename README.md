@@ -1,9 +1,9 @@
 # Welcome
 
-August 1st, 2025
+August 2nd, 2025
 
 ### Daily Quote:
-> I would rather have questions that can't be answered than answers that can't be questioned.
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
 > 	- Richard Feynman
 
 Stay Curious and keep Exploring!
