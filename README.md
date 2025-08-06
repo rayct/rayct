@@ -1,9 +1,9 @@
 # Welcome
 
-August 5th, 2025
+August 6th, 2025
 
 ### Daily Quote:
-> The laws of physics are the same everywhere in the universe.
-> 	- Stephen Hawking
+> The universe is under no obligation to make sense to you.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
