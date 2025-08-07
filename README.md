@@ -1,9 +1,9 @@
 # Welcome
 
-August 6th, 2025
+August 7th, 2025
 
 ### Daily Quote:
-> The universe is under no obligation to make sense to you.
-> 	- Neil deGrasse Tyson
+> Mathematics is the language with which God has written the universe.
+> 	- Galileo Galilei
 
 Stay Curious and keep Exploring!
