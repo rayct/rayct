@@ -1,9 +1,9 @@
 # Welcome
 
-August 7th, 2025
+August 8th, 2025
 
 ### Daily Quote:
-> Mathematics is the language with which God has written the universe.
-> 	- Galileo Galilei
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!
