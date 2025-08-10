@@ -1,9 +1,9 @@
 # Welcome
 
-August 9th, 2025
+August 10th, 2025
 
 ### Daily Quote:
-> The universe seems neither benign nor hostile, merely indifferent.
+> Science is a way of thinking much more than it is a body of knowledge.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
