@@ -1,9 +1,9 @@
 # Welcome
 
-August 10th, 2025
+August 11th, 2025
 
 ### Daily Quote:
-> Science is a way of thinking much more than it is a body of knowledge.
-> 	- Carl Sagan
+> Physics is not about how the world is, it is about what we can say about the world.
+> 	- Niels Bohr
 
 Stay Curious and keep Exploring!
