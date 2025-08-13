@@ -1,9 +1,9 @@
 # Welcome
 
-August 12th, 2025
+August 13th, 2025
 
 ### Daily Quote:
-> Exploration is in our nature. We began as wanderers, and we are wanderers still.
-> 	- Carl Sagan
+> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
