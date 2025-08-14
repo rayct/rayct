@@ -1,9 +1,9 @@
 # Welcome
 
-August 13th, 2025
+August 14th, 2025
 
 ### Daily Quote:
-> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
-> 	- Richard Feynman
+> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
+> 	- J. B. S. Haldane
 
 Stay Curious and keep Exploring!
