@@ -1,9 +1,9 @@
 # Welcome
 
-August 16th, 2025
+August 17th, 2025
 
 ### Daily Quote:
-> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
-> 	- William Lawrence Bragg
+> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+> 	- Jules Verne
 
 Stay Curious and keep Exploring!
