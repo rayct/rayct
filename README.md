@@ -1,9 +1,9 @@
 # Welcome
 
-August 19th, 2025
+August 20th, 2025
 
 ### Daily Quote:
-> The important thing is not to stop questioning. Curiosity has its own reason for existing.
-> 	- Albert Einstein
+> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
