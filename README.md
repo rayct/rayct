@@ -1,9 +1,9 @@
 # Welcome
 
-August 20th, 2025
+August 21st, 2025
 
 ### Daily Quote:
-> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
-> 	- Richard Feynman
+> If you can't explain it simply, you don't understand it well enough.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
