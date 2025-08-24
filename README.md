@@ -1,9 +1,9 @@
 # Welcome
 
-August 23rd, 2025
+August 24th, 2025
 
 ### Daily Quote:
-> The good thing about science is that it’s true whether or not you believe in it.
-> 	- Neil deGrasse Tyson
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
