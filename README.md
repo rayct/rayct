@@ -1,9 +1,9 @@
 # Welcome
 
-August 24th, 2025
+August 25th, 2025
 
 ### Daily Quote:
-> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
-> 	- Richard Feynman
+> I think we have a great responsibility to understand our role in the universe.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
