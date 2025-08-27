@@ -1,9 +1,9 @@
 # Welcome
 
-August 26th, 2025
+August 27th, 2025
 
 ### Daily Quote:
-> Science is the great antidote to the poison of enthusiasm and superstition.
-> 	- Adam Smith
+> The important thing is not to stop questioning. Curiosity has its own reason for existing.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
