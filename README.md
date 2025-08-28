@@ -1,9 +1,9 @@
 # Welcome
 
-August 27th, 2025
+August 28th, 2025
 
 ### Daily Quote:
-> The important thing is not to stop questioning. Curiosity has its own reason for existing.
-> 	- Albert Einstein
+> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
