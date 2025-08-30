@@ -1,9 +1,9 @@
 # Welcome
 
-August 29th, 2025
+August 30th, 2025
 
 ### Daily Quote:
-> Time is an illusion. Lunchtime doubly so.
-> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+> The whole of science is nothing more than a refinement of everyday thinking.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
