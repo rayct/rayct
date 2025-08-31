@@ -1,9 +1,9 @@
 # Welcome
 
-August 30th, 2025
+August 31st, 2025
 
 ### Daily Quote:
-> The whole of science is nothing more than a refinement of everyday thinking.
-> 	- Albert Einstein
+> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
