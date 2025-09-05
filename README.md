@@ -1,9 +1,9 @@
 # Welcome
 
-September 4th, 2025
+September 5th, 2025
 
 ### Daily Quote:
-> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-> 	- Edwin Powell Hubble
+> Somewhere, something incredible is waiting to be known.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
