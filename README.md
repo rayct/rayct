@@ -1,9 +1,9 @@
 # Welcome
 
-September 5th, 2025
+September 6th, 2025
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be known.
+> Exploration is in our nature. We began as wanderers, and we are wanderers still.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
