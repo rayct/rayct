@@ -1,9 +1,9 @@
 # Welcome
 
-September 7th, 2025
+September 8th, 2025
 
 ### Daily Quote:
-> Physics is not about how the world is, it is about what we can say about the world.
-> 	- Niels Bohr
+> The good thing about science is that it’s true whether or not you believe in it.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
