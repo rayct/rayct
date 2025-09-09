@@ -1,9 +1,9 @@
 # Welcome
 
-September 8th, 2025
+September 9th, 2025
 
 ### Daily Quote:
-> The good thing about science is that it’s true whether or not you believe in it.
+> The universe is under no obligation to make sense to you.
 > 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
