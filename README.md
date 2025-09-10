@@ -1,9 +1,9 @@
 # Welcome
 
-September 9th, 2025
+September 10th, 2025
 
 ### Daily Quote:
-> The universe is under no obligation to make sense to you.
-> 	- Neil deGrasse Tyson
+> Time is an illusion. Lunchtime doubly so.
+> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
 
 Stay Curious and keep Exploring!
