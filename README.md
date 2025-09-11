@@ -1,9 +1,9 @@
 # Welcome
 
-September 10th, 2025
+September 11th, 2025
 
 ### Daily Quote:
-> Time is an illusion. Lunchtime doubly so.
-> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+> To confine our attention to terrestrial matters would be to limit the human spirit.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
