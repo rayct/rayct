@@ -1,9 +1,9 @@
 # Welcome
 
-September 12th, 2025
+September 13th, 2025
 
 ### Daily Quote:
-> Everything is theoretically impossible, until it is done.
-> 	- Robert A. Heinlein
+> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
