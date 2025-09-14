@@ -1,9 +1,9 @@
 # Welcome
 
-September 13th, 2025
+September 14th, 2025
 
 ### Daily Quote:
-> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
-> 	- Carl Sagan
+> The whole of science is nothing more than a refinement of everyday thinking.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
