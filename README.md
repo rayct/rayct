@@ -1,9 +1,9 @@
 # Welcome
 
-September 16th, 2025
+September 17th, 2025
 
 ### Daily Quote:
-> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
-> 	- J. B. S. Haldane
+> Time is an illusion. Lunchtime doubly so.
+> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
 
 Stay Curious and keep Exploring!
