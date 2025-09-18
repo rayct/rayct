@@ -1,9 +1,9 @@
 # Welcome
 
-September 17th, 2025
+September 18th, 2025
 
 ### Daily Quote:
-> Time is an illusion. Lunchtime doubly so.
-> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+> 	- Jules Verne
 
 Stay Curious and keep Exploring!
