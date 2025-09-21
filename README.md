@@ -1,9 +1,9 @@
 # Welcome
 
-September 20th, 2025
+September 21st, 2025
 
 ### Daily Quote:
-> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-> 	- Carl Sagan
+> Time is an illusion. Lunchtime doubly so.
+> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
 
 Stay Curious and keep Exploring!
