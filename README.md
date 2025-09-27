@@ -1,9 +1,9 @@
 # Welcome
 
-September 26th, 2025
+September 27th, 2025
 
 ### Daily Quote:
-> The universe is under no obligation to make sense to you.
-> 	- Neil deGrasse Tyson
+> We are like butterflies who flutter for a day and think it is forever.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
