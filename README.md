@@ -1,9 +1,9 @@
 # Welcome
 
-September 28th, 2025
+September 29th, 2025
 
 ### Daily Quote:
-> The most incomprehensible thing about the world is that it is comprehensible.
-> 	- Albert Einstein
+> The universe is not only stranger than we imagine, it is stranger than we can imagine.
+> 	- J.B.S. Haldane
 
 Stay Curious and keep Exploring!
