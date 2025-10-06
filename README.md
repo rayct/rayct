@@ -1,9 +1,9 @@
 # Welcome
 
-October 5th, 2025
+October 6th, 2025
 
 ### Daily Quote:
-> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-> 	- Edwin Powell Hubble
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
