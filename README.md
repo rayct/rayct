@@ -1,9 +1,9 @@
 # Welcome
 
-October 6th, 2025
+October 7th, 2025
 
 ### Daily Quote:
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-> 	- Albert Einstein
+> If I have seen further it is by standing on the shoulders of giants.
+> 	- Isaac Newton
 
 Stay Curious and keep Exploring!
