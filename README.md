@@ -1,9 +1,9 @@
 # Welcome
 
-October 13th, 2025
+October 14th, 2025
 
 ### Daily Quote:
-> The whole of science is nothing more than a refinement of everyday thinking.
+> If you can't explain it simply, you don't understand it well enough.
 > 	- Albert Einstein
 
 Stay Curious and keep Exploring!
