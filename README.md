@@ -3,7 +3,7 @@
 October 15th, 2025
 
 ### Daily Quote:
-> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+> The universe seems neither benign nor hostile, merely indifferent.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
