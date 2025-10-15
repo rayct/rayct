@@ -80,5 +80,5 @@ Alternatively, you can use the GitHub API to trigger a workflow remotely:
 
 ---
 
-**Documentation By:** Raymond C. Turner
-**Date:** 15th July, 2025
+_**Documentation Maintained By:** Raymond C. Turner_
+_**Date:** 15th July, 2025_
