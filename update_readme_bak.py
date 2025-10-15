@@ -1,155 +1,113 @@
-import os
 import random
+import datetime
+from zoneinfo import ZoneInfo
 
-# --- Master list of quotes (original + new ones) ---
-quotes = [
-    """Science is a way of thinking much more than it is a body of knowledge.
-	- Carl Sagan""",
-    """The important thing is not to stop questioning. Curiosity has its own reason for existing.
-	- Albert Einstein""",
-    """Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-	- Edwin Powell Hubble""",
-    """Somewhere, something incredible is waiting to be known.
-	- Carl Sagan""",
-    """Science is organized knowledge. Wisdom is organized life.
-	- Immanuel Kant""",
-    """The good thing about science is that it’s true whether or not you believe in it.
-	- Neil deGrasse Tyson""",
-    """If you can't explain it simply, you don't understand it well enough.
-	- Albert Einstein""",
-    """The most incomprehensible thing about the world is that it is comprehensible.
-	- Albert Einstein""",
-    """The universe is under no obligation to make sense to you.
-	- Neil deGrasse Tyson""",
-    """There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-	- Albert Einstein""",
-    """To confine our attention to terrestrial matters would be to limit the human spirit.
-	- Stephen Hawking""",
-    """We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-	- Carl Sagan""",
-    """The universe is not only stranger than we imagine, it is stranger than we can imagine.
-	- J.B.S. Haldane""",
-    """Physics is not about how the world is, it is about what we can say about the world.
-	- Niels Bohr""",
-    """The beauty of a flower is a scientific fact.
-	- Richard P. Feynman""",
-    """Time is an illusion. Lunchtime doubly so.
-	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*""",
-    """I think we have a great responsibility to understand our role in the universe.
-	- Neil deGrasse Tyson""",
-    """The whole of science is nothing more than a refinement of everyday thinking.
-	- Albert Einstein""",
-    """I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
-	- J. B. S. Haldane""",
-    """The laws of physics are the same everywhere in the universe.
-	- Stephen Hawking""",
-    """We are like butterflies who flutter for a day and think it is forever.
-	- Carl Sagan""",
-    """Everything is theoretically impossible, until it is done.
-	- Robert A. Heinlein""",
-    """Astronomy compels the soul to look upwards and leads us from this world to another.
-	- Plato""",
-    """The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
-	- Richard P. Feynman""",
-    """In science, there are no shortcuts to truth.
-	- Karl Popper""",
-    """Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
-	- Richard Feynman""",
-    """I would rather have questions that can't be answered than answers that can't be questioned.
-	- Richard Feynman""",
-    """If I have seen further it is by standing on the shoulders of giants.
-	- Isaac Newton""",
-    """The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
-	- Isaac Asimov""",
-    """Mathematics is the language with which God has written the universe.
-	- Galileo Galilei""",
-    """Research is what I'm doing when I don't know what I'm doing.
-	- Wernher von Braun""",
-    """It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
-	- Carl Sagan""",
-    """The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
-	- William Lawrence Bragg""",
-    """Science is the great antidote to the poison of enthusiasm and superstition.
-	- Adam Smith""",
-    """The universe is full of magical things patiently waiting for our wits to grow sharper.
-	- Eden Phillpotts""",
-    """Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
-	- Jules Verne""",
-    """Exploration is in our nature. We began as wanderers, and we are wanderers still.
-	- Carl Sagan""",
-    """For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
-	- Carl Sagan""",
-    """I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
-	- Richard Feynman""",
-    """The universe seems neither benign nor hostile, merely indifferent.
-	- Carl Sagan""",
-    """Nothing in life is to be feared, it is only to be understood.
-	- Marie Curie""",
-    """An experiment is a question which science poses to Nature, and a measurement is the recording of Nature’s answer.
-	- Max Planck""",
-    """The task is not so much to see what no one yet has seen, but to think what nobody yet has thought about that which everybody sees.
-	- Erwin Schrödinger""",
-    """The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
-	- Nikola Tesla""",
-    """Look deep into nature, and then you will understand everything better.
-	- Albert Einstein""",
-    """The scientist is not a person who gives the right answers, he’s one who asks the right questions.
-	- Claude Lévi-Strauss""",
-    """What we observe is not nature itself, but nature exposed to our method of questioning.
-	- Werner Heisenberg""",
-    """Intelligence is the ability to adapt to change.
-	- Stephen Hawking""",
-    """The cure for boredom is curiosity. There is no cure for curiosity.
-	- Dorothy Parker""",
-    """He who is fixed to a star does not change his mind.
-	- Leonardo da Vinci""",
-    """We are an impossibility in an impossible universe.
-	- Ray Bradbury""",
-    """We can only see a short distance ahead, but we can see plenty there that needs to be done.
-	- Alan Turing""",
-    """We still do not know one thousandth of one percent of what nature has revealed to us.
-	- Albert Einstein""",
-    """I am among those who think that science has great beauty.
-	- Marie Curie""",
-    """Only those who attempt the absurd can achieve the impossible.
-	- Albert Einstein""",
-    """Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
-	- Louis Pasteur""",
-    """It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
-	- Carl Friedrich Gauss""",
-    """The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
-	- Stephen Hawking""",
-    """The more I study science, the more I believe in God.
-	- Albert Einstein""",
-    """Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
-	- Jane Goodall"""
+def load_quotes(filename="quotes.txt"):
+    """Load quotes from a text file, separated by blank lines."""
+    try:
+        with open(filename, "r", encoding="utf-8") as f:
+            content = f.read().strip()
+        return [q.strip() for q in content.split("\n\n") if q.strip()]
+    except FileNotFoundError:
+        return []
+
+def save_quotes(quotes, filename="quotes.txt"):
+    """Save quotes to file, ensuring blank lines between each quote."""
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write("\n\n".join(quotes) + "\n")
+
+def make_blockquote(text):
+    """Prefix each line in the quote block with '> ' for Markdown blockquote."""
+    return "\n".join("> " + line for line in text.splitlines())
+
+def ordinal(n):
+    """Convert an integer into its ordinal representation (1st, 2nd, etc.)."""
+    if 11 <= (n % 100) <= 13:
+        suffix = "th"
+    else:
+        suffix = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
+    return str(n) + suffix
+
+# New quotes to ensure they are present
+new_quotes = [
+    """The art and science of asking questions is the source of all knowledge.
+\t- Thomas Berger""",
+    """Every brilliant experiment, like every great work of art, starts with an act of imagination.
+\t- Jonah Lehrer""",
+    """The first principle is that you must not fool yourself—and you are the easiest person to fool.
+\t- Richard Feynman""",
+    """In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
+\t- Geoffrey Hinton""",
+    """We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
+\t- Carl Sagan""",
+    """Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
+\t- William Ramsay""",
+    """It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
+\t- Georg C. Lichtenberg""",
+    """It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
+\t- Charles Darwin""",
+    """The greatest scientists are artists as well.
+\t- Albert Einstein""",
+    """Science is nothing but perception.
+\t- Plato""",
+    """The scientist is motivated primarily by curiosity and a desire for truth.
+\t- Irving Langmuir""",
+    """The good thing about science is that it’s self-correcting.
+\t- Neil deGrasse Tyson""",
+    """All science is either physics or stamp collecting.
+\t- Ernest Rutherford""",
+    """The purpose of computing is insight, not numbers.
+\t- Richard Hamming""",
+    """Somewhere, something incredible is waiting to be discovered.
+\t- Carl Sagan""",
+    """A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
+\t- George Wald""",
+    """Science without religion is lame, religion without science is blind.
+\t- Albert Einstein""",
+    """In science, we must be interested in things, not in persons.
+\t- Marie Curie""",
+    """The future belongs to those who believe in the beauty of their dreams.
+\t- Eleanor Roosevelt""",
+    """Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
+\t- Jacob Bronowski"""
 ]
 
-# --- Read existing quotes if file exists ---
-existing_quotes = set()
-if os.path.exists("quotes.txt"):
-    with open("quotes.txt", "r", encoding="utf-8") as f:
-        content = f.read().strip()
-        if content:
-            for block in content.split("\n\n"):
-                q = block.strip()
-                if q:
-                    existing_quotes.add(q)
+# Load current quotes and add new ones if missing
+quotes = load_quotes("quotes.txt")
+existing_set = set(quotes)
+for q in new_quotes:
+    if q not in existing_set:
+        quotes.append(q)
+        existing_set.add(q)
 
-# --- Add new quotes that are not duplicates ---
-new_quotes = []
-for q in quotes:
-    q_clean = q.strip()
-    if q_clean not in existing_quotes:
-        new_quotes.append(q_clean)
-        existing_quotes.add(q_clean)
+# Shuffle quotes randomly before saving
+random.shuffle(quotes)
+save_quotes(quotes, "quotes.txt")
 
-# --- Preserve random order (no sorting) ---
-final_quotes = list(existing_quotes)
-random.shuffle(final_quotes)
+# Choose a random quote for the day
+quote = random.choice(quotes)
+blockquote_quote = make_blockquote(quote)
 
-# --- Write back to quotes.txt ---
-with open("quotes.txt", "w", encoding="utf-8") as f:
-    f.write("\n\n".join(final_quotes) + "\n")
+# Get current date
+now = datetime.datetime.now(ZoneInfo("Europe/London"))
+month = now.strftime("%B")
+day = ordinal(now.day)
+year = now.year
+current_date = f"{month} {day}, {year}"
 
-print(f"✅ quotes.txt updated with {len(new_quotes)} new quotes. Total now: {len(final_quotes)}.")
+# Create README.md content
+readme_content = f"""# Welcome
+
+{current_date}
+
+### Daily Quote:
+{blockquote_quote}
+
+Stay Curious and keep Exploring!
+"""
+
+with open("README.md", "w", encoding="utf-8") as readme_file:
+    readme_file.write(readme_content)
+
+print("✅ README updated successfully with a random quote!")
+print(f"📚 Total quotes available: {len(quotes)}")
