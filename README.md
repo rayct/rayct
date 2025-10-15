@@ -3,7 +3,7 @@
 October 15th, 2025
 
 ### Daily Quote:
-> The universe is under no obligation to make sense to you.
-> 	- Neil deGrasse Tyson
+> The art and science of asking questions is the source of all knowledge.
+> 	- Thomas Berger
 
 Stay Curious and keep Exploring!
