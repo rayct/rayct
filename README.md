@@ -3,7 +3,7 @@
 October 15th, 2025
 
 ### Daily Quote:
-> In science, we must be interested in things, not in persons.
-> 	- Marie Curie
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!

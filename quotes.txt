@@ -1,164 +1,155 @@
-Research is what I'm doing when I don't know what I'm doing.
-	- Wernher von Braun
-
-In science, there are no shortcuts to truth.
-	- Karl Popper
-
-The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
-	- Isaac Asimov
-
-Somewhere, something incredible is waiting to be discovered.
-	- Carl Sagan
-
-An experiment is a question which science poses to Nature, and a measurement is the recording of Nature’s answer.
-	- Max Planck
-
-Only those who attempt the absurd can achieve the impossible.
-	- Albert Einstein
-
-The most incomprehensible thing about the world is that it is comprehensible.
-	- Albert Einstein
-
 I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
 	- J. B. S. Haldane
-
-Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
-	- Jacob Bronowski
-
-Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
-	- William Ramsay
-
-Everything is theoretically impossible, until it is done.
-	- Robert A. Heinlein
-
-If you can't explain it simply, you don't understand it well enough.
-	- Albert Einstein
-
-In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
-	- Geoffrey Hinton
-
-Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-	- Edwin Powell Hubble
-
-I think we have a great responsibility to understand our role in the universe.
-	- Neil deGrasse Tyson
 
 All science is either physics or stamp collecting.
 	- Ernest Rutherford
 
-The universe is not only stranger than we imagine, it is stranger than we can imagine.
-	- J.B.S. Haldane
-
-Intelligence is the ability to adapt to change.
-	- Stephen Hawking
-
-We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
-	- Carl Sagan
-
-Science is organized knowledge. Wisdom is organized life.
-	- Immanuel Kant
-
-Somewhere, something incredible is waiting to be known.
-	- Carl Sagan
-
-I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
-	- Richard Feynman
-
-The good thing about science is that it’s true whether or not you believe in it.
-	- Neil deGrasse Tyson
-
-For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
-	- Carl Sagan
-
-Nothing in life is to be feared, it is only to be understood.
-	- Marie Curie
-
-The scientist is motivated primarily by curiosity and a desire for truth.
-	- Irving Langmuir
-
-I am among those who think that science has great beauty.
-	- Marie Curie
-
-The laws of physics are the same everywhere in the universe.
-	- Stephen Hawking
-
-Science is the great antidote to the poison of enthusiasm and superstition.
-	- Adam Smith
-
-The universe seems neither benign nor hostile, merely indifferent.
-	- Carl Sagan
-
-We still do not know one thousandth of one percent of what nature has revealed to us.
+The most incomprehensible thing about the world is that it is comprehensible.
 	- Albert Einstein
 
-We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-	- Carl Sagan
-
-A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
-	- George Wald
-
-What we observe is not nature itself, but nature exposed to our method of questioning.
-	- Werner Heisenberg
-
-The first principle is that you must not fool yourself—and you are the easiest person to fool.
-	- Richard Feynman
-
-He who is fixed to a star does not change his mind.
-	- Leonardo da Vinci
-
-It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
-	- Charles Darwin
+Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+	- Jules Verne
 
 We are an impossibility in an impossible universe.
 	- Ray Bradbury
 
-The more I study science, the more I believe in God.
-	- Albert Einstein
+The universe seems neither benign nor hostile, merely indifferent.
+	- Carl Sagan
 
-The scientist is not a person who gives the right answers, he’s one who asks the right questions.
-	- Claude Lévi-Strauss
-
-Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
-	- Jane Goodall
-
-The art and science of asking questions is the source of all knowledge.
-	- Thomas Berger
+The laws of physics are the same everywhere in the universe.
+	- Stephen Hawking
 
 The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
 	- William Lawrence Bragg
 
+An experiment is a question which science poses to Nature, and a measurement is the recording of Nature’s answer.
+	- Max Planck
+
 The beauty of a flower is a scientific fact.
 	- Richard P. Feynman
 
-There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-	- Albert Einstein
-
-The important thing is not to stop questioning. Curiosity has its own reason for existing.
-	- Albert Einstein
-
-The task is not so much to see what no one yet has seen, but to think what nobody yet has thought about that which everybody sees.
-	- Erwin Schrödinger
-
-It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
-	- Georg C. Lichtenberg
-
-Time is an illusion. Lunchtime doubly so.
-	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+	- Carl Sagan
 
 If I have seen further it is by standing on the shoulders of giants.
 	- Isaac Newton
 
-The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
-	- Nikola Tesla
-
-The future belongs to those who believe in the beauty of their dreams.
-	- Eleanor Roosevelt
-
 To confine our attention to terrestrial matters would be to limit the human spirit.
 	- Stephen Hawking
 
+In science, there are no shortcuts to truth.
+	- Karl Popper
+
+Science is a way of thinking much more than it is a body of knowledge.
+	- Carl Sagan
+
+The scientist is motivated primarily by curiosity and a desire for truth.
+	- Irving Langmuir
+
+Physics is not about how the world is, it is about what we can say about the world.
+	- Niels Bohr
+
+The universe is under no obligation to make sense to you.
+	- Neil deGrasse Tyson
+
+The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+	- Isaac Asimov
+
 The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
 	- Stephen Hawking
+
+The important thing is not to stop questioning. Curiosity has its own reason for existing.
+	- Albert Einstein
+
+The greatest scientists are artists as well.
+	- Albert Einstein
+
+The art and science of asking questions is the source of all knowledge.
+	- Thomas Berger
+
+In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
+	- Geoffrey Hinton
+
+Nothing in life is to be feared, it is only to be understood.
+	- Marie Curie
+
+It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
+	- Charles Darwin
+
+The universe is not only stranger than we imagine, it is stranger than we can imagine.
+	- J.B.S. Haldane
+
+The universe is full of magical things patiently waiting for our wits to grow sharper.
+	- Eden Phillpotts
+
+He who is fixed to a star does not change his mind.
+	- Leonardo da Vinci
+
+I think we have a great responsibility to understand our role in the universe.
+	- Neil deGrasse Tyson
+
+In science, we must be interested in things, not in persons.
+	- Marie Curie
+
+Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+	- Richard Feynman
+
+The purpose of computing is insight, not numbers.
+	- Richard Hamming
+
+Science is organized knowledge. Wisdom is organized life.
+	- Immanuel Kant
+
+Research is what I'm doing when I don't know what I'm doing.
+	- Wernher von Braun
+
+We are like butterflies who flutter for a day and think it is forever.
+	- Carl Sagan
+
+It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
+	- Georg C. Lichtenberg
+
+Equipped with his five senses, man explores the universe around him and calls the adventure Science.
+	- Edwin Powell Hubble
+
+Astronomy compels the soul to look upwards and leads us from this world to another.
+	- Plato
+
+The good thing about science is that it’s true whether or not you believe in it.
+	- Neil deGrasse Tyson
+
+Everything is theoretically impossible, until it is done.
+	- Robert A. Heinlein
+
+A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
+	- George Wald
+
+Science is the great antidote to the poison of enthusiasm and superstition.
+	- Adam Smith
+
+Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
+	- Louis Pasteur
+
+Time is an illusion. Lunchtime doubly so.
+	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+
+Mathematics is the language with which God has written the universe.
+	- Galileo Galilei
+
+We still do not know one thousandth of one percent of what nature has revealed to us.
+	- Albert Einstein
+
+We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
+	- Carl Sagan
+
+Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
+	- William Ramsay
+
+The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
+	- Nikola Tesla
+
+Somewhere, something incredible is waiting to be known.
+	- Carl Sagan
 
 Every brilliant experiment, like every great work of art, starts with an act of imagination.
 	- Jonah Lehrer
@@ -166,59 +157,11 @@ Every brilliant experiment, like every great work of art, starts with an act of 
 The whole of science is nothing more than a refinement of everyday thinking.
 	- Albert Einstein
 
-Science is a way of thinking much more than it is a body of knowledge.
-	- Carl Sagan
+Intelligence is the ability to adapt to change.
+	- Stephen Hawking
 
-The universe is full of magical things patiently waiting for our wits to grow sharper.
-	- Eden Phillpotts
-
-The greatest scientists are artists as well.
-	- Albert Einstein
-
-It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
-	- Carl Sagan
-
-The cure for boredom is curiosity. There is no cure for curiosity.
-	- Dorothy Parker
-
-Look deep into nature, and then you will understand everything better.
-	- Albert Einstein
-
-Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
-	- Louis Pasteur
-
-Exploration is in our nature. We began as wanderers, and we are wanderers still.
-	- Carl Sagan
-
-Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
-	- Richard Feynman
-
-Science without religion is lame, religion without science is blind.
-	- Albert Einstein
-
-It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
-	- Carl Friedrich Gauss
-
-We can only see a short distance ahead, but we can see plenty there that needs to be done.
-	- Alan Turing
-
-I would rather have questions that can't be answered than answers that can't be questioned.
-	- Richard Feynman
-
-The purpose of computing is insight, not numbers.
-	- Richard Hamming
-
-The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
-	- Richard P. Feynman
-
-Mathematics is the language with which God has written the universe.
-	- Galileo Galilei
-
-The universe is under no obligation to make sense to you.
-	- Neil deGrasse Tyson
-
-Physics is not about how the world is, it is about what we can say about the world.
-	- Niels Bohr
+The task is not so much to see what no one yet has seen, but to think what nobody yet has thought about that which everybody sees.
+	- Erwin Schrödinger
 
 The good thing about science is that it’s self-correcting.
 	- Neil deGrasse Tyson
@@ -226,14 +169,71 @@ The good thing about science is that it’s self-correcting.
 Science is nothing but perception.
 	- Plato
 
-We are like butterflies who flutter for a day and think it is forever.
+For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
 	- Carl Sagan
 
-Astronomy compels the soul to look upwards and leads us from this world to another.
-	- Plato
+It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
+	- Carl Friedrich Gauss
 
-In science, we must be interested in things, not in persons.
+It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+	- Carl Sagan
+
+What we observe is not nature itself, but nature exposed to our method of questioning.
+	- Werner Heisenberg
+
+There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+	- Albert Einstein
+
+I am among those who think that science has great beauty.
 	- Marie Curie
 
-Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
-	- Jules Verne
+Science without religion is lame, religion without science is blind.
+	- Albert Einstein
+
+Look deep into nature, and then you will understand everything better.
+	- Albert Einstein
+
+The future belongs to those who believe in the beauty of their dreams.
+	- Eleanor Roosevelt
+
+Only those who attempt the absurd can achieve the impossible.
+	- Albert Einstein
+
+If you can't explain it simply, you don't understand it well enough.
+	- Albert Einstein
+
+Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
+	- Jane Goodall
+
+I would rather have questions that can't be answered than answers that can't be questioned.
+	- Richard Feynman
+
+Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
+	- Jacob Bronowski
+
+We can only see a short distance ahead, but we can see plenty there that needs to be done.
+	- Alan Turing
+
+Exploration is in our nature. We began as wanderers, and we are wanderers still.
+	- Carl Sagan
+
+The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
+	- Richard P. Feynman
+
+The scientist is not a person who gives the right answers, he’s one who asks the right questions.
+	- Claude Lévi-Strauss
+
+The cure for boredom is curiosity. There is no cure for curiosity.
+	- Dorothy Parker
+
+Somewhere, something incredible is waiting to be discovered.
+	- Carl Sagan
+
+The more I study science, the more I believe in God.
+	- Albert Einstein
+
+I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
+	- Richard Feynman
+
+The first principle is that you must not fool yourself—and you are the easiest person to fool.
+	- Richard Feynman
