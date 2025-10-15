@@ -3,7 +3,7 @@
 October 15th, 2025
 
 ### Daily Quote:
-> The universe seems neither benign nor hostile, merely indifferent.
-> 	- Carl Sagan
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
