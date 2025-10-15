@@ -1,5 +1,5 @@
 test_update_readme.py
 test_update_readme_test.py
 README-copy.md
-/update_readme_old.py
-/update_readme_old_test.py
+/_old/update_readme_old.py
+/_old/update_readme_old_test.py
