@@ -3,7 +3,7 @@
 October 15th, 2025
 
 ### Daily Quote:
-> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
-> 	- Richard Feynman
+> Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
+> 	- William Ramsay
 
 Stay Curious and keep Exploring!
