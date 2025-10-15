@@ -3,7 +3,7 @@
 October 15th, 2025
 
 ### Daily Quote:
-> Research is what I'm doing when I don't know what I'm doing.
-> 	- Wernher von Braun
+> What we observe is not nature itself, but nature exposed to our method of questioning.
+> 	- Werner Heisenberg
 
 Stay Curious and keep Exploring!
