@@ -1,9 +1,9 @@
 # Welcome
 
-October 17th, 2025
+October 18th, 2025
 
 ### Daily Quote:
-> Physics is not about how the world is, it is about what we can say about the world.
-> 	- Niels Bohr
+> Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
+> 	- William Ramsay
 
 Stay Curious and keep Exploring!
