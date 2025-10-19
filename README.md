@@ -1,9 +1,9 @@
 # Welcome
 
-October 18th, 2025
+October 19th, 2025
 
 ### Daily Quote:
-> Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
-> 	- William Ramsay
+> The good thing about science is that it’s self-correcting.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
