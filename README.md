@@ -1,9 +1,9 @@
 # Welcome
 
-October 19th, 2025
+October 20th, 2025
 
 ### Daily Quote:
-> The good thing about science is that it’s self-correcting.
-> 	- Neil deGrasse Tyson
+> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
+> 	- Georg C. Lichtenberg
 
 Stay Curious and keep Exploring!
