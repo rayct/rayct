@@ -1,9 +1,9 @@
 # Welcome
 
-October 20th, 2025
+October 21st, 2025
 
 ### Daily Quote:
-> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
-> 	- Georg C. Lichtenberg
+> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
+> 	- William Lawrence Bragg
 
 Stay Curious and keep Exploring!
