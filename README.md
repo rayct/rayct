@@ -1,9 +1,9 @@
 # Welcome
 
-October 24th, 2025
+October 25th, 2025
 
 ### Daily Quote:
-> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-> 	- Edwin Powell Hubble
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> 	- Isaac Asimov
 
 Stay Curious and keep Exploring!
