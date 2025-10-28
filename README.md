@@ -1,9 +1,9 @@
 # Welcome
 
-October 27th, 2025
+October 28th, 2025
 
 ### Daily Quote:
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
-> 	- Isaac Asimov
+> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
+> 	- Charles Darwin
 
 Stay Curious and keep Exploring!
