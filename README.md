@@ -1,9 +1,9 @@
 # Welcome
 
-October 30th, 2025
+October 31st, 2025
 
 ### Daily Quote:
-> The beauty of a flower is a scientific fact.
-> 	- Richard P. Feynman
+> In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
+> 	- Geoffrey Hinton
 
 Stay Curious and keep Exploring!
