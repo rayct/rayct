@@ -1,9 +1,9 @@
 # Welcome
 
-October 31st, 2025
+November 1st, 2025
 
 ### Daily Quote:
-> In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
-> 	- Geoffrey Hinton
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
+> 	- Alan Turing
 
 Stay Curious and keep Exploring!
