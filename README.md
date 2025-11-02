@@ -1,9 +1,9 @@
 # Welcome
 
-November 1st, 2025
+November 2nd, 2025
 
 ### Daily Quote:
-> We can only see a short distance ahead, but we can see plenty there that needs to be done.
-> 	- Alan Turing
+> Mathematics is the language with which God has written the universe.
+> 	- Galileo Galilei
 
 Stay Curious and keep Exploring!
