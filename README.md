@@ -1,9 +1,9 @@
 # Welcome
 
-November 3rd, 2025
+November 4th, 2025
 
 ### Daily Quote:
-> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
-> 	- Carl Sagan
+> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
+> 	- J. B. S. Haldane
 
 Stay Curious and keep Exploring!
