@@ -1,9 +1,9 @@
 # Welcome
 
-November 4th, 2025
+November 5th, 2025
 
 ### Daily Quote:
-> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
-> 	- J. B. S. Haldane
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
