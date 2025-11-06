@@ -1,9 +1,9 @@
 # Welcome
 
-November 5th, 2025
+November 6th, 2025
 
 ### Daily Quote:
-> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
-> 	- Richard Feynman
+> We are like butterflies who flutter for a day and think it is forever.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
