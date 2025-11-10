@@ -1,9 +1,9 @@
 # Welcome
 
-November 9th, 2025
+November 10th, 2025
 
 ### Daily Quote:
-> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
-> 	- Carl Sagan
+> The first principle is that you must not fool yourself—and you are the easiest person to fool.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
