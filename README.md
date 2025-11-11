@@ -1,9 +1,9 @@
 # Welcome
 
-November 10th, 2025
+November 11th, 2025
 
 ### Daily Quote:
-> The first principle is that you must not fool yourself—and you are the easiest person to fool.
-> 	- Richard Feynman
+> The most incomprehensible thing about the world is that it is comprehensible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
