@@ -1,9 +1,9 @@
 # Welcome
 
-November 11th, 2025
+November 12th, 2025
 
 ### Daily Quote:
-> The most incomprehensible thing about the world is that it is comprehensible.
-> 	- Albert Einstein
+> In science, we must be interested in things, not in persons.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
