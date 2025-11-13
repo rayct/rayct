@@ -1,9 +1,9 @@
 # Welcome
 
-November 12th, 2025
+November 13th, 2025
 
 ### Daily Quote:
-> In science, we must be interested in things, not in persons.
-> 	- Marie Curie
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
+> 	- Alan Turing
 
 Stay Curious and keep Exploring!
