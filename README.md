@@ -1,9 +1,9 @@
 # Welcome
 
-November 16th, 2025
+November 17th, 2025
 
 ### Daily Quote:
-> We are like butterflies who flutter for a day and think it is forever.
+> Exploration is in our nature. We began as wanderers, and we are wanderers still.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
