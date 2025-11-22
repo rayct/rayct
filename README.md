@@ -1,9 +1,9 @@
 # Welcome
 
-November 21st, 2025
+November 22nd, 2025
 
 ### Daily Quote:
-> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
-> 	- William Lawrence Bragg
+> It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
+> 	- Carl Friedrich Gauss
 
 Stay Curious and keep Exploring!
