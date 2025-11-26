@@ -1,9 +1,9 @@
 # Welcome
 
-November 25th, 2025
+November 26th, 2025
 
 ### Daily Quote:
-> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
-> 	- J. B. S. Haldane
+> The future belongs to those who believe in the beauty of their dreams.
+> 	- Eleanor Roosevelt
 
 Stay Curious and keep Exploring!
