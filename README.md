@@ -1,9 +1,9 @@
 # Welcome
 
-November 26th, 2025
+November 27th, 2025
 
 ### Daily Quote:
-> The future belongs to those who believe in the beauty of their dreams.
-> 	- Eleanor Roosevelt
+> The more I study science, the more I believe in God.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
