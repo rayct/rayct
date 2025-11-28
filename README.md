@@ -1,9 +1,9 @@
 # Welcome
 
-November 27th, 2025
+November 28th, 2025
 
 ### Daily Quote:
-> The more I study science, the more I believe in God.
-> 	- Albert Einstein
+> Research is what I'm doing when I don't know what I'm doing.
+> 	- Wernher von Braun
 
 Stay Curious and keep Exploring!
