@@ -1,9 +1,9 @@
 # Welcome
 
-November 28th, 2025
+November 29th, 2025
 
 ### Daily Quote:
-> Research is what I'm doing when I don't know what I'm doing.
-> 	- Wernher von Braun
+> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
+> 	- George Wald
 
 Stay Curious and keep Exploring!
