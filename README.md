@@ -1,9 +1,9 @@
 # Welcome
 
-November 30th, 2025
+December 1st, 2025
 
 ### Daily Quote:
-> The good thing about science is that it’s true whether or not you believe in it.
-> 	- Neil deGrasse Tyson
+> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
