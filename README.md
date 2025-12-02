@@ -1,9 +1,9 @@
 # Welcome
 
-December 1st, 2025
+December 2nd, 2025
 
 ### Daily Quote:
-> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
-> 	- Carl Sagan
+> The first principle is that you must not fool yourself—and you are the easiest person to fool.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
