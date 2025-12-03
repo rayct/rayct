@@ -1,9 +1,9 @@
 # Welcome
 
-December 2nd, 2025
+December 3rd, 2025
 
 ### Daily Quote:
-> The first principle is that you must not fool yourself—and you are the easiest person to fool.
+> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
 > 	- Richard Feynman
 
 Stay Curious and keep Exploring!
