@@ -1,9 +1,9 @@
 # Welcome
 
-December 3rd, 2025
+December 4th, 2025
 
 ### Daily Quote:
-> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
-> 	- Richard Feynman
+> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
+> 	- Edwin Powell Hubble
 
 Stay Curious and keep Exploring!
