@@ -1,9 +1,9 @@
 # Welcome
 
-December 4th, 2025
+December 5th, 2025
 
 ### Daily Quote:
-> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-> 	- Edwin Powell Hubble
+> Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
+> 	- Jane Goodall
 
 Stay Curious and keep Exploring!
