@@ -1,9 +1,9 @@
 # Welcome
 
-December 5th, 2025
+December 6th, 2025
 
 ### Daily Quote:
-> Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
-> 	- Jane Goodall
+> Research is what I'm doing when I don't know what I'm doing.
+> 	- Wernher von Braun
 
 Stay Curious and keep Exploring!
