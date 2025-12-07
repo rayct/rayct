@@ -1,9 +1,9 @@
 # Welcome
 
-December 6th, 2025
+December 7th, 2025
 
 ### Daily Quote:
-> Research is what I'm doing when I don't know what I'm doing.
-> 	- Wernher von Braun
+> Intelligence is the ability to adapt to change.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
