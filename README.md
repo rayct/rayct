@@ -1,9 +1,9 @@
 # Welcome
 
-December 7th, 2025
+December 8th, 2025
 
 ### Daily Quote:
-> Intelligence is the ability to adapt to change.
-> 	- Stephen Hawking
+> If you can't explain it simply, you don't understand it well enough.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
