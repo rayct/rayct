@@ -1,9 +1,9 @@
 # Welcome
 
-December 10th, 2025
+December 11th, 2025
 
 ### Daily Quote:
-> Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
-> 	- Jacob Bronowski
+> The good thing about science is that it’s self-correcting.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
