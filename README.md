@@ -1,9 +1,9 @@
 # Welcome
 
-December 11th, 2025
+December 12th, 2025
 
 ### Daily Quote:
-> The good thing about science is that it’s self-correcting.
-> 	- Neil deGrasse Tyson
+> Astronomy compels the soul to look upwards and leads us from this world to another.
+> 	- Plato
 
 Stay Curious and keep Exploring!
