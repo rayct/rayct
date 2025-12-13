@@ -1,9 +1,9 @@
 # Welcome
 
-December 12th, 2025
+December 13th, 2025
 
 ### Daily Quote:
-> Astronomy compels the soul to look upwards and leads us from this world to another.
-> 	- Plato
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> 	- Isaac Asimov
 
 Stay Curious and keep Exploring!
