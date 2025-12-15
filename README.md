@@ -1,9 +1,9 @@
 # Welcome
 
-December 14th, 2025
+December 15th, 2025
 
 ### Daily Quote:
-> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
+> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
