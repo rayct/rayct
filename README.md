@@ -1,9 +1,9 @@
 # Welcome
 
-December 15th, 2025
+December 16th, 2025
 
 ### Daily Quote:
-> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
-> 	- Carl Sagan
+> Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
+> 	- William Ramsay
 
 Stay Curious and keep Exploring!
