@@ -1,9 +1,9 @@
 # Welcome
 
-December 18th, 2025
+December 19th, 2025
 
 ### Daily Quote:
-> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
-> 	- Georg C. Lichtenberg
+> The greatest scientists are artists as well.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
