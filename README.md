@@ -1,11 +1,9 @@
 # Welcome
 
-December 20th, 2025
+December 21st, 2025
 
 ### Daily Quote:
-> The art and science of asking questions is the source of all knowledge.
-> 	- Thomas Berger
-> Science is a way of thinking much more than it is a body of knowledge.
-> 	- Carl Sagan
+> Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
+> 	- Jacob Bronowski
 
 Stay Curious and keep Exploring!
