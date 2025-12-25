@@ -1,9 +1,9 @@
 # Welcome
 
-December 24th, 2025
+December 25th, 2025
 
 ### Daily Quote:
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-> 	- Albert Einstein
+> The purpose of computing is insight, not numbers.
+> 	- Richard Hamming
 
 Stay Curious and keep Exploring!
