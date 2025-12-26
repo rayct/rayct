@@ -1,9 +1,9 @@
 # Welcome
 
-December 25th, 2025
+December 26th, 2025
 
 ### Daily Quote:
-> The purpose of computing is insight, not numbers.
-> 	- Richard Hamming
+> The art and science of asking questions is the source of all knowledge.
+> 	- Thomas Berger
 
 Stay Curious and keep Exploring!
