@@ -1,9 +1,9 @@
 # Welcome
 
-December 26th, 2025
+December 27th, 2025
 
 ### Daily Quote:
-> The art and science of asking questions is the source of all knowledge.
-> 	- Thomas Berger
+> The universe seems neither benign nor hostile, merely indifferent.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
