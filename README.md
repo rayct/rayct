@@ -1,9 +1,9 @@
 # Welcome
 
-December 27th, 2025
+December 28th, 2025
 
 ### Daily Quote:
-> The universe seems neither benign nor hostile, merely indifferent.
-> 	- Carl Sagan
+> The future belongs to those who believe in the beauty of their dreams.
+> 	- Eleanor Roosevelt
 
 Stay Curious and keep Exploring!
