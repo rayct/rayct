@@ -3,7 +3,7 @@
 December 29th, 2025
 
 ### Daily Quote:
-> We can only see a short distance ahead, but we can see plenty there that needs to be done.
-> 	- Alan Turing
+> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
+> 	- J. B. S. Haldane
 
 Stay Curious and keep Exploring!
