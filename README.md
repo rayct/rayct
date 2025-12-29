@@ -3,7 +3,7 @@
 December 29th, 2025
 
 ### Daily Quote:
-> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
-> 	- J. B. S. Haldane
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
