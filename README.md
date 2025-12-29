@@ -1,9 +1,9 @@
 # Welcome
 
-December 28th, 2025
+December 29th, 2025
 
 ### Daily Quote:
-> The future belongs to those who believe in the beauty of their dreams.
-> 	- Eleanor Roosevelt
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
+> 	- Alan Turing
 
 Stay Curious and keep Exploring!
