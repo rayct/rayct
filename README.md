@@ -3,7 +3,7 @@
 December 29th, 2025
 
 ### Daily Quote:
-> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
-> 	- Carl Sagan
+> Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
+> 	- Jacob Bronowski
 
 Stay Curious and keep Exploring!
