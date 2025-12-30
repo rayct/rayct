@@ -1,9 +1,9 @@
 # Welcome
 
-December 29th, 2025
+December 30th, 2025
 
 ### Daily Quote:
-> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
-> 	- Richard P. Feynman
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
