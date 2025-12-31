@@ -3,7 +3,7 @@
 December 31st, 2025
 
 ### Daily Quote:
-> The first principle is that you must not fool yourself—and you are the easiest person to fool.
-> 	- Richard Feynman
+> In science, we must be interested in things, not in persons.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
