@@ -3,7 +3,7 @@
 January 1st, 2026
 
 ### Daily Quote:
-> The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
-> 	- Nikola Tesla
+> Somewhere, something incredible is waiting to be discovered.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
