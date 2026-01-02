@@ -1,9 +1,9 @@
 # Welcome
 
-January 1st, 2026
+January 2nd, 2026
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be discovered.
-> 	- Carl Sagan
+> The laws of physics are the same everywhere in the universe.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
