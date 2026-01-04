@@ -1,9 +1,9 @@
 # Welcome
 
-January 3rd, 2026
+January 4th, 2026
 
 ### Daily Quote:
-> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
-> 	- George Wald
+> The good thing about science is that it’s self-correcting.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
