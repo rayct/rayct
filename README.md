@@ -1,9 +1,9 @@
 # Welcome
 
-January 4th, 2026
+January 5th, 2026
 
 ### Daily Quote:
-> The good thing about science is that it’s self-correcting.
-> 	- Neil deGrasse Tyson
+> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
+> 	- William Lawrence Bragg
 
 Stay Curious and keep Exploring!
