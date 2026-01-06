@@ -3,7 +3,7 @@
 January 6th, 2026
 
 ### Daily Quote:
-> The good thing about science is that it’s true whether or not you believe in it.
-> 	- Neil deGrasse Tyson
+> The scientist is motivated primarily by curiosity and a desire for truth.
+> 	- Irving Langmuir
 
 Stay Curious and keep Exploring!
