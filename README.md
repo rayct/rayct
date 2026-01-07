@@ -1,9 +1,9 @@
 # Welcome
 
-January 6th, 2026
+January 7th, 2026
 
 ### Daily Quote:
-> The scientist is motivated primarily by curiosity and a desire for truth.
-> 	- Irving Langmuir
+> The first principle is that you must not fool yourself—and you are the easiest person to fool.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
