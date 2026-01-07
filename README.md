@@ -3,7 +3,7 @@
 January 7th, 2026
 
 ### Daily Quote:
-> The first principle is that you must not fool yourself—and you are the easiest person to fool.
-> 	- Richard Feynman
+> Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
+> 	- William Ramsay
 
 Stay Curious and keep Exploring!
