@@ -1,9 +1,9 @@
 # Welcome
 
-January 7th, 2026
+January 8th, 2026
 
 ### Daily Quote:
-> Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
-> 	- William Ramsay
+> I would rather have questions that can't be answered than answers that can't be questioned.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
