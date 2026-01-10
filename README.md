@@ -1,9 +1,9 @@
 # Welcome
 
-January 9th, 2026
+January 10th, 2026
 
 ### Daily Quote:
-> An experiment is a question which science poses to Nature, and a measurement is the recording of Nature’s answer.
-> 	- Max Planck
+> To confine our attention to terrestrial matters would be to limit the human spirit.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
