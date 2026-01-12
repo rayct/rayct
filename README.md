@@ -1,9 +1,9 @@
 # Welcome
 
-January 11th, 2026
+January 12th, 2026
 
 ### Daily Quote:
-> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
-> 	- Carl Sagan
+> The first principle is that you must not fool yourself—and you are the easiest person to fool.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
