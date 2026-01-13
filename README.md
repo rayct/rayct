@@ -1,9 +1,9 @@
 # Welcome
 
-January 12th, 2026
+January 13th, 2026
 
 ### Daily Quote:
-> The good thing about science is that it’s true whether or not you believe in it.
-> 	- Neil deGrasse Tyson
+> I am among those who think that science has great beauty.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
