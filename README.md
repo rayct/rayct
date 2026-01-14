@@ -1,9 +1,9 @@
 # Welcome
 
-January 13th, 2026
+January 14th, 2026
 
 ### Daily Quote:
-> I am among those who think that science has great beauty.
-> 	- Marie Curie
+> Somewhere, something incredible is waiting to be discovered.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
