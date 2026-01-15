@@ -3,7 +3,7 @@
 January 15th, 2026
 
 ### Daily Quote:
-> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-> 	- Carl Sagan
+> To confine our attention to terrestrial matters would be to limit the human spirit.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
