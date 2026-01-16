@@ -1,9 +1,9 @@
 # Welcome
 
-January 15th, 2026
+January 16th, 2026
 
 ### Daily Quote:
-> To confine our attention to terrestrial matters would be to limit the human spirit.
-> 	- Stephen Hawking
+> The beauty of a flower is a scientific fact.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
