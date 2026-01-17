@@ -3,7 +3,7 @@
 January 17th, 2026
 
 ### Daily Quote:
-> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
-> 	- George Wald
+> Science without religion is lame, religion without science is blind.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
