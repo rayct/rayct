@@ -1,9 +1,9 @@
 # Welcome
 
-January 16th, 2026
+January 17th, 2026
 
 ### Daily Quote:
-> The beauty of a flower is a scientific fact.
-> 	- Richard P. Feynman
+> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
+> 	- George Wald
 
 Stay Curious and keep Exploring!
