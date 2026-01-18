@@ -1,9 +1,9 @@
 # Welcome
 
-January 17th, 2026
+January 18th, 2026
 
 ### Daily Quote:
-> Science without religion is lame, religion without science is blind.
-> 	- Albert Einstein
+> We are an impossibility in an impossible universe.
+> 	- Ray Bradbury
 
 Stay Curious and keep Exploring!
