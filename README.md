@@ -1,9 +1,9 @@
 # Welcome
 
-January 19th, 2026
+January 20th, 2026
 
 ### Daily Quote:
-> Science is the great antidote to the poison of enthusiasm and superstition.
-> 	- Adam Smith
+> The purpose of computing is insight, not numbers.
+> 	- Richard Hamming
 
 Stay Curious and keep Exploring!
