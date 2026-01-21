@@ -3,7 +3,7 @@
 January 21st, 2026
 
 ### Daily Quote:
-> Exploration is in our nature. We began as wanderers, and we are wanderers still.
-> 	- Carl Sagan
+> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
+> 	- George Wald
 
 Stay Curious and keep Exploring!
