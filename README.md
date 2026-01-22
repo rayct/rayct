@@ -3,7 +3,7 @@
 January 22nd, 2026
 
 ### Daily Quote:
-> Astronomy compels the soul to look upwards and leads us from this world to another.
-> 	- Plato
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
