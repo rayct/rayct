@@ -3,7 +3,7 @@
 January 23rd, 2026
 
 ### Daily Quote:
-> In science, there are no shortcuts to truth.
-> 	- Karl Popper
+> What we observe is not nature itself, but nature exposed to our method of questioning.
+> 	- Werner Heisenberg
 
 Stay Curious and keep Exploring!
