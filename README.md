@@ -1,9 +1,9 @@
 # Welcome
 
-January 23rd, 2026
+January 24th, 2026
 
 ### Daily Quote:
-> What we observe is not nature itself, but nature exposed to our method of questioning.
-> 	- Werner Heisenberg
+> All science is either physics or stamp collecting.
+> 	- Ernest Rutherford
 
 Stay Curious and keep Exploring!
