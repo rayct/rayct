@@ -1,9 +1,9 @@
 # Welcome
 
-January 25th, 2026
+January 26th, 2026
 
 ### Daily Quote:
-> Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
-> 	- William Ramsay
+> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
+> 	- Edwin Powell Hubble
 
 Stay Curious and keep Exploring!
