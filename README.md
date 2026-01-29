@@ -1,9 +1,9 @@
 # Welcome
 
-January 28th, 2026
+January 29th, 2026
 
 ### Daily Quote:
-> In science, there are no shortcuts to truth.
-> 	- Karl Popper
+> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
+> 	- Louis Pasteur
 
 Stay Curious and keep Exploring!
