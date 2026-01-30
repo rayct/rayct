@@ -1,9 +1,9 @@
 # Welcome
 
-January 29th, 2026
+January 30th, 2026
 
 ### Daily Quote:
-> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
-> 	- Louis Pasteur
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> 	- Isaac Asimov
 
 Stay Curious and keep Exploring!
