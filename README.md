@@ -1,9 +1,9 @@
 # Welcome
 
-January 30th, 2026
+January 31st, 2026
 
 ### Daily Quote:
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
-> 	- Isaac Asimov
+> To confine our attention to terrestrial matters would be to limit the human spirit.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
