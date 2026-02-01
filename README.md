@@ -1,9 +1,9 @@
 # Welcome
 
-January 31st, 2026
+February 1st, 2026
 
 ### Daily Quote:
-> To confine our attention to terrestrial matters would be to limit the human spirit.
-> 	- Stephen Hawking
+> The universe is not only stranger than we imagine, it is stranger than we can imagine.
+> 	- J.B.S. Haldane
 
 Stay Curious and keep Exploring!
