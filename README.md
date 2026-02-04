@@ -1,9 +1,9 @@
 # Welcome
 
-February 3rd, 2026
+February 4th, 2026
 
 ### Daily Quote:
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
-> 	- Isaac Asimov
+> All science is either physics or stamp collecting.
+> 	- Ernest Rutherford
 
 Stay Curious and keep Exploring!
