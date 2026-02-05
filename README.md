@@ -1,9 +1,9 @@
 # Welcome
 
-February 4th, 2026
+February 5th, 2026
 
 ### Daily Quote:
-> All science is either physics or stamp collecting.
-> 	- Ernest Rutherford
+> The whole of science is nothing more than a refinement of everyday thinking.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
