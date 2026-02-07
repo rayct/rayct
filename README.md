@@ -1,9 +1,9 @@
 # Welcome
 
-February 6th, 2026
+February 7th, 2026
 
 ### Daily Quote:
-> Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
-> 	- Jacob Bronowski
+> The whole of science is nothing more than a refinement of everyday thinking.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
