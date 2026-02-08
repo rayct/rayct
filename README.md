@@ -1,9 +1,9 @@
 # Welcome
 
-February 7th, 2026
+February 8th, 2026
 
 ### Daily Quote:
-> The whole of science is nothing more than a refinement of everyday thinking.
+> The important thing is not to stop questioning. Curiosity has its own reason for existing.
 > 	- Albert Einstein
 
 Stay Curious and keep Exploring!
