@@ -1,9 +1,9 @@
 # Welcome
 
-February 9th, 2026
+February 10th, 2026
 
 ### Daily Quote:
-> Time is an illusion. Lunchtime doubly so.
-> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+> The most incomprehensible thing about the world is that it is comprehensible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
