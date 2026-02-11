@@ -1,9 +1,9 @@
 # Welcome
 
-February 10th, 2026
+February 11th, 2026
 
 ### Daily Quote:
-> The most incomprehensible thing about the world is that it is comprehensible.
+> Look deep into nature, and then you will understand everything better.
 > 	- Albert Einstein
 
 Stay Curious and keep Exploring!
