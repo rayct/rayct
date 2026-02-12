@@ -1,9 +1,9 @@
 # Welcome
 
-February 11th, 2026
+February 12th, 2026
 
 ### Daily Quote:
-> Look deep into nature, and then you will understand everything better.
-> 	- Albert Einstein
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
