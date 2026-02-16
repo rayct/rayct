@@ -1,9 +1,9 @@
 # Welcome
 
-February 15th, 2026
+February 16th, 2026
 
 ### Daily Quote:
-> Science is the great antidote to the poison of enthusiasm and superstition.
-> 	- Adam Smith
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
