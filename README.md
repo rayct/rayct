@@ -3,7 +3,7 @@
 February 16th, 2026
 
 ### Daily Quote:
-> Science is a way of thinking much more than it is a body of knowledge.
+> Somewhere, something incredible is waiting to be known.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
