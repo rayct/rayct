@@ -26,6 +26,7 @@ You **cannot directly trigger a GitHub Actions workflow on a remote repository f
    Use the following command to manually trigger the workflow:
    ```bash
    gh workflow run <workflow.yml>
+   gh workflow run update_readme.yml
    ```
    Replace `<workflow.yml>` with the filename or ID of the workflow you want to run (e.g., `update_readme.yml`).
 
