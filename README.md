@@ -1,9 +1,9 @@
 # Welcome
 
-February 17th, 2026
+February 18th, 2026
 
 ### Daily Quote:
-> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
-> 	- Jules Verne
+> Mathematics is the language with which God has written the universe.
+> 	- Galileo Galilei
 
 Stay Curious and keep Exploring!
