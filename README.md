@@ -1,9 +1,9 @@
 # Welcome
 
-February 20th, 2026
+February 21st, 2026
 
 ### Daily Quote:
-> The good thing about science is that it’s self-correcting.
+> The good thing about science is that it’s true whether or not you believe in it.
 > 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
