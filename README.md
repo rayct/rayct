@@ -3,7 +3,7 @@
 February 22nd, 2026
 
 ### Daily Quote:
-> If I have seen further it is by standing on the shoulders of giants.
-> 	- Isaac Newton
+> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
+> 	- J. B. S. Haldane
 
 Stay Curious and keep Exploring!
