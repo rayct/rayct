@@ -3,7 +3,7 @@
 February 22nd, 2026
 
 ### Daily Quote:
-> What we observe is not nature itself, but nature exposed to our method of questioning.
-> 	- Werner Heisenberg
+> If I have seen further it is by standing on the shoulders of giants.
+> 	- Isaac Newton
 
 Stay Curious and keep Exploring!
