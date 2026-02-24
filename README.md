@@ -3,7 +3,7 @@
 February 24th, 2026
 
 ### Daily Quote:
-> The universe is full of magical things patiently waiting for our wits to grow sharper.
-> 	- Eden Phillpotts
+> Somewhere, something incredible is waiting to be known.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
