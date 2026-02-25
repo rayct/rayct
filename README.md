@@ -1,9 +1,9 @@
 # Welcome
 
-February 24th, 2026
+February 25th, 2026
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be known.
-> 	- Carl Sagan
+> Intelligence is the ability to adapt to change.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
