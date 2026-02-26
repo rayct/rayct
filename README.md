@@ -1,9 +1,9 @@
 # Welcome
 
-February 25th, 2026
+February 26th, 2026
 
 ### Daily Quote:
-> Intelligence is the ability to adapt to change.
-> 	- Stephen Hawking
+> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
+> 	- Georg C. Lichtenberg
 
 Stay Curious and keep Exploring!
