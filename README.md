@@ -1,9 +1,9 @@
 # Welcome
 
-February 28th, 2026
+March 1st, 2026
 
 ### Daily Quote:
-> The universe is full of magical things patiently waiting for our wits to grow sharper.
-> 	- Eden Phillpotts
+> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
