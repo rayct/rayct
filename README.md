@@ -1,9 +1,9 @@
 # Welcome
 
-March 1st, 2026
+March 2nd, 2026
 
 ### Daily Quote:
-> What we observe is not nature itself, but nature exposed to our method of questioning.
-> 	- Werner Heisenberg
+> Books break the shackles of time. A book is proof that humans are capable of working magic.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
