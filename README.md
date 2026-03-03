@@ -1,9 +1,9 @@
 # Welcome
 
-March 2nd, 2026
+March 3rd, 2026
 
 ### Daily Quote:
-> Books break the shackles of time. A book is proof that humans are capable of working magic.
-> 	- Carl Sagan
+> The universe is not only stranger than we imagine, it is stranger than we can imagine.
+> 	- J.B.S. Haldane
 
 Stay Curious and keep Exploring!
