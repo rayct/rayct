@@ -1,9 +1,9 @@
 # Welcome
 
-March 3rd, 2026
+March 4th, 2026
 
 ### Daily Quote:
-> The universe is not only stranger than we imagine, it is stranger than we can imagine.
-> 	- J.B.S. Haldane
+> All science is either physics or stamp collecting.
+> 	- Ernest Rutherford
 
 Stay Curious and keep Exploring!
