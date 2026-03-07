@@ -2,9 +2,11 @@
 
 ## Hello
 
-### Hello again!
+### Hello
 
-#### Hello there!
+#### Hello
+
+##### Hello
 
 ---
 
@@ -19,9 +21,6 @@
 >[!Warning]
 >Take Heed
 
-
->[!Info]
->Use this Info wisely
 
 
 ---
