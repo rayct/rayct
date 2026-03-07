@@ -1,9 +1,9 @@
 # Welcome
 
-March 6th, 2026
+March 7th, 2026
 
 ### Daily Quote:
-> Science without religion is lame, religion without science is blind.
-> 	- Albert Einstein
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
