@@ -3,7 +3,7 @@
 March 7th, 2026
 
 ### Daily Quote:
-> Science is a way of thinking much more than it is a body of knowledge.
-> 	- Carl Sagan
+> Nothing in life is to be feared, it is only to be understood.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
