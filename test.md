@@ -5,10 +5,16 @@
 ---
 
 >[!Note]
+>Take Note
+
 
 >[!Warning]
+>Take Heed
+
 
 >[!Info]
+>Use this Info wisely
+
 
 ---
 
