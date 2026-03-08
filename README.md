@@ -1,9 +1,9 @@
 # Welcome
 
-March 7th, 2026
+March 8th, 2026
 
 ### Daily Quote:
-> Nothing in life is to be feared, it is only to be understood.
-> 	- Marie Curie
+> The scientist is motivated primarily by curiosity and a desire for truth.
+> 	- Irving Langmuir
 
 Stay Curious and keep Exploring!
