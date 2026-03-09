@@ -1,9 +1,9 @@
 # Welcome
 
-March 8th, 2026
+March 9th, 2026
 
 ### Daily Quote:
-> The scientist is motivated primarily by curiosity and a desire for truth.
-> 	- Irving Langmuir
+> All science is either physics or stamp collecting.
+> 	- Ernest Rutherford
 
 Stay Curious and keep Exploring!
