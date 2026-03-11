@@ -1,9 +1,9 @@
 # Welcome
 
-March 10th, 2026
+March 11th, 2026
 
 ### Daily Quote:
-> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-> 	- Carl Sagan
+> If you can't explain it simply, you don't understand it well enough.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
