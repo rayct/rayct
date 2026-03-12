@@ -37,7 +37,6 @@ You **cannot directly trigger a GitHub Actions workflow on a remote repository f
 
 ---
 
-Raymond C. Turner
 
 5. **Check the Workflow Status**:
    After triggering the workflow, you can monitor its status:
@@ -82,4 +81,4 @@ Alternatively, you can use the GitHub API to trigger a workflow remotely:
 ---
 
 _**Documentation maintained by:** Raymond C. Turner_
-_**Date:** March 9th, 2026_
+_**Date:** March 12th, 2026_
