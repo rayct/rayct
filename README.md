@@ -1,9 +1,9 @@
 # Welcome
 
-March 11th, 2026
+March 12th, 2026
 
 ### Daily Quote:
-> If you can't explain it simply, you don't understand it well enough.
-> 	- Albert Einstein
+> Books break the shackles of time. A book is proof that humans are capable of working magic.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
