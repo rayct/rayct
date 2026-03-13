@@ -1,9 +1,9 @@
 # Welcome
 
-March 12th, 2026
+March 13th, 2026
 
 ### Daily Quote:
-> Books break the shackles of time. A book is proof that humans are capable of working magic.
-> 	- Carl Sagan
+> I think we have a great responsibility to understand our role in the universe.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
