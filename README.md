@@ -1,9 +1,9 @@
 # Welcome
 
-March 14th, 2026
+March 15th, 2026
 
 ### Daily Quote:
-> In science, there are no shortcuts to truth.
-> 	- Karl Popper
+> Science without religion is lame, religion without science is blind.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
