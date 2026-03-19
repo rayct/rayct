@@ -1,9 +1,9 @@
 # Welcome
 
-March 18th, 2026
+March 19th, 2026
 
 ### Daily Quote:
-> If you can't explain it simply, you don't understand it well enough.
-> 	- Albert Einstein
+> The good thing about science is that it’s true whether or not you believe in it.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
