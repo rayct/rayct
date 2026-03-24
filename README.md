@@ -1,9 +1,9 @@
 # Welcome
 
-March 23rd, 2026
+March 24th, 2026
 
 ### Daily Quote:
-> Physics is not about how the world is, it is about what we can say about the world.
-> 	- Niels Bohr
+> Research is what I'm doing when I don't know what I'm doing.
+> 	- Wernher von Braun
 
 Stay Curious and keep Exploring!
