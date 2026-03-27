@@ -1,9 +1,9 @@
 # Welcome
 
-March 26th, 2026
+March 27th, 2026
 
 ### Daily Quote:
-> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
-> 	- Richard P. Feynman
+> The scientist is not a person who gives the right answers, he’s one who asks the right questions.
+> 	- Claude Lévi-Strauss
 
 Stay Curious and keep Exploring!
