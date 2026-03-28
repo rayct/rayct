@@ -1,9 +1,9 @@
 # Welcome
 
-March 27th, 2026
+March 28th, 2026
 
 ### Daily Quote:
-> The scientist is not a person who gives the right answers, he’s one who asks the right questions.
-> 	- Claude Lévi-Strauss
+> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+> 	- Jules Verne
 
 Stay Curious and keep Exploring!
