@@ -1,9 +1,9 @@
 # Welcome
 
-March 28th, 2026
+March 29th, 2026
 
 ### Daily Quote:
-> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
-> 	- Jules Verne
+> The first principle is that you must not fool yourself—and you are the easiest person to fool.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
