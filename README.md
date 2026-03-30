@@ -1,9 +1,9 @@
 # Welcome
 
-March 29th, 2026
+March 30th, 2026
 
 ### Daily Quote:
-> The first principle is that you must not fool yourself—and you are the easiest person to fool.
-> 	- Richard Feynman
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
