@@ -1,9 +1,9 @@
 # Welcome
 
-March 30th, 2026
+March 31st, 2026
 
 ### Daily Quote:
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-> 	- Albert Einstein
+> The universe is full of magical things patiently waiting for our wits to grow sharper.
+> 	- Eden Phillpotts
 
 Stay Curious and keep Exploring!
