@@ -1,9 +1,9 @@
 # Welcome
 
-March 31st, 2026
+April 1st, 2026
 
 ### Daily Quote:
-> The universe is full of magical things patiently waiting for our wits to grow sharper.
-> 	- Eden Phillpotts
+> The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
+> 	- Nikola Tesla
 
 Stay Curious and keep Exploring!
