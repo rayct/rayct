@@ -1,9 +1,9 @@
 # Welcome
 
-April 1st, 2026
+April 2nd, 2026
 
 ### Daily Quote:
-> The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
-> 	- Nikola Tesla
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
+> 	- Alan Turing
 
 Stay Curious and keep Exploring!
