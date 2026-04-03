@@ -1,9 +1,9 @@
 # Welcome
 
-April 2nd, 2026
+April 3rd, 2026
 
 ### Daily Quote:
-> We can only see a short distance ahead, but we can see plenty there that needs to be done.
-> 	- Alan Turing
+> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
