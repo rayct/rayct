@@ -1,9 +1,9 @@
 # Welcome
 
-April 3rd, 2026
+April 4th, 2026
 
 ### Daily Quote:
-> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
-> 	- Richard P. Feynman
+> The more I study science, the more I believe in God.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
