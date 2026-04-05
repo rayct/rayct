@@ -1,9 +1,9 @@
 # Welcome
 
-April 4th, 2026
+April 5th, 2026
 
 ### Daily Quote:
-> The more I study science, the more I believe in God.
-> 	- Albert Einstein
+> The beauty of a flower is a scientific fact.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
