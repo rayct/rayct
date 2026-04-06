@@ -1,9 +1,9 @@
 # Welcome
 
-April 5th, 2026
+April 6th, 2026
 
 ### Daily Quote:
-> The beauty of a flower is a scientific fact.
-> 	- Richard P. Feynman
+> In science, we must be interested in things, not in persons.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
