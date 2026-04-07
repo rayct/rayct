@@ -1,9 +1,9 @@
 # Welcome
 
-April 6th, 2026
+April 7th, 2026
 
 ### Daily Quote:
-> In science, we must be interested in things, not in persons.
-> 	- Marie Curie
+> All science is either physics or stamp collecting.
+> 	- Ernest Rutherford
 
 Stay Curious and keep Exploring!
