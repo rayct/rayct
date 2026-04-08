@@ -1,9 +1,11 @@
 # Welcome
 
-April 7th, 2026
+April 8th, 2026
 
 ### Daily Quote:
-> All science is either physics or stamp collecting.
-> 	- Ernest Rutherford
+> The art and science of asking questions is the source of all knowledge.
+> 	- Thomas Berger
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
