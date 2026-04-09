@@ -1,11 +1,9 @@
 # Welcome
 
-April 8th, 2026
+April 9th, 2026
 
 ### Daily Quote:
-> The art and science of asking questions is the source of all knowledge.
-> 	- Thomas Berger
-> Science is a way of thinking much more than it is a body of knowledge.
-> 	- Carl Sagan
+> Only those who attempt the absurd can achieve the impossible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
