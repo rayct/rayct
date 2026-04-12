@@ -1,9 +1,9 @@
 # Welcome
 
-April 11th, 2026
+April 12th, 2026
 
 ### Daily Quote:
-> Science is a way of thinking much more than it is a body of knowledge.
-> 	- Carl Sagan
+> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
+> 	- Louis Pasteur
 
 Stay Curious and keep Exploring!
