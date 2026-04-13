@@ -1,9 +1,9 @@
 # Welcome
 
-April 12th, 2026
+April 13th, 2026
 
 ### Daily Quote:
-> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
-> 	- Louis Pasteur
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
