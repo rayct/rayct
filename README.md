@@ -1,9 +1,9 @@
 # Welcome
 
-April 15th, 2026
+April 16th, 2026
 
 ### Daily Quote:
-> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-> 	- Edwin Powell Hubble
+> Physics is not about how the world is, it is about what we can say about the world.
+> 	- Niels Bohr
 
 Stay Curious and keep Exploring!
