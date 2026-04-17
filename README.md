@@ -1,9 +1,9 @@
 # Welcome
 
-April 16th, 2026
+April 17th, 2026
 
 ### Daily Quote:
-> Physics is not about how the world is, it is about what we can say about the world.
-> 	- Niels Bohr
+> Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
+> 	- Jacob Bronowski
 
 Stay Curious and keep Exploring!
