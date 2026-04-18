@@ -1,9 +1,9 @@
 # Welcome
 
-April 17th, 2026
+April 18th, 2026
 
 ### Daily Quote:
-> Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
-> 	- Jacob Bronowski
+> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
