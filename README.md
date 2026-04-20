@@ -1,9 +1,9 @@
 # Welcome
 
-April 19th, 2026
+April 20th, 2026
 
 ### Daily Quote:
-> Mathematics is the language with which God has written the universe.
-> 	- Galileo Galilei
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
