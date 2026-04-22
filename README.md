@@ -1,9 +1,9 @@
 # Welcome
 
-April 21st, 2026
+April 22nd, 2026
 
 ### Daily Quote:
-> In science, there are no shortcuts to truth.
-> 	- Karl Popper
+> The scientist is not a person who gives the right answers, he’s one who asks the right questions.
+> 	- Claude Lévi-Strauss
 
 Stay Curious and keep Exploring!
