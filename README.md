@@ -1,9 +1,9 @@
 # Welcome
 
-April 23rd, 2026
+April 24th, 2026
 
 ### Daily Quote:
-> It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
-> 	- Carl Friedrich Gauss
+> In science, we must be interested in things, not in persons.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
