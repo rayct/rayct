@@ -1,9 +1,9 @@
 # Welcome
 
-April 24th, 2026
+April 25th, 2026
 
 ### Daily Quote:
-> In science, we must be interested in things, not in persons.
-> 	- Marie Curie
+> The universe is not only stranger than we imagine, it is stranger than we can imagine.
+> 	- J.B.S. Haldane
 
 Stay Curious and keep Exploring!
