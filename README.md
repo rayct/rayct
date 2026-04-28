@@ -1,9 +1,9 @@
 # Welcome
 
-April 27th, 2026
+April 28th, 2026
 
 ### Daily Quote:
-> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
-> 	- Charles Darwin
+> Somewhere, something incredible is waiting to be discovered.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
