@@ -1,9 +1,9 @@
 # Welcome
 
-April 28th, 2026
+April 29th, 2026
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be discovered.
-> 	- Carl Sagan
+> We are an impossibility in an impossible universe.
+> 	- Ray Bradbury
 
 Stay Curious and keep Exploring!
