@@ -1,9 +1,9 @@
 # Welcome
 
-April 29th, 2026
+April 30th, 2026
 
 ### Daily Quote:
-> We are an impossibility in an impossible universe.
-> 	- Ray Bradbury
+> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
+> 	- William Lawrence Bragg
 
 Stay Curious and keep Exploring!
