@@ -1,9 +1,9 @@
 # Welcome
 
-May 1st, 2026
+May 2nd, 2026
 
 ### Daily Quote:
-> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
