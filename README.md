@@ -1,9 +1,9 @@
 # Welcome
 
-May 2nd, 2026
+May 3rd, 2026
 
 ### Daily Quote:
-> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-> 	- Carl Sagan
+> We are an impossibility in an impossible universe.
+> 	- Ray Bradbury
 
 Stay Curious and keep Exploring!
