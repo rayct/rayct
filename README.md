@@ -1,9 +1,9 @@
 # Welcome
 
-May 3rd, 2026
+May 4th, 2026
 
 ### Daily Quote:
-> We are an impossibility in an impossible universe.
-> 	- Ray Bradbury
+> The beauty of a flower is a scientific fact.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
