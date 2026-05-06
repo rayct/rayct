@@ -1,9 +1,9 @@
 # Welcome
 
-May 5th, 2026
+May 6th, 2026
 
 ### Daily Quote:
-> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
-> 	- Carl Sagan
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!
