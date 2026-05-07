@@ -1,9 +1,9 @@
 # Welcome
 
-May 6th, 2026
+May 7th, 2026
 
 ### Daily Quote:
-> Science is organized knowledge. Wisdom is organized life.
-> 	- Immanuel Kant
+> The future belongs to those who believe in the beauty of their dreams.
+> 	- Eleanor Roosevelt
 
 Stay Curious and keep Exploring!
