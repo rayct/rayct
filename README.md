@@ -1,9 +1,9 @@
 # Welcome
 
-May 7th, 2026
+May 8th, 2026
 
 ### Daily Quote:
-> The future belongs to those who believe in the beauty of their dreams.
-> 	- Eleanor Roosevelt
+> The greatest scientists are artists as well.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
