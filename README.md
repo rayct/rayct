@@ -1,9 +1,9 @@
 # Welcome
 
-May 9th, 2026
+May 10th, 2026
 
 ### Daily Quote:
-> The scientist is not a person who gives the right answers, he’s one who asks the right questions.
-> 	- Claude Lévi-Strauss
+> All science is either physics or stamp collecting.
+> 	- Ernest Rutherford
 
 Stay Curious and keep Exploring!
