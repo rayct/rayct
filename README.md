@@ -1,9 +1,9 @@
 # Welcome
 
-May 10th, 2026
+May 11th, 2026
 
 ### Daily Quote:
-> All science is either physics or stamp collecting.
-> 	- Ernest Rutherford
+> I am among those who think that science has great beauty.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
