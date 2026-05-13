@@ -1,9 +1,9 @@
 # Welcome
 
-May 12th, 2026
+May 13th, 2026
 
 ### Daily Quote:
-> I am among those who think that science has great beauty.
-> 	- Marie Curie
+> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
