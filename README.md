@@ -1,9 +1,9 @@
 # Welcome
 
-May 14th, 2026
+May 15th, 2026
 
 ### Daily Quote:
-> In science, there are no shortcuts to truth.
-> 	- Karl Popper
+> The most incomprehensible thing about the world is that it is comprehensible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
