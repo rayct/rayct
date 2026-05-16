@@ -1,9 +1,9 @@
 # Welcome
 
-May 15th, 2026
+May 16th, 2026
 
 ### Daily Quote:
-> The most incomprehensible thing about the world is that it is comprehensible.
-> 	- Albert Einstein
+> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
+> 	- Charles Darwin
 
 Stay Curious and keep Exploring!
