@@ -1,9 +1,9 @@
 # Welcome
 
-May 16th, 2026
+May 17th, 2026
 
 ### Daily Quote:
-> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
-> 	- Charles Darwin
+> The laws of physics are the same everywhere in the universe.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
