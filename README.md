@@ -1,9 +1,9 @@
 # Welcome
 
-May 18th, 2026
+May 19th, 2026
 
 ### Daily Quote:
-> The good thing about science is that it’s true whether or not you believe in it.
-> 	- Neil deGrasse Tyson
+> Time is an illusion. Lunchtime doubly so.
+> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
 
 Stay Curious and keep Exploring!
