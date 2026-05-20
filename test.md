@@ -25,10 +25,9 @@
 >[!Tip]
 >tip
 
->[!Info]
+>[!info]
 >information
 
->[]
 
 
 ---
