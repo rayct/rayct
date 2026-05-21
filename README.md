@@ -1,9 +1,9 @@
 # Welcome
 
-May 20th, 2026
+May 21st, 2026
 
 ### Daily Quote:
-> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
-> 	- William Lawrence Bragg
+> Time is an illusion. Lunchtime doubly so.
+> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
 
 Stay Curious and keep Exploring!
