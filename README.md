@@ -1,9 +1,9 @@
 # Welcome
 
-May 21st, 2026
+May 22nd, 2026
 
 ### Daily Quote:
-> Time is an illusion. Lunchtime doubly so.
-> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+> In science, there are no shortcuts to truth.
+> 	- Karl Popper
 
 Stay Curious and keep Exploring!
