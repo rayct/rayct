@@ -1,9 +1,9 @@
 # Welcome
 
-May 22nd, 2026
+May 23rd, 2026
 
 ### Daily Quote:
-> In science, there are no shortcuts to truth.
-> 	- Karl Popper
+> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+> 	- Jules Verne
 
 Stay Curious and keep Exploring!
