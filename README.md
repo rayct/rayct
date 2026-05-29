@@ -1,9 +1,9 @@
 # Welcome
 
-May 28th, 2026
+May 29th, 2026
 
 ### Daily Quote:
-> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
-> 	- Georg C. Lichtenberg
+> The universe is full of magical things patiently waiting for our wits to grow sharper.
+> 	- Eden Phillpotts
 
 Stay Curious and keep Exploring!
