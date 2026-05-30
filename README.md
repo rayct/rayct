@@ -3,7 +3,7 @@
 May 30th, 2026
 
 ### Daily Quote:
-> Astronomy compels the soul to look upwards and leads us from this world to another.
-> 	- Plato
+> Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
+> 	- Jane Goodall
 
 Stay Curious and keep Exploring!
