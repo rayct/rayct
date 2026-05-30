@@ -3,7 +3,7 @@
 May 30th, 2026
 
 ### Daily Quote:
-> Science is the great antidote to the poison of enthusiasm and superstition.
-> 	- Adam Smith
+> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
