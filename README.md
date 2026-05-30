@@ -3,7 +3,7 @@
 May 30th, 2026
 
 ### Daily Quote:
-> Every brilliant experiment, like every great work of art, starts with an act of imagination.
-> 	- Jonah Lehrer
+> Mathematics is the language with which God has written the universe.
+> 	- Galileo Galilei
 
 Stay Curious and keep Exploring!
