@@ -3,7 +3,7 @@
 May 31st, 2026
 
 ### Daily Quote:
-> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
-> 	- J. B. S. Haldane
+> It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
+> 	- Carl Friedrich Gauss
 
 Stay Curious and keep Exploring!
