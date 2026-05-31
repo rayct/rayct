@@ -3,7 +3,7 @@
 May 31st, 2026
 
 ### Daily Quote:
-> It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
-> 	- Carl Friedrich Gauss
+> The universe is full of magical things patiently waiting for our wits to grow sharper.
+> 	- Eden Phillpotts
 
 Stay Curious and keep Exploring!
