@@ -3,7 +3,7 @@
 May 31st, 2026
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be discovered.
-> 	- Carl Sagan
+> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
+> 	- Charles Darwin
 
 Stay Curious and keep Exploring!
