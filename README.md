@@ -1,9 +1,9 @@
 # Welcome
 
-May 30th, 2026
+May 31st, 2026
 
 ### Daily Quote:
-> If you can't explain it simply, you don't understand it well enough.
-> 	- Albert Einstein
+> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
+> 	- J. B. S. Haldane
 
 Stay Curious and keep Exploring!
