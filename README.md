@@ -1,9 +1,9 @@
 # Welcome
 
-May 31st, 2026
+June 1st, 2026
 
 ### Daily Quote:
-> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
-> 	- Charles Darwin
+> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
+> 	- William Lawrence Bragg
 
 Stay Curious and keep Exploring!
