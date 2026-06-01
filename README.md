@@ -3,7 +3,7 @@
 June 1st, 2026
 
 ### Daily Quote:
-> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
-> 	- William Lawrence Bragg
+> In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
+> 	- Geoffrey Hinton
 
 Stay Curious and keep Exploring!
