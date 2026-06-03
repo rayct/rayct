@@ -3,7 +3,7 @@
 June 3rd, 2026
 
 ### Daily Quote:
-> If you can't explain it simply, you don't understand it well enough.
-> 	- Albert Einstein
+> The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
