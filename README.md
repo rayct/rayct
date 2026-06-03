@@ -1,9 +1,9 @@
 # Welcome
 
-June 2nd, 2026
+June 3rd, 2026
 
 ### Daily Quote:
-> Nothing in life is to be feared, it is only to be understood.
-> 	- Marie Curie
+> Intelligence is the ability to adapt to change.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
