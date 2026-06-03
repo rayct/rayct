@@ -3,7 +3,7 @@
 June 3rd, 2026
 
 ### Daily Quote:
-> Intelligence is the ability to adapt to change.
-> 	- Stephen Hawking
+> Mathematics is the language with which God has written the universe.
+> 	- Galileo Galilei
 
 Stay Curious and keep Exploring!
