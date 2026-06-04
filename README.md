@@ -1,9 +1,9 @@
 # Welcome
 
-June 3rd, 2026
+June 4th, 2026
 
 ### Daily Quote:
-> Every brilliant experiment, like every great work of art, starts with an act of imagination.
-> 	- Jonah Lehrer
+> The greatest scientists are artists as well.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
