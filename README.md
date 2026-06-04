@@ -3,7 +3,7 @@
 June 4th, 2026
 
 ### Daily Quote:
-> The greatest scientists are artists as well.
-> 	- Albert Einstein
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!
