@@ -1,9 +1,9 @@
 # Welcome
 
-June 4th, 2026
+June 5th, 2026
 
 ### Daily Quote:
-> Science is organized knowledge. Wisdom is organized life.
-> 	- Immanuel Kant
+> Intelligence is the ability to adapt to change.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
