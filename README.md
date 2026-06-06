@@ -3,7 +3,7 @@
 June 6th, 2026
 
 ### Daily Quote:
-> If I have seen further it is by standing on the shoulders of giants.
-> 	- Isaac Newton
+> The universe is not only stranger than we imagine, it is stranger than we can imagine.
+> 	- J.B.S. Haldane
 
 Stay Curious and keep Exploring!
