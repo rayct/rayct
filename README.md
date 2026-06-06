@@ -1,9 +1,9 @@
 # Welcome
 
-June 5th, 2026
+June 6th, 2026
 
 ### Daily Quote:
-> Intelligence is the ability to adapt to change.
-> 	- Stephen Hawking
+> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
