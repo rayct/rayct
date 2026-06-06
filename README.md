@@ -3,7 +3,7 @@
 June 6th, 2026
 
 ### Daily Quote:
-> Science is organized knowledge. Wisdom is organized life.
-> 	- Immanuel Kant
+> If I have seen further it is by standing on the shoulders of giants.
+> 	- Isaac Newton
 
 Stay Curious and keep Exploring!
