@@ -3,7 +3,7 @@
 June 6th, 2026
 
 ### Daily Quote:
-> The universe is not only stranger than we imagine, it is stranger than we can imagine.
-> 	- J.B.S. Haldane
+> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
+> 	- Louis Pasteur
 
 Stay Curious and keep Exploring!
