@@ -3,7 +3,7 @@
 June 7th, 2026
 
 ### Daily Quote:
-> Science without religion is lame, religion without science is blind.
-> 	- Albert Einstein
+> I think we have a great responsibility to understand our role in the universe.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
