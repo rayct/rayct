@@ -1,9 +1,9 @@
 # Welcome
 
-June 6th, 2026
+June 7th, 2026
 
 ### Daily Quote:
-> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
-> 	- Louis Pasteur
+> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
+> 	- Charles Darwin
 
 Stay Curious and keep Exploring!
