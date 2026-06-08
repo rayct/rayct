@@ -3,7 +3,7 @@
 June 8th, 2026
 
 ### Daily Quote:
-> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
-> 	- George Wald
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> 	- Isaac Asimov
 
 Stay Curious and keep Exploring!
