@@ -3,7 +3,7 @@
 June 8th, 2026
 
 ### Daily Quote:
-> Look deep into nature, and then you will understand everything better.
-> 	- Albert Einstein
+> Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
+> 	- Jane Goodall
 
 Stay Curious and keep Exploring!
