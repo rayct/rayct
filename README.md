@@ -3,7 +3,7 @@
 June 8th, 2026
 
 ### Daily Quote:
-> Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
-> 	- Jane Goodall
+> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
+> 	- George Wald
 
 Stay Curious and keep Exploring!
