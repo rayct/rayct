@@ -1,9 +1,9 @@
 # Welcome
 
-June 8th, 2026
+June 9th, 2026
 
 ### Daily Quote:
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
-> 	- Isaac Asimov
+> The most incomprehensible thing about the world is that it is comprehensible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
