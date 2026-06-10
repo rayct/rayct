@@ -1,9 +1,9 @@
 # Welcome
 
-June 9th, 2026
+June 10th, 2026
 
 ### Daily Quote:
-> Time is an illusion. Lunchtime doubly so.
-> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
+> 	- Georg C. Lichtenberg
 
 Stay Curious and keep Exploring!
