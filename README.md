@@ -3,7 +3,7 @@
 June 10th, 2026
 
 ### Daily Quote:
-> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
-> 	- Georg C. Lichtenberg
+> Astronomy compels the soul to look upwards and leads us from this world to another.
+> 	- Plato
 
 Stay Curious and keep Exploring!
