@@ -1,9 +1,11 @@
 # Welcome
 
-June 10th, 2026
+June 11th, 2026
 
 ### Daily Quote:
-> Astronomy compels the soul to look upwards and leads us from this world to another.
-> 	- Plato
+> The art and science of asking questions is the source of all knowledge.
+> 	- Thomas Berger
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
