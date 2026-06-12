@@ -1,11 +1,9 @@
 # Welcome
 
-June 11th, 2026
+June 12th, 2026
 
 ### Daily Quote:
-> The art and science of asking questions is the source of all knowledge.
-> 	- Thomas Berger
-> Science is a way of thinking much more than it is a body of knowledge.
-> 	- Carl Sagan
+> The first principle is that you must not fool yourself—and you are the easiest person to fool.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
