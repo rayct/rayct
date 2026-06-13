@@ -1,9 +1,9 @@
 # Welcome
 
-June 12th, 2026
+June 13th, 2026
 
 ### Daily Quote:
-> Physics is not about how the world is, it is about what we can say about the world.
-> 	- Niels Bohr
+> Mathematics is the language with which God has written the universe.
+> 	- Galileo Galilei
 
 Stay Curious and keep Exploring!
