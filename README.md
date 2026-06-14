@@ -3,7 +3,7 @@
 June 14th, 2026
 
 ### Daily Quote:
-> The future belongs to those who believe in the beauty of their dreams.
-> 	- Eleanor Roosevelt
+> Science is the great antidote to the poison of enthusiasm and superstition.
+> 	- Adam Smith
 
 Stay Curious and keep Exploring!
