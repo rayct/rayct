@@ -1,9 +1,9 @@
 # Welcome
 
-June 15th, 2026
+June 16th, 2026
 
 ### Daily Quote:
-> Science without religion is lame, religion without science is blind.
-> 	- Albert Einstein
+> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
+> 	- Georg C. Lichtenberg
 
 Stay Curious and keep Exploring!
