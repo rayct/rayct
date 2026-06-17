@@ -3,7 +3,7 @@
 June 17th, 2026
 
 ### Daily Quote:
-> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
-> 	- Charles Darwin
+> We still do not know one thousandth of one percent of what nature has revealed to us.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
