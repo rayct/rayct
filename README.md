@@ -3,7 +3,7 @@
 June 18th, 2026
 
 ### Daily Quote:
-> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
-> 	- Richard Feynman
+> The greatest scientists are artists as well.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
