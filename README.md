@@ -3,7 +3,7 @@
 June 18th, 2026
 
 ### Daily Quote:
-> The greatest scientists are artists as well.
-> 	- Albert Einstein
+> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
