@@ -3,7 +3,7 @@
 June 18th, 2026
 
 ### Daily Quote:
-> The first principle is that you must not fool yourself—and you are the easiest person to fool.
-> 	- Richard Feynman
+> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
