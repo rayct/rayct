@@ -1,9 +1,9 @@
 # Welcome
 
-June 17th, 2026
+June 18th, 2026
 
 ### Daily Quote:
-> We still do not know one thousandth of one percent of what nature has revealed to us.
-> 	- Albert Einstein
+> Every brilliant experiment, like every great work of art, starts with an act of imagination.
+> 	- Jonah Lehrer
 
 Stay Curious and keep Exploring!
