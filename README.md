@@ -3,7 +3,7 @@
 June 18th, 2026
 
 ### Daily Quote:
-> Every brilliant experiment, like every great work of art, starts with an act of imagination.
-> 	- Jonah Lehrer
+> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
