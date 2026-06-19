@@ -3,7 +3,7 @@
 June 19th, 2026
 
 ### Daily Quote:
-> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
-> 	- Charles Darwin
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!
