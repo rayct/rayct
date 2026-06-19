@@ -1,9 +1,9 @@
 # Welcome
 
-June 18th, 2026
+June 19th, 2026
 
 ### Daily Quote:
-> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
-> 	- Carl Sagan
+> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
+> 	- Charles Darwin
 
 Stay Curious and keep Exploring!
