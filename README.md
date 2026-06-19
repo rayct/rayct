@@ -3,7 +3,7 @@
 June 19th, 2026
 
 ### Daily Quote:
-> Science is organized knowledge. Wisdom is organized life.
-> 	- Immanuel Kant
+> The scientist is motivated primarily by curiosity and a desire for truth.
+> 	- Irving Langmuir
 
 Stay Curious and keep Exploring!
