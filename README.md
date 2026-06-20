@@ -3,7 +3,7 @@
 June 20th, 2026
 
 ### Daily Quote:
-> Exploration is in our nature. We began as wanderers, and we are wanderers still.
-> 	- Carl Sagan
+> In science, we must be interested in things, not in persons.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
