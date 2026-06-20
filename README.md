@@ -1,9 +1,9 @@
 # Welcome
 
-June 19th, 2026
+June 20th, 2026
 
 ### Daily Quote:
-> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
+> Exploration is in our nature. We began as wanderers, and we are wanderers still.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
