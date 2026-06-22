@@ -1,9 +1,9 @@
 # Welcome
 
-June 21st, 2026
+June 22nd, 2026
 
 ### Daily Quote:
-> An experiment is a question which science poses to Nature, and a measurement is the recording of Nature’s answer.
-> 	- Max Planck
+> Everything is theoretically impossible, until it is done.
+> 	- Robert A. Heinlein
 
 Stay Curious and keep Exploring!
