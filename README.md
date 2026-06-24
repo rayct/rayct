@@ -1,9 +1,9 @@
 # Welcome
 
-June 23rd, 2026
+June 24th, 2026
 
 ### Daily Quote:
-> To confine our attention to terrestrial matters would be to limit the human spirit.
-> 	- Stephen Hawking
+> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
