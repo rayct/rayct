@@ -3,7 +3,7 @@
 June 24th, 2026
 
 ### Daily Quote:
-> The greatest scientists are artists as well.
-> 	- Albert Einstein
+> The cure for boredom is curiosity. There is no cure for curiosity.
+> 	- Dorothy Parker
 
 Stay Curious and keep Exploring!
