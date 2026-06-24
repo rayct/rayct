@@ -3,7 +3,7 @@
 June 24th, 2026
 
 ### Daily Quote:
-> The whole of science is nothing more than a refinement of everyday thinking.
+> The greatest scientists are artists as well.
 > 	- Albert Einstein
 
 Stay Curious and keep Exploring!
