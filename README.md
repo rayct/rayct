@@ -3,7 +3,7 @@
 June 24th, 2026
 
 ### Daily Quote:
-> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
+> Somewhere, something incredible is waiting to be discovered.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
