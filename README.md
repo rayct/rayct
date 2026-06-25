@@ -3,7 +3,7 @@
 June 25th, 2026
 
 ### Daily Quote:
-> I think we have a great responsibility to understand our role in the universe.
-> 	- Neil deGrasse Tyson
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!
