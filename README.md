@@ -3,7 +3,7 @@
 June 25th, 2026
 
 ### Daily Quote:
-> The future belongs to those who believe in the beauty of their dreams.
-> 	- Eleanor Roosevelt
+> I would rather have questions that can't be answered than answers that can't be questioned.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
