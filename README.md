@@ -3,7 +3,7 @@
 June 26th, 2026
 
 ### Daily Quote:
-> The scientist is motivated primarily by curiosity and a desire for truth.
-> 	- Irving Langmuir
+> The task is not so much to see what no one yet has seen, but to think what nobody yet has thought about that which everybody sees.
+> 	- Erwin Schrödinger
 
 Stay Curious and keep Exploring!
