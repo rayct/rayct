@@ -1,9 +1,9 @@
 # Welcome
 
-June 27th, 2026
+June 28th, 2026
 
 ### Daily Quote:
-> The future belongs to those who believe in the beauty of their dreams.
-> 	- Eleanor Roosevelt
+> Science is nothing but perception.
+> 	- Plato
 
 Stay Curious and keep Exploring!
