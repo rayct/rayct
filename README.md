@@ -3,7 +3,7 @@
 June 29th, 2026
 
 ### Daily Quote:
-> The laws of physics are the same everywhere in the universe.
-> 	- Stephen Hawking
+> The more I study science, the more I believe in God.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
