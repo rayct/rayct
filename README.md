@@ -1,9 +1,9 @@
 # Welcome
 
-June 29th, 2026
+June 30th, 2026
 
 ### Daily Quote:
-> The more I study science, the more I believe in God.
-> 	- Albert Einstein
+> Physics is not about how the world is, it is about what we can say about the world.
+> 	- Niels Bohr
 
 Stay Curious and keep Exploring!
