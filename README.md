@@ -1,9 +1,9 @@
 # Welcome
 
-June 30th, 2026
+July 1st, 2026
 
 ### Daily Quote:
-> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
-> 	- George Wald
+> Physics is not about how the world is, it is about what we can say about the world.
+> 	- Niels Bohr
 
 Stay Curious and keep Exploring!
