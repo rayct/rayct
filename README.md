@@ -3,7 +3,7 @@
 July 1st, 2026
 
 ### Daily Quote:
-> Science is nothing but perception.
-> 	- Plato
+> The purpose of computing is insight, not numbers.
+> 	- Richard Hamming
 
 Stay Curious and keep Exploring!
