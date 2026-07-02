@@ -1,9 +1,9 @@
 # Welcome
 
-July 1st, 2026
+July 2nd, 2026
 
 ### Daily Quote:
-> We are like butterflies who flutter for a day and think it is forever.
-> 	- Carl Sagan
+> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
+> 	- Georg C. Lichtenberg
 
 Stay Curious and keep Exploring!
