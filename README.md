@@ -1,9 +1,9 @@
 # Welcome
 
-July 2nd, 2026
+July 3rd, 2026
 
 ### Daily Quote:
-> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
-> 	- Georg C. Lichtenberg
+> The important thing is not to stop questioning. Curiosity has its own reason for existing.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
