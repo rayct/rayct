@@ -1,9 +1,9 @@
 # Welcome
 
-July 3rd, 2026
+July 4th, 2026
 
 ### Daily Quote:
-> The important thing is not to stop questioning. Curiosity has its own reason for existing.
-> 	- Albert Einstein
+> Somewhere, something incredible is waiting to be known.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
