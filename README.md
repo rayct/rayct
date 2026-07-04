@@ -3,7 +3,7 @@
 July 4th, 2026
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be known.
+> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
