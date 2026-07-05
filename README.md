@@ -1,9 +1,9 @@
 # Welcome
 
-July 4th, 2026
+July 5th, 2026
 
 ### Daily Quote:
-> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
-> 	- Carl Sagan
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> 	- Isaac Asimov
 
 Stay Curious and keep Exploring!
