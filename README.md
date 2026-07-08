@@ -3,7 +3,7 @@
 July 8th, 2026
 
 ### Daily Quote:
-> If you can't explain it simply, you don't understand it well enough.
-> 	- Albert Einstein
+> The task is not so much to see what no one yet has seen, but to think what nobody yet has thought about that which everybody sees.
+> 	- Erwin Schrödinger
 
 Stay Curious and keep Exploring!
