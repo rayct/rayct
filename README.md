@@ -3,7 +3,7 @@
 July 10th, 2026
 
 ### Daily Quote:
-> The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
-> 	- Nikola Tesla
+> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
