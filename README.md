@@ -1,9 +1,9 @@
 # Welcome
 
-July 9th, 2026
+July 10th, 2026
 
 ### Daily Quote:
-> Research is what I'm doing when I don't know what I'm doing.
-> 	- Wernher von Braun
+> The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
+> 	- Nikola Tesla
 
 Stay Curious and keep Exploring!
