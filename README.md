@@ -3,7 +3,7 @@
 July 11th, 2026
 
 ### Daily Quote:
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
-> 	- Isaac Asimov
+> Physics is not about how the world is, it is about what we can say about the world.
+> 	- Niels Bohr
 
 Stay Curious and keep Exploring!
