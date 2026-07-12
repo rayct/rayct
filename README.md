@@ -3,7 +3,7 @@
 July 12th, 2026
 
 ### Daily Quote:
-> Science without religion is lame, religion without science is blind.
-> 	- Albert Einstein
+> The good thing about science is that it’s true whether or not you believe in it.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
