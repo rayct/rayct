@@ -1,9 +1,9 @@
 # Welcome
 
-July 11th, 2026
+July 12th, 2026
 
 ### Daily Quote:
-> Physics is not about how the world is, it is about what we can say about the world.
-> 	- Niels Bohr
+> Science without religion is lame, religion without science is blind.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
