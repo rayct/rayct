@@ -3,7 +3,7 @@
 July 14th, 2026
 
 ### Daily Quote:
-> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
-> 	- Charles Darwin
+> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
