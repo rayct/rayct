@@ -3,7 +3,7 @@
 July 16th, 2026
 
 ### Daily Quote:
-> The important thing is not to stop questioning. Curiosity has its own reason for existing.
-> 	- Albert Einstein
+> Every brilliant experiment, like every great work of art, starts with an act of imagination.
+> 	- Jonah Lehrer
 
 Stay Curious and keep Exploring!
