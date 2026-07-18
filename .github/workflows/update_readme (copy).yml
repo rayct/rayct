@@ -5,9 +5,6 @@ on:
     - cron: "0 0 * * *"  # Run daily at midnight UTC
   workflow_dispatch:  # Allows manual triggering
 
-permissions:
-  contents: write  # required for the push step below
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -42,7 +39,7 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git add README.md quotes.txt .quote_state.json
+          git add README.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

@@ -1,6 +1,0 @@
-YOLO test
-
----
-
-Documentation Maintained by: Raymond C. Turner
-Date: March 23rd, 2026

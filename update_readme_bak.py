@@ -33,43 +33,7 @@ new_quotes = [
     """The art and science of asking questions is the source of all knowledge.
 \t- Thomas Berger""",
     """Every brilliant experiment, like every great work of art, starts with an act of imagination.
-\t- Jonah Lehrer""",
-    """The first principle is that you must not fool yourself—and you are the easiest person to fool.
-\t- Richard Feynman""",
-    """In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
-\t- Geoffrey Hinton""",
-    """We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
-\t- Carl Sagan""",
-    """Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
-\t- William Ramsay""",
-    """It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
-\t- Georg C. Lichtenberg""",
-    """It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
-\t- Charles Darwin""",
-    """The greatest scientists are artists as well.
-\t- Albert Einstein""",
-    """Science is nothing but perception.
-\t- Plato""",
-    """The scientist is motivated primarily by curiosity and a desire for truth.
-\t- Irving Langmuir""",
-    """The good thing about science is that it’s self-correcting.
-\t- Neil deGrasse Tyson""",
-    """All science is either physics or stamp collecting.
-\t- Ernest Rutherford""",
-    """The purpose of computing is insight, not numbers.
-\t- Richard Hamming""",
-    """Somewhere, something incredible is waiting to be discovered.
-\t- Carl Sagan""",
-    """A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
-\t- George Wald""",
-    """Science without religion is lame, religion without science is blind.
-\t- Albert Einstein""",
-    """In science, we must be interested in things, not in persons.
-\t- Marie Curie""",
-    """The future belongs to those who believe in the beauty of their dreams.
-\t- Eleanor Roosevelt""",
-    """Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
-\t- Jacob Bronowski"""
+\t- Jonah Lehrer"""
 ]
 
 # Load current quotes and add new ones if missing
