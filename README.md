@@ -1,9 +1,9 @@
 # Welcome
 
-July 17th, 2026
+July 18th, 2026
 
 ### Daily Quote:
-> Your scientists were so concerned about whether they COULD, they didn't stop to think whether they SHOULD'.
-> 	- Dr Malcolm, Jurassic Park
+> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
+> 	- J. B. S. Haldane
 
 Stay Curious and keep Exploring!
