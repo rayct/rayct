@@ -3,7 +3,7 @@
 July 18th, 2026
 
 ### Daily Quote:
-> The universe seems neither benign nor hostile, merely indifferent.
-> 	- Carl Sagan
+> The scientist is motivated primarily by curiosity and a desire for truth.
+> 	- Irving Langmuir
 
 Stay Curious and keep Exploring!
