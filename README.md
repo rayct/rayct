@@ -3,7 +3,7 @@
 July 18th, 2026
 
 ### Daily Quote:
-> The scientist is motivated primarily by curiosity and a desire for truth.
-> 	- Irving Langmuir
+> The best way to predict the future is to invent it.
+> 	- Alan Kay
 
 Stay Curious and keep Exploring!
