@@ -1,9 +1,9 @@
 # Welcome
 
-July 18th, 2026
+July 19th, 2026
 
 ### Daily Quote:
-> The best way to predict the future is to invent it.
-> 	- Alan Kay
+> The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
