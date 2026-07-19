@@ -3,7 +3,7 @@
 July 19th, 2026
 
 ### Daily Quote:
-> The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
-> 	- Stephen Hawking
+> An experiment is a question which science poses to Nature, and a measurement is the recording of Nature’s answer.
+> 	- Max Planck
 
 Stay Curious and keep Exploring!
