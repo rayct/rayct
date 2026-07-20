@@ -3,7 +3,7 @@
 July 20th, 2026
 
 ### Daily Quote:
-> An experiment is a question which science poses to Nature, and a measurement is the recording of Nature’s answer.
-> 	- Max Planck
+> The more I study science, the more I believe in God.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
