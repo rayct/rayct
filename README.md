@@ -3,7 +3,7 @@
 July 21st, 2026
 
 ### Daily Quote:
-> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
-> 	- Georg C. Lichtenberg
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
