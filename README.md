@@ -3,7 +3,7 @@
 July 21st, 2026
 
 ### Daily Quote:
-> The scientist is motivated primarily by curiosity and a desire for truth.
-> 	- Irving Langmuir
+> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
+> 	- Georg C. Lichtenberg
 
 Stay Curious and keep Exploring!
