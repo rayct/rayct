@@ -1,9 +1,9 @@
 # Welcome
 
-July 22nd, 2026
+July 23rd, 2026
 
 ### Daily Quote:
-> In science, we must be interested in things, not in persons.
-> 	- Marie Curie
+> Computer science is no more about computers than astronomy is about telescopes.
+> 	- Edsger W. Dijkstra
 
 Stay Curious and keep Exploring!
