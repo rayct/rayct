@@ -3,7 +3,7 @@
 July 23rd, 2026
 
 ### Daily Quote:
-> Computer science is no more about computers than astronomy is about telescopes.
-> 	- Edsger W. Dijkstra
+> If I have seen further it is by standing on the shoulders of giants.
+> 	- Isaac Newton
 
 Stay Curious and keep Exploring!
