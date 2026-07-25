@@ -3,7 +3,7 @@
 July 25th, 2026
 
 ### Daily Quote:
-> Look deep into nature, and then you will understand everything better.
-> 	- Albert Einstein
+> Somewhere, something incredible is waiting to be known.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
