@@ -3,7 +3,7 @@
 July 25th, 2026
 
 ### Daily Quote:
-> Nature uses only the longest threads to weave her patterns.
-> 	- Richard P. Feynman
+> Look deep into nature, and then you will understand everything better.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
