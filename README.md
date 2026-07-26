@@ -1,9 +1,9 @@
 # Welcome
 
-July 25th, 2026
+July 26th, 2026
 
 ### Daily Quote:
-> The whole of science is nothing more than a refinement of everyday thinking.
-> 	- Albert Einstein
+> Beware of bugs in the above code; I have only proved it correct, not tried it.
+> 	- Donald Knuth
 
 Stay Curious and keep Exploring!
