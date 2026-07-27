@@ -3,7 +3,7 @@
 July 27th, 2026
 
 ### Daily Quote:
-> Physics isn't a religion. If it were, we'd have a much easier time raising money.
-> 	- Leon M. Lederman
+> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
+> 	- Edwin Powell Hubble
 
 Stay Curious and keep Exploring!
