@@ -3,7 +3,7 @@
 July 27th, 2026
 
 ### Daily Quote:
-> Chance favors the prepared mind.
-> 	- Louis Pasteur
+> Physics isn't a religion. If it were, we'd have a much easier time raising money.
+> 	- Leon M. Lederman
 
 Stay Curious and keep Exploring!
