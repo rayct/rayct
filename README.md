@@ -1,9 +1,9 @@
 # Welcome
 
-July 27th, 2026
+July 28th, 2026
 
 ### Daily Quote:
-> Science is what we understand well enough to explain to a computer. Art is everything else we do.
-> 	- Donald Knuth
+> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
