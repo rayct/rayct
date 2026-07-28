@@ -3,7 +3,7 @@
 July 28th, 2026
 
 ### Daily Quote:
-> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
-> 	- Richard Feynman
+> The purpose of computing is insight, not numbers.
+> 	- Richard Hamming
 
 Stay Curious and keep Exploring!
