@@ -1,9 +1,9 @@
 # Welcome
 
-July 29th, 2026
+July 30th, 2026
 
 ### Daily Quote:
-> Mathematics is the language with which God has written the universe.
-> 	- Galileo Galilei
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
