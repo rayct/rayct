@@ -3,7 +3,7 @@
 July 30th, 2026
 
 ### Daily Quote:
-> Science is a way of thinking much more than it is a body of knowledge.
-> 	- Carl Sagan
+> Everything is theoretically impossible, until it is done.
+> 	- Robert A. Heinlein
 
 Stay Curious and keep Exploring!
