@@ -1,9 +1,9 @@
 # Welcome
 
-July 30th, 2026
+July 31st, 2026
 
 ### Daily Quote:
-> If you can't explain it simply, you don't understand it well enough.
-> 	- Albert Einstein
+> In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
+> 	- Geoffrey Hinton
 
 Stay Curious and keep Exploring!
