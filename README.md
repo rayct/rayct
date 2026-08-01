@@ -3,7 +3,7 @@
 August 1st, 2026
 
 ### Daily Quote:
-> Programs must be written for people to read, and only incidentally for machines to execute.
-> 	- Harold Abelson
+> Testing shows the presence, not the absence of bugs.
+> 	- Edsger W. Dijkstra
 
 Stay Curious and keep Exploring!
