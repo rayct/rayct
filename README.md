@@ -3,7 +3,7 @@
 August 2nd, 2026
 
 ### Daily Quote:
-> Intelligence is the ability to adapt to change.
-> 	- Stephen Hawking
+> Physics is not about how the world is, it is about what we can say about the world.
+> 	- Niels Bohr
 
 Stay Curious and keep Exploring!
