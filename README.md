@@ -1,9 +1,9 @@
 # Welcome
 
-August 1st, 2026
+August 2nd, 2026
 
 ### Daily Quote:
-> Testing shows the presence, not the absence of bugs.
-> 	- Edsger W. Dijkstra
+> Intelligence is the ability to adapt to change.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
