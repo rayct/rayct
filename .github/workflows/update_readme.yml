@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write  # required for the push step below
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: false  # queue overlapping runs instead of racing on git push
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest

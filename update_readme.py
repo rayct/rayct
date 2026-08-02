@@ -43,7 +43,20 @@ def load_quotes(filename=QUOTES_FILE):
     if not content:
         return []
 
-    raw_quotes = [q.strip() for q in content.split("\n\n") if q.strip()]
+    raw_blocks = [b for b in content.split("\n\n") if b.strip()]
+
+    # Each block is normally exactly one (quote line, attribution line)
+    # pair. If a block has extra lines -- e.g. someone pasted in a new
+    # quote without leaving a blank line before it -- split it back into
+    # individual pairs instead of silently treating it as one garbled
+    # entry (this is the exact bug that was found in quotes.txt).
+    raw_quotes = []
+    for block in raw_blocks:
+        lines = block.splitlines()
+        for i in range(0, len(lines) - 1, 2):
+            raw_quotes.append(f"{lines[i]}\n{lines[i + 1]}")
+        if len(lines) % 2:
+            raw_quotes.append(lines[-1])
 
     deduped = {}
     for q in raw_quotes:
@@ -83,13 +96,21 @@ def pick_quote(quotes, state):
     # Drop any leftover keys that no longer correspond to a real quote
     # (e.g. a quote was removed from quotes.txt since the last run).
     remaining = [k for k in state.get("remaining", []) if k in lookup]
+    last_shown = state.get("last_shown")
 
     if not remaining:
         remaining = keys.copy()
         random.shuffle(remaining)
+        # Without this, the last quote of one cycle and the first quote of
+        # the next cycle can coincidentally be the same quote. Swap it out
+        # if so, so a repeat never happens even across a reshuffle.
+        if len(remaining) > 1 and remaining[-1] == last_shown:
+            swap_with = random.randrange(len(remaining) - 1)
+            remaining[-1], remaining[swap_with] = remaining[swap_with], remaining[-1]
 
     chosen_key = remaining.pop()
     state["remaining"] = remaining
+    state["last_shown"] = chosen_key
     return lookup[chosen_key], state
 
 
