@@ -3,7 +3,7 @@
 August 2nd, 2026
 
 ### Daily Quote:
-> The most incomprehensible thing about the world is that it is comprehensible.
-> 	- Albert Einstein
+> Extraordinary claims require extraordinary evidence.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
