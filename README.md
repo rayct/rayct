@@ -3,7 +3,7 @@
 August 2nd, 2026
 
 ### Daily Quote:
-> Physics is not about how the world is, it is about what we can say about the world.
-> 	- Niels Bohr
+> Somewhere, something incredible is waiting to be discovered.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
