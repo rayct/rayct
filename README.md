@@ -3,7 +3,7 @@
 August 2nd, 2026
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be discovered.
+> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
 > 	- Carl Sagan
 
 Stay Curious and keep Exploring!
