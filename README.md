@@ -3,7 +3,7 @@
 August 2nd, 2026
 
 ### Daily Quote:
-> Books break the shackles of time. A book is proof that humans are capable of working magic.
-> 	- Carl Sagan
+> The most incomprehensible thing about the world is that it is comprehensible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
