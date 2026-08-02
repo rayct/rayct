@@ -10,6 +10,7 @@ All notable changes to the daily-quote README project are documented in this fil
 - **`.quote_state.json` was never committed.** The commit step only staged `README.md`, so the shuffle-bag's progress never actually persisted across workflow runs.
 - **Formatting glitch in the quote data.** Two quotes ("The art and science of asking questions..." and "Science is a way of thinking...") were concatenated without a blank-line separator between them, causing them to be parsed as a single garbled entry.
 - **Inconsistent attribution-line indentation** (a mix of tabs and 4-space indents across entries) normalized to a single tab throughout `quotes.txt`.
+- **"Node.js 20 is deprecated" warning on every workflow run.** `actions/checkout@v3` and `actions/setup-python@v4` were still built against Node.js 20, which GitHub Actions runners now force onto Node.js 24 regardless. Bumped to `actions/checkout@v6` and `actions/setup-python@v6`, both of which natively support Node.js 24.
 
 ### Added
 - No-repeat "shuffle bag" quote selection (`pick_quote`) in `update_readme.py`, replacing plain `random.choice()`. Every quote in the pool is shown once before any quote repeats, closing the gap that let the same small subset show up repeatedly by chance.
