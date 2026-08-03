@@ -3,7 +3,7 @@
 August 3rd, 2026
 
 ### Daily Quote:
-> The good thing about science is that it’s true whether or not you believe in it.
-> 	- Neil deGrasse Tyson
+> Your scientists were so concerned about whether they COULD, they didn't stop to think whether they SHOULD'.
+> 	- Dr Malcolm, Jurassic Park
 
 Stay Curious and keep Exploring!
