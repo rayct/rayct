@@ -3,7 +3,7 @@
 August 3rd, 2026
 
 ### Daily Quote:
-> Your scientists were so concerned about whether they COULD, they didn't stop to think whether they SHOULD'.
-> 	- Dr Malcolm, Jurassic Park
+> Far better an approximate answer to the right question than an exact answer to the wrong one.
+> 	- John Tukey
 
 Stay Curious and keep Exploring!
