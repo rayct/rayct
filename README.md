@@ -1,9 +1,9 @@
 # Welcome
 
-August 2nd, 2026
+August 3rd, 2026
 
 ### Daily Quote:
-> Extraordinary claims require extraordinary evidence.
-> 	- Carl Sagan
+> The good thing about science is that it’s true whether or not you believe in it.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
