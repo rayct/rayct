@@ -3,7 +3,7 @@
 August 4th, 2026
 
 ### Daily Quote:
-> In science, there are no shortcuts to truth.
-> 	- Karl Popper
+> Every brilliant experiment, like every great work of art, starts with an act of imagination.
+> 	- Jonah Lehrer
 
 Stay Curious and keep Exploring!
