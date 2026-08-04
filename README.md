@@ -3,7 +3,7 @@
 August 4th, 2026
 
 ### Daily Quote:
-> Every brilliant experiment, like every great work of art, starts with an act of imagination.
-> 	- Jonah Lehrer
+> Remember to look up at the stars and not down at your feet.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
