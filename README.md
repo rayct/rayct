@@ -3,7 +3,7 @@
 August 4th, 2026
 
 ### Daily Quote:
-> All science is either physics or stamp collecting.
-> 	- Ernest Rutherford
+> In science, there are no shortcuts to truth.
+> 	- Karl Popper
 
 Stay Curious and keep Exploring!
