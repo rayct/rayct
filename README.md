@@ -1,9 +1,9 @@
 # Welcome
 
-August 3rd, 2026
+August 4th, 2026
 
 ### Daily Quote:
-> Far better an approximate answer to the right question than an exact answer to the wrong one.
-> 	- John Tukey
+> The future belongs to those who believe in the beauty of their dreams.
+> 	- Eleanor Roosevelt
 
 Stay Curious and keep Exploring!
