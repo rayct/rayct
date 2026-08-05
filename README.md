@@ -3,7 +3,7 @@
 August 5th, 2026
 
 ### Daily Quote:
-> Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
-> 	- William Ramsay
+> What we observe is not nature itself, but nature exposed to our method of questioning.
+> 	- Werner Heisenberg
 
 Stay Curious and keep Exploring!
