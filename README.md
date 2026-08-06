@@ -3,7 +3,7 @@
 August 6th, 2026
 
 ### Daily Quote:
-> I am among those who think that science has great beauty.
-> 	- Marie Curie
+> The task is not so much to see what no one yet has seen, but to think what nobody yet has thought about that which everybody sees.
+> 	- Erwin Schrödinger
 
 Stay Curious and keep Exploring!
