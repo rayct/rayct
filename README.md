@@ -1,9 +1,9 @@
 # Welcome
 
-August 5th, 2026
+August 6th, 2026
 
 ### Daily Quote:
-> What we observe is not nature itself, but nature exposed to our method of questioning.
-> 	- Werner Heisenberg
+> I am among those who think that science has great beauty.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
