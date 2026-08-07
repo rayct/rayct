@@ -1,9 +1,9 @@
 # Welcome
 
-August 6th, 2026
+August 7th, 2026
 
 ### Daily Quote:
-> The task is not so much to see what no one yet has seen, but to think what nobody yet has thought about that which everybody sees.
-> 	- Erwin Schrödinger
+> Nothing in life is to be feared, it is only to be understood.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
