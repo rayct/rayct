@@ -3,7 +3,7 @@
 August 8th, 2026
 
 ### Daily Quote:
-> The first principle is that you must not fool yourself—and you are the easiest person to fool.
-> 	- Richard Feynman
+> Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
+> 	- Jane Goodall
 
 Stay Curious and keep Exploring!
