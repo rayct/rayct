@@ -3,7 +3,7 @@
 August 8th, 2026
 
 ### Daily Quote:
-> Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
-> 	- Jane Goodall
+> In God we trust. All others must bring data.
+> 	- W. Edwards Deming
 
 Stay Curious and keep Exploring!
