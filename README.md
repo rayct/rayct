@@ -1,9 +1,9 @@
 # Welcome
 
-August 7th, 2026
+August 8th, 2026
 
 ### Daily Quote:
-> Science is nothing but perception.
-> 	- Plato
+> Only those who attempt the absurd can achieve the impossible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
