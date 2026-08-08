@@ -3,7 +3,7 @@
 August 8th, 2026
 
 ### Daily Quote:
-> Only those who attempt the absurd can achieve the impossible.
-> 	- Albert Einstein
+> The first principle is that you must not fool yourself—and you are the easiest person to fool.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
