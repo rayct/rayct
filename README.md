@@ -3,7 +3,7 @@
 August 9th, 2026
 
 ### Daily Quote:
-> Controlling complexity is the essence of computer programming.
-> 	- Brian Kernighan
+> The greatest scientists are artists as well.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
