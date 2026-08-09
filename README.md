@@ -1,9 +1,9 @@
 # Welcome
 
-August 8th, 2026
+August 9th, 2026
 
 ### Daily Quote:
-> In God we trust. All others must bring data.
-> 	- W. Edwards Deming
+> Controlling complexity is the essence of computer programming.
+> 	- Brian Kernighan
 
 Stay Curious and keep Exploring!
