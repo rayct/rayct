@@ -3,7 +3,7 @@
 August 10th, 2026
 
 ### Daily Quote:
-> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
-> 	- Charles Darwin
+> The art and science of asking questions is the source of all knowledge.
+> 	- Thomas Berger
 
 Stay Curious and keep Exploring!
