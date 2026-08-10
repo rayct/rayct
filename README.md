@@ -3,7 +3,7 @@
 August 10th, 2026
 
 ### Daily Quote:
-> The scientist is not a person who gives the right answers, he’s one who asks the right questions.
-> 	- Claude Lévi-Strauss
+> Research is what I'm doing when I don't know what I'm doing.
+> 	- Wernher von Braun
 
 Stay Curious and keep Exploring!
