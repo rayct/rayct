@@ -1,9 +1,9 @@
 # Welcome
 
-August 9th, 2026
+August 10th, 2026
 
 ### Daily Quote:
-> The good thing about science is that it’s self-correcting.
-> 	- Neil deGrasse Tyson
+> The scientist is not a person who gives the right answers, he’s one who asks the right questions.
+> 	- Claude Lévi-Strauss
 
 Stay Curious and keep Exploring!
