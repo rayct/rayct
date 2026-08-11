@@ -3,7 +3,7 @@
 August 11th, 2026
 
 ### Daily Quote:
-> Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
-> 	- Jacob Bronowski
+> The laws of physics are the same everywhere in the universe.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
