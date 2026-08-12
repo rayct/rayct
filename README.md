@@ -1,9 +1,9 @@
 # Welcome
 
-August 11th, 2026
+August 12th, 2026
 
 ### Daily Quote:
-> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
-> 	- Louis Pasteur
+> Perspective is worth 80 IQ points.
+> 	- Alan Kay
 
 Stay Curious and keep Exploring!
