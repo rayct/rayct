@@ -3,7 +3,7 @@
 August 12th, 2026
 
 ### Daily Quote:
-> Perspective is worth 80 IQ points.
-> 	- Alan Kay
+> Astronomy compels the soul to look upwards and leads us from this world to another.
+> 	- Plato
 
 Stay Curious and keep Exploring!
