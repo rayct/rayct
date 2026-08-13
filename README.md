@@ -1,9 +1,9 @@
 # Welcome
 
-August 12th, 2026
+August 13th, 2026
 
 ### Daily Quote:
-> Astronomy compels the soul to look upwards and leads us from this world to another.
-> 	- Plato
+> Simplicity is prerequisite for reliability.
+> 	- Edsger W. Dijkstra
 
 Stay Curious and keep Exploring!
