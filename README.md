@@ -3,7 +3,7 @@
 August 13th, 2026
 
 ### Daily Quote:
-> Simplicity is prerequisite for reliability.
-> 	- Edsger W. Dijkstra
+> We are an impossibility in an impossible universe.
+> 	- Ray Bradbury
 
 Stay Curious and keep Exploring!
