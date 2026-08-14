@@ -3,7 +3,7 @@
 August 14th, 2026
 
 ### Daily Quote:
-> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
-> 	- Richard Feynman
+> He who is fixed to a star does not change his mind.
+> 	- Leonardo da Vinci
 
 Stay Curious and keep Exploring!
