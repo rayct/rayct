@@ -1,9 +1,9 @@
 # Welcome
 
-August 13th, 2026
+August 14th, 2026
 
 ### Daily Quote:
-> We are like butterflies who flutter for a day and think it is forever.
-> 	- Carl Sagan
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
