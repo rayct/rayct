@@ -1,9 +1,9 @@
 # Welcome
 
-August 15th, 2026
+August 16th, 2026
 
 ### Daily Quote:
-> The universe is not only stranger than we imagine, it is stranger than we can imagine.
-> 	- J.B.S. Haldane
+> Today's science is tomorrow's technology.
+> 	- Edward Teller
 
 Stay Curious and keep Exploring!
