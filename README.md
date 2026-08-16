@@ -3,7 +3,7 @@
 August 16th, 2026
 
 ### Daily Quote:
-> Today's science is tomorrow's technology.
-> 	- Edward Teller
+> Science is the great antidote to the poison of enthusiasm and superstition.
+> 	- Adam Smith
 
 Stay Curious and keep Exploring!
