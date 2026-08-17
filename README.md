@@ -1,9 +1,9 @@
 # Welcome
 
-August 16th, 2026
+August 17th, 2026
 
 ### Daily Quote:
-> Science is the great antidote to the poison of enthusiasm and superstition.
-> 	- Adam Smith
+> Premature optimization is the root of all evil.
+> 	- Donald Knuth
 
 Stay Curious and keep Exploring!
