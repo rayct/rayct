@@ -3,7 +3,7 @@
 August 17th, 2026
 
 ### Daily Quote:
-> We still do not know one thousandth of one percent of what nature has revealed to us.
-> 	- Albert Einstein
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> 	- Isaac Asimov
 
 Stay Curious and keep Exploring!
