@@ -1,9 +1,9 @@
 # Welcome
 
-August 17th, 2026
+August 18th, 2026
 
 ### Daily Quote:
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-> 	- Albert Einstein
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
+> 	- Alan Turing
 
 Stay Curious and keep Exploring!
