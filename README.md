@@ -3,7 +3,7 @@
 August 18th, 2026
 
 ### Daily Quote:
-> We can only see a short distance ahead, but we can see plenty there that needs to be done.
-> 	- Alan Turing
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!
