@@ -3,7 +3,7 @@
 August 19th, 2026
 
 ### Daily Quote:
-> The universe is full of magical things patiently waiting for our wits to grow sharper.
-> 	- Eden Phillpotts
+> The universe seems neither benign nor hostile, merely indifferent.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
