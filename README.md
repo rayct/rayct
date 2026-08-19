@@ -3,7 +3,7 @@
 August 19th, 2026
 
 ### Daily Quote:
-> Absence of evidence is not evidence of absence.
-> 	- Carl Sagan
+> The universe is full of magical things patiently waiting for our wits to grow sharper.
+> 	- Eden Phillpotts
 
 Stay Curious and keep Exploring!
