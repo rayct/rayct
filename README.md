@@ -1,9 +1,9 @@
 # Welcome
 
-August 18th, 2026
+August 19th, 2026
 
 ### Daily Quote:
-> What I cannot create, I do not understand.
-> 	- Richard P. Feynman
+> Absence of evidence is not evidence of absence.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
