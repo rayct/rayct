@@ -1,9 +1,9 @@
 # Welcome
 
-August 19th, 2026
+August 20th, 2026
 
 ### Daily Quote:
-> It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
-> 	- Carl Friedrich Gauss
+> Any sufficiently advanced technology is indistinguishable from magic.
+> 	- Arthur C. Clarke
 
 Stay Curious and keep Exploring!
