@@ -1,9 +1,9 @@
 # Welcome
 
-August 20th, 2026
+August 21st, 2026
 
 ### Daily Quote:
-> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
-> 	- George Wald
+> To confine our attention to terrestrial matters would be to limit the human spirit.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
