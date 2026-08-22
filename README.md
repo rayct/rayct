@@ -3,7 +3,7 @@
 August 22nd, 2026
 
 ### Daily Quote:
-> The universe seems neither benign nor hostile, merely indifferent.
-> 	- Carl Sagan
+> All science is either physics or stamp collecting.
+> 	- Ernest Rutherford
 
 Stay Curious and keep Exploring!
