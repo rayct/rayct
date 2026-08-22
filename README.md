@@ -1,9 +1,9 @@
 # Welcome
 
-August 21st, 2026
+August 22nd, 2026
 
 ### Daily Quote:
-> The cure for boredom is curiosity. There is no cure for curiosity.
-> 	- Dorothy Parker
+> The universe seems neither benign nor hostile, merely indifferent.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
