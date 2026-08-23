@@ -1,9 +1,9 @@
 # Welcome
 
-August 22nd, 2026
+August 23rd, 2026
 
 ### Daily Quote:
-> All science is either physics or stamp collecting.
-> 	- Ernest Rutherford
+> Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> 	- Donald Knuth
 
 Stay Curious and keep Exploring!
