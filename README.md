@@ -3,7 +3,7 @@
 August 23rd, 2026
 
 ### Daily Quote:
-> Science is what we understand well enough to explain to a computer. Art is everything else we do.
-> 	- Donald Knuth
+> It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
+> 	- Carl Friedrich Gauss
 
 Stay Curious and keep Exploring!
