@@ -3,7 +3,7 @@
 August 24th, 2026
 
 ### Daily Quote:
-> Only those who attempt the absurd can achieve the impossible.
-> 	- Albert Einstein
+> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
+> 	- Edwin Powell Hubble
 
 Stay Curious and keep Exploring!
