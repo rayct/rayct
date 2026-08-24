@@ -3,7 +3,7 @@
 August 24th, 2026
 
 ### Daily Quote:
-> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
-> 	- Edwin Powell Hubble
+> Books break the shackles of time. A book is proof that humans are capable of working magic.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
