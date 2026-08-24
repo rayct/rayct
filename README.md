@@ -1,9 +1,9 @@
 # Welcome
 
-August 23rd, 2026
+August 24th, 2026
 
 ### Daily Quote:
-> It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
-> 	- Carl Friedrich Gauss
+> Only those who attempt the absurd can achieve the impossible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
