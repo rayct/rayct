@@ -1,9 +1,9 @@
 # Welcome
 
-August 24th, 2026
+August 25th, 2026
 
 ### Daily Quote:
-> Books break the shackles of time. A book is proof that humans are capable of working magic.
-> 	- Carl Sagan
+> The laws of physics are the same everywhere in the universe.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
