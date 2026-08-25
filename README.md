@@ -3,7 +3,7 @@
 August 25th, 2026
 
 ### Daily Quote:
-> The good thing about science is that it’s true whether or not you believe in it.
-> 	- Neil deGrasse Tyson
+> What we observe is not nature itself, but nature exposed to our method of questioning.
+> 	- Werner Heisenberg
 
 Stay Curious and keep Exploring!
