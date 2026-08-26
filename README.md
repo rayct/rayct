@@ -1,9 +1,9 @@
 # Welcome
 
-August 25th, 2026
+August 26th, 2026
 
 ### Daily Quote:
-> What we observe is not nature itself, but nature exposed to our method of questioning.
-> 	- Werner Heisenberg
+> Nothing in life is to be feared, it is only to be understood.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
