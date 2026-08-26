@@ -3,7 +3,7 @@
 August 26th, 2026
 
 ### Daily Quote:
-> Nothing in life is to be feared, it is only to be understood.
-> 	- Marie Curie
+> Look deep into nature, and then you will understand everything better.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
