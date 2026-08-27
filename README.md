@@ -3,7 +3,7 @@
 August 27th, 2026
 
 ### Daily Quote:
-> Today's science is tomorrow's technology.
-> 	- Edward Teller
+> Any sufficiently advanced technology is indistinguishable from magic.
+> 	- Arthur C. Clarke
 
 Stay Curious and keep Exploring!
