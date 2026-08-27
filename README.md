@@ -1,9 +1,9 @@
 # Welcome
 
-August 26th, 2026
+August 27th, 2026
 
 ### Daily Quote:
-> Look deep into nature, and then you will understand everything better.
-> 	- Albert Einstein
+> Today's science is tomorrow's technology.
+> 	- Edward Teller
 
 Stay Curious and keep Exploring!
