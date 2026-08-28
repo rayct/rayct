@@ -1,9 +1,9 @@
 # Welcome
 
-August 27th, 2026
+August 28th, 2026
 
 ### Daily Quote:
-> The best way to predict the future is to invent it.
-> 	- Alan Kay
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
