@@ -3,7 +3,7 @@
 August 29th, 2026
 
 ### Daily Quote:
-> I think we have a great responsibility to understand our role in the universe.
-> 	- Neil deGrasse Tyson
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
