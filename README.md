@@ -3,7 +3,7 @@
 August 29th, 2026
 
 ### Daily Quote:
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-> 	- Albert Einstein
+> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
