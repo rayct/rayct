@@ -1,9 +1,9 @@
 # Welcome
 
-August 29th, 2026
+August 30th, 2026
 
 ### Daily Quote:
-> I don't know anything, but I do know that everything is interesting if you go into it deeply enough.
-> 	- Richard Feynman
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!
