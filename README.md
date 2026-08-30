@@ -3,7 +3,7 @@
 August 30th, 2026
 
 ### Daily Quote:
-> Science is organized knowledge. Wisdom is organized life.
-> 	- Immanuel Kant
+> I would rather have questions that can't be answered than answers that can't be questioned.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
