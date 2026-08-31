@@ -1,9 +1,9 @@
 # Welcome
 
-August 30th, 2026
+August 31st, 2026
 
 ### Daily Quote:
-> I would rather have questions that can't be answered than answers that can't be questioned.
-> 	- Richard Feynman
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
