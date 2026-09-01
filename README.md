@@ -1,9 +1,9 @@
 # Welcome
 
-August 31st, 2026
+September 1st, 2026
 
 ### Daily Quote:
-> Simplicity is prerequisite for reliability.
-> 	- Edsger W. Dijkstra
+> Intelligence is the ability to adapt to change.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
