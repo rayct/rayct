@@ -1,9 +1,9 @@
 # Welcome
 
-September 1st, 2026
+September 2nd, 2026
 
 ### Daily Quote:
-> What I cannot create, I do not understand.
-> 	- Richard P. Feynman
+> Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
+> 	- William Ramsay
 
 Stay Curious and keep Exploring!
