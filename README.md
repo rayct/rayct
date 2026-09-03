@@ -3,7 +3,7 @@
 September 3rd, 2026
 
 ### Daily Quote:
-> Testing shows the presence, not the absence of bugs.
-> 	- Edsger W. Dijkstra
+> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
+> 	- William Lawrence Bragg
 
 Stay Curious and keep Exploring!
