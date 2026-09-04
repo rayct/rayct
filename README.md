@@ -3,7 +3,7 @@
 September 4th, 2026
 
 ### Daily Quote:
-> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
-> 	- Georg C. Lichtenberg
+> Nature uses only the longest threads to weave her patterns.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
