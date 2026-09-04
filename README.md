@@ -1,9 +1,9 @@
 # Welcome
 
-September 3rd, 2026
+September 4th, 2026
 
 ### Daily Quote:
-> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
-> 	- William Lawrence Bragg
+> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
+> 	- Louis Pasteur
 
 Stay Curious and keep Exploring!
