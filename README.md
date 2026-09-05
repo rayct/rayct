@@ -3,7 +3,7 @@
 September 5th, 2026
 
 ### Daily Quote:
-> Premature optimization is the root of all evil.
-> 	- Donald Knuth
+> Science is the great antidote to the poison of enthusiasm and superstition.
+> 	- Adam Smith
 
 Stay Curious and keep Exploring!
