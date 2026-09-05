@@ -1,9 +1,9 @@
 # Welcome
 
-September 4th, 2026
+September 5th, 2026
 
 ### Daily Quote:
-> Nature uses only the longest threads to weave her patterns.
-> 	- Richard P. Feynman
+> Premature optimization is the root of all evil.
+> 	- Donald Knuth
 
 Stay Curious and keep Exploring!
