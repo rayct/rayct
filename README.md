@@ -1,9 +1,9 @@
 # Welcome
 
-September 5th, 2026
+September 6th, 2026
 
 ### Daily Quote:
-> Science is the great antidote to the poison of enthusiasm and superstition.
-> 	- Adam Smith
+> Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
+> 	- Jane Goodall
 
 Stay Curious and keep Exploring!
