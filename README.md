@@ -1,9 +1,9 @@
 # Welcome
 
-September 6th, 2026
+September 7th, 2026
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be known.
-> 	- Carl Sagan
+> An experiment is a question which science poses to Nature, and a measurement is the recording of Nature’s answer.
+> 	- Max Planck
 
 Stay Curious and keep Exploring!
