@@ -3,7 +3,7 @@
 September 7th, 2026
 
 ### Daily Quote:
-> An experiment is a question which science poses to Nature, and a measurement is the recording of Nature’s answer.
-> 	- Max Planck
+> The task is not so much to see what no one yet has seen, but to think what nobody yet has thought about that which everybody sees.
+> 	- Erwin Schrödinger
 
 Stay Curious and keep Exploring!
