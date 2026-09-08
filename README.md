@@ -3,7 +3,7 @@
 September 8th, 2026
 
 ### Daily Quote:
-> The universe is not only stranger than we imagine, it is stranger than we can imagine.
-> 	- J.B.S. Haldane
+> Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
+> 	- Jacob Bronowski
 
 Stay Curious and keep Exploring!
