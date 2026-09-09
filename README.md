@@ -1,9 +1,9 @@
 # Welcome
 
-September 8th, 2026
+September 9th, 2026
 
 ### Daily Quote:
-> Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
-> 	- Jacob Bronowski
+> The scientist is not a person who gives the right answers, he’s one who asks the right questions.
+> 	- Claude Lévi-Strauss
 
 Stay Curious and keep Exploring!
