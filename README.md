@@ -3,7 +3,7 @@
 September 9th, 2026
 
 ### Daily Quote:
-> The universe is full of magical things patiently waiting for our wits to grow sharper.
-> 	- Eden Phillpotts
+> Historically when humans play God, it never goes well - God always wins.
+>      - @emmar-h2025
 
 Stay Curious and keep Exploring!
