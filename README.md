@@ -3,7 +3,7 @@
 September 10th, 2026
 
 ### Daily Quote:
-> The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
-> 	- Stephen Hawking
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
+> 	- Alan Turing
 
 Stay Curious and keep Exploring!
