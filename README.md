@@ -3,7 +3,7 @@
 September 10th, 2026
 
 ### Daily Quote:
-> We can only see a short distance ahead, but we can see plenty there that needs to be done.
-> 	- Alan Turing
+> Research is what I'm doing when I don't know what I'm doing.
+> 	- Wernher von Braun
 
 Stay Curious and keep Exploring!
