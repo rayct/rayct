@@ -1,9 +1,9 @@
 # Welcome
 
-September 9th, 2026
+September 10th, 2026
 
 ### Daily Quote:
-> Historically when humans play God, it never goes well - God always wins.
->      - @emmar-h2025
+> The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
