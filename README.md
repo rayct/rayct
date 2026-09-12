@@ -3,7 +3,7 @@
 September 12th, 2026
 
 ### Daily Quote:
-> The future belongs to those who believe in the beauty of their dreams.
-> 	- Eleanor Roosevelt
+> I am among those who think that science has great beauty.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
