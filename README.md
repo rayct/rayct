@@ -3,7 +3,7 @@
 September 12th, 2026
 
 ### Daily Quote:
-> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
-> 	- Jules Verne
+> The future belongs to those who believe in the beauty of their dreams.
+> 	- Eleanor Roosevelt
 
 Stay Curious and keep Exploring!
