@@ -1,9 +1,9 @@
 # Welcome
 
-September 11th, 2026
+September 12th, 2026
 
 ### Daily Quote:
-> The more I study science, the more I believe in God.
-> 	- Albert Einstein
+> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+> 	- Jules Verne
 
 Stay Curious and keep Exploring!
