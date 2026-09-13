@@ -1,9 +1,9 @@
 # Welcome
 
-September 12th, 2026
+September 13th, 2026
 
 ### Daily Quote:
-> I am among those who think that science has great beauty.
-> 	- Marie Curie
+> In science, there are no shortcuts to truth.
+> 	- Karl Popper
 
 Stay Curious and keep Exploring!
