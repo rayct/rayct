@@ -1,9 +1,9 @@
 # Welcome
 
-September 13th, 2026
+September 14th, 2026
 
 ### Daily Quote:
-> In God we trust. All others must bring data.
-> 	- W. Edwards Deming
+> Only when the last tree has been cut down, the last fish been caught, and the last stream poisoned, will we realize we cannot eat money.
+>      - Cree Indian Prophecy
 
 Stay Curious and keep Exploring!
