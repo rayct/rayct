@@ -3,7 +3,7 @@
 September 15th, 2026
 
 ### Daily Quote:
-> Beware of bugs in the above code; I have only proved it correct, not tried it.
-> 	- Donald Knuth
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> 	- Isaac Asimov
 
 Stay Curious and keep Exploring!
