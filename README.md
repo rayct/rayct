@@ -1,9 +1,9 @@
 # Welcome
 
-September 15th, 2026
+September 16th, 2026
 
 ### Daily Quote:
-> Science is nothing but perception.
-> 	- Plato
+> He who is fixed to a star does not change his mind.
+> 	- Leonardo da Vinci
 
 Stay Curious and keep Exploring!
