@@ -1,9 +1,9 @@
 # Welcome
 
-September 16th, 2026
+September 17th, 2026
 
 ### Daily Quote:
-> Everything is theoretically impossible, until it is done.
-> 	- Robert A. Heinlein
+> Extraordinary claims require extraordinary evidence.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
