@@ -3,7 +3,7 @@
 September 18th, 2026
 
 ### Daily Quote:
-> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
-> 	- Richard Feynman
+> Somewhere, something incredible is waiting to be discovered.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
