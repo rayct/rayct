@@ -1,9 +1,9 @@
 # Welcome
 
-September 17th, 2026
+September 18th, 2026
 
 ### Daily Quote:
-> Physics isn't a religion. If it were, we'd have a much easier time raising money.
-> 	- Leon M. Lederman
+> Computer science is no more about computers than astronomy is about telescopes.
+> 	- Edsger W. Dijkstra
 
 Stay Curious and keep Exploring!
