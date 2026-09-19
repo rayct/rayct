@@ -1,9 +1,9 @@
 # Welcome
 
-September 18th, 2026
+September 19th, 2026
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be discovered.
-> 	- Carl Sagan
+> Astronomy compels the soul to look upwards and leads us from this world to another.
+> 	- Plato
 
 Stay Curious and keep Exploring!
