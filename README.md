@@ -3,7 +3,7 @@
 September 19th, 2026
 
 ### Daily Quote:
-> Astronomy compels the soul to look upwards and leads us from this world to another.
-> 	- Plato
+> The good thing about science is that it’s self-correcting.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
