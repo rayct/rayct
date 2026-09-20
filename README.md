@@ -1,9 +1,9 @@
 # Welcome
 
-September 19th, 2026
+September 20th, 2026
 
 ### Daily Quote:
-> In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
-> 	- Geoffrey Hinton
+> We still do not know one thousandth of one percent of what nature has revealed to us.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
