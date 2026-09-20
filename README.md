@@ -3,7 +3,7 @@
 September 20th, 2026
 
 ### Daily Quote:
-> We still do not know one thousandth of one percent of what nature has revealed to us.
-> 	- Albert Einstein
+> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
+> 	- George Wald
 
 Stay Curious and keep Exploring!
