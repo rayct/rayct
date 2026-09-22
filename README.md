@@ -1,9 +1,9 @@
 # Welcome
 
-September 21st, 2026
+September 22nd, 2026
 
 ### Daily Quote:
-> The whole of science is nothing more than a refinement of everyday thinking.
+> If you can't explain it simply, you don't understand it well enough.
 > 	- Albert Einstein
 
 Stay Curious and keep Exploring!
