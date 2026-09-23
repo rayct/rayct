@@ -3,7 +3,7 @@
 September 23rd, 2026
 
 ### Daily Quote:
-> The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
-> 	- Nikola Tesla
+> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
+> 	- J. B. S. Haldane
 
 Stay Curious and keep Exploring!
