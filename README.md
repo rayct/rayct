@@ -1,9 +1,9 @@
 # Welcome
 
-September 22nd, 2026
+September 23rd, 2026
 
 ### Daily Quote:
-> In science, we must be interested in things, not in persons.
-> 	- Marie Curie
+> The most incomprehensible thing about the world is that it is comprehensible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
