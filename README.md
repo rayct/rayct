@@ -3,7 +3,7 @@
 September 23rd, 2026
 
 ### Daily Quote:
-> The most incomprehensible thing about the world is that it is comprehensible.
-> 	- Albert Einstein
+> The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
+> 	- Nikola Tesla
 
 Stay Curious and keep Exploring!
