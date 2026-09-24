@@ -3,7 +3,7 @@
 September 24th, 2026
 
 ### Daily Quote:
-> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
-> 	- Charles Darwin
+> The universe is under no obligation to make sense to you.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
