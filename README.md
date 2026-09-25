@@ -3,7 +3,7 @@
 September 25th, 2026
 
 ### Daily Quote:
-> The purpose of computing is insight, not numbers.
-> 	- Richard Hamming
+> The first principle is that you must not fool yourself—and you are the easiest person to fool.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
