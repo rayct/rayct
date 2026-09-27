@@ -3,7 +3,7 @@
 September 27th, 2026
 
 ### Daily Quote:
-> Exploration is in our nature. We began as wanderers, and we are wanderers still.
-> 	- Carl Sagan
+> Every brilliant experiment, like every great work of art, starts with an act of imagination.
+> 	- Jonah Lehrer
 
 Stay Curious and keep Exploring!
