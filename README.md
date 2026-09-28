@@ -3,7 +3,7 @@
 September 28th, 2026
 
 ### Daily Quote:
-> Absence of evidence is not evidence of absence.
-> 	- Carl Sagan
+> The cure for boredom is curiosity. There is no cure for curiosity.
+> 	- Dorothy Parker
 
 Stay Curious and keep Exploring!
