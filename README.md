@@ -3,7 +3,7 @@
 September 28th, 2026
 
 ### Daily Quote:
-> Controlling complexity is the essence of computer programming.
-> 	- Brian Kernighan
+> Absence of evidence is not evidence of absence.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
