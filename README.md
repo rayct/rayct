@@ -3,7 +3,7 @@
 September 29th, 2026
 
 ### Daily Quote:
-> Your scientists were so concerned about whether they COULD, they didn't stop to think whether they SHOULD'.
-> 	- Dr Malcolm, Jurassic Park
+> The greatest scientists are artists as well.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
