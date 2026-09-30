@@ -3,7 +3,7 @@
 September 30th, 2026
 
 ### Daily Quote:
-> Mathematics is the language with which God has written the universe.
-> 	- Galileo Galilei
+> Time is an illusion. Lunchtime doubly so.
+> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
 
 Stay Curious and keep Exploring!
