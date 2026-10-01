@@ -3,7 +3,7 @@
 October 1st, 2026
 
 ### Daily Quote:
-> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
-> 	- Carl Sagan
+> Perspective is worth 80 IQ points.
+> 	- Alan Kay
 
 Stay Curious and keep Exploring!
