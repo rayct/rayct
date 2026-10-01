@@ -1,9 +1,9 @@
 # Welcome
 
-September 30th, 2026
+October 1st, 2026
 
 ### Daily Quote:
-> Time is an illusion. Lunchtime doubly so.
-> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
