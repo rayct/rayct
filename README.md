@@ -1,9 +1,9 @@
 # Welcome
 
-October 1st, 2026
+October 2nd, 2026
 
 ### Daily Quote:
-> Perspective is worth 80 IQ points.
-> 	- Alan Kay
+> Remember to look up at the stars and not down at your feet.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
