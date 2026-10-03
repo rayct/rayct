@@ -1,9 +1,9 @@
 # Welcome
 
-October 2nd, 2026
+October 3rd, 2026
 
 ### Daily Quote:
-> The art and science of asking questions is the source of all knowledge.
-> 	- Thomas Berger
+> Chance favors the prepared mind.
+> 	- Louis Pasteur
 
 Stay Curious and keep Exploring!
