@@ -3,7 +3,7 @@
 October 3rd, 2026
 
 ### Daily Quote:
-> Chance favors the prepared mind.
-> 	- Louis Pasteur
+> Testing shows the presence, not the absence of bugs.
+> 	- Edsger W. Dijkstra
 
 Stay Curious and keep Exploring!
