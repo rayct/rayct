@@ -3,7 +3,7 @@
 October 4th, 2026
 
 ### Daily Quote:
-> Beware of bugs in the above code; I have only proved it correct, not tried it.
-> 	- Donald Knuth
+> The scientist is not a person who gives the right answers, he’s one who asks the right questions.
+> 	- Claude Lévi-Strauss
 
 Stay Curious and keep Exploring!
