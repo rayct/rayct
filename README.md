@@ -1,9 +1,9 @@
 # Welcome
 
-October 3rd, 2026
+October 4th, 2026
 
 ### Daily Quote:
-> Testing shows the presence, not the absence of bugs.
-> 	- Edsger W. Dijkstra
+> An experiment is a question which science poses to Nature, and a measurement is the recording of Nature’s answer.
+> 	- Max Planck
 
 Stay Curious and keep Exploring!
