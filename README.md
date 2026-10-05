@@ -3,7 +3,7 @@
 October 5th, 2026
 
 ### Daily Quote:
-> In science, we must be interested in things, not in persons.
-> 	- Marie Curie
+> Astronomy compels the soul to look upwards and leads us from this world to another.
+> 	- Plato
 
 Stay Curious and keep Exploring!
