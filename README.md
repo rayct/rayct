@@ -3,7 +3,7 @@
 October 6th, 2026
 
 ### Daily Quote:
-> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
-> 	- Carl Sagan
+> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
+> 	- George Wald
 
 Stay Curious and keep Exploring!
