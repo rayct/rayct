@@ -1,9 +1,9 @@
 # Welcome
 
-October 5th, 2026
+October 6th, 2026
 
 ### Daily Quote:
-> Astronomy compels the soul to look upwards and leads us from this world to another.
-> 	- Plato
+> We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
