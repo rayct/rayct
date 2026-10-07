@@ -1,9 +1,9 @@
 # Welcome
 
-October 6th, 2026
+October 7th, 2026
 
 ### Daily Quote:
-> A scientist lives with all reality. There is nothing better. To know reality is to accept it, and even to love it.
-> 	- George Wald
+> The universe is full of magical things patiently waiting for our wits to grow sharper.
+> 	- Eden Phillpotts
 
 Stay Curious and keep Exploring!
