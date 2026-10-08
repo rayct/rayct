@@ -3,7 +3,7 @@
 October 8th, 2026
 
 ### Daily Quote:
-> The whole of science is nothing more than a refinement of everyday thinking.
-> 	- Albert Einstein
+> The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
