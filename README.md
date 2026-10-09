@@ -1,9 +1,9 @@
 # Welcome
 
-October 8th, 2026
+October 9th, 2026
 
 ### Daily Quote:
-> The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
-> 	- Stephen Hawking
+> The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.
+> 	- William Lawrence Bragg
 
 Stay Curious and keep Exploring!
