@@ -3,7 +3,7 @@
 October 10th, 2026
 
 ### Daily Quote:
-> Physics is not about how the world is, it is about what we can say about the world.
-> 	- Niels Bohr
+> We still do not know one thousandth of one percent of what nature has revealed to us.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
