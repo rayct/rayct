@@ -1,9 +1,9 @@
 # Welcome
 
-October 10th, 2026
+October 11th, 2026
 
 ### Daily Quote:
-> We still do not know one thousandth of one percent of what nature has revealed to us.
-> 	- Albert Einstein
+> The art and science of asking questions is the source of all knowledge.
+> 	- Thomas Berger
 
 Stay Curious and keep Exploring!
