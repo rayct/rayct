@@ -3,7 +3,7 @@
 October 11th, 2026
 
 ### Daily Quote:
-> The art and science of asking questions is the source of all knowledge.
-> 	- Thomas Berger
+> All science is either physics or stamp collecting.
+> 	- Ernest Rutherford
 
 Stay Curious and keep Exploring!
