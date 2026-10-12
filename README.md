@@ -1,9 +1,9 @@
 # Welcome
 
-October 11th, 2026
+October 12th, 2026
 
 ### Daily Quote:
-> All science is either physics or stamp collecting.
-> 	- Ernest Rutherford
+> Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+> 	- Jules Verne
 
 Stay Curious and keep Exploring!
