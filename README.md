@@ -1,9 +1,9 @@
 # Welcome
 
-October 12th, 2026
+October 13th, 2026
 
 ### Daily Quote:
-> I think we have a great responsibility to understand our role in the universe.
-> 	- Neil deGrasse Tyson
+> Look deep into nature, and then you will understand everything better.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
