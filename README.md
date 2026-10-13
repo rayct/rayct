@@ -3,7 +3,7 @@
 October 13th, 2026
 
 ### Daily Quote:
-> Your scientists were so concerned about whether they COULD, they didn't stop to think whether they SHOULD'.
-> 	- Dr Malcolm, Jurassic Park
+> Simplicity is prerequisite for reliability.
+> 	- Edsger W. Dijkstra
 
 Stay Curious and keep Exploring!
