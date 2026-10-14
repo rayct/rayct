@@ -1,9 +1,9 @@
 # Welcome
 
-October 13th, 2026
+October 14th, 2026
 
 ### Daily Quote:
-> Simplicity is prerequisite for reliability.
-> 	- Edsger W. Dijkstra
+> Remember to look up at the stars and not down at your feet.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
