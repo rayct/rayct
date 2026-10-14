@@ -3,7 +3,7 @@
 October 14th, 2026
 
 ### Daily Quote:
-> Remember to look up at the stars and not down at your feet.
-> 	- Stephen Hawking
+> I am among those who think that science has great beauty.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
