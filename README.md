@@ -1,9 +1,9 @@
 # Welcome
 
-October 14th, 2026
+October 15th, 2026
 
 ### Daily Quote:
-> I am among those who think that science has great beauty.
-> 	- Marie Curie
+> The purpose of computing is insight, not numbers.
+> 	- Richard Hamming
 
 Stay Curious and keep Exploring!
