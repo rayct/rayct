@@ -3,7 +3,7 @@
 October 15th, 2026
 
 ### Daily Quote:
-> The purpose of computing is insight, not numbers.
-> 	- Richard Hamming
+> Somewhere, something incredible is waiting to be discovered.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
