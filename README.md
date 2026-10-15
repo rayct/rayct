@@ -3,7 +3,7 @@
 October 15th, 2026
 
 ### Daily Quote:
-> Somewhere, something incredible is waiting to be discovered.
-> 	- Carl Sagan
+> Everything is theoretically impossible, until it is done.
+> 	- Robert A. Heinlein
 
 Stay Curious and keep Exploring!
