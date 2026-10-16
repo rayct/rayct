@@ -1,9 +1,9 @@
 # Welcome
 
-October 15th, 2026
+October 16th, 2026
 
 ### Daily Quote:
-> Everything is theoretically impossible, until it is done.
-> 	- Robert A. Heinlein
+> It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
+> 	- Carl Friedrich Gauss
 
 Stay Curious and keep Exploring!
