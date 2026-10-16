@@ -3,7 +3,7 @@
 October 16th, 2026
 
 ### Daily Quote:
-> It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
-> 	- Carl Friedrich Gauss
+> In science, there are no shortcuts to truth.
+> 	- Karl Popper
 
 Stay Curious and keep Exploring!
