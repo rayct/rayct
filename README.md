@@ -3,7 +3,7 @@
 October 17th, 2026
 
 ### Daily Quote:
-> Science is what we understand well enough to explain to a computer. Art is everything else we do.
-> 	- Donald Knuth
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
