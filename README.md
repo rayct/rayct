@@ -1,9 +1,9 @@
 # Welcome
 
-October 16th, 2026
+October 17th, 2026
 
 ### Daily Quote:
-> In science, there are no shortcuts to truth.
-> 	- Karl Popper
+> Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> 	- Donald Knuth
 
 Stay Curious and keep Exploring!
