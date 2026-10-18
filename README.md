@@ -3,7 +3,7 @@
 October 18th, 2026
 
 ### Daily Quote:
-> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
-> 	- Louis Pasteur
+> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
