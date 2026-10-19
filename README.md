@@ -3,7 +3,7 @@
 October 19th, 2026
 
 ### Daily Quote:
-> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.
-> 	- Charles Darwin
+> The greatest scientists are artists as well.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
