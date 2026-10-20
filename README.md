@@ -3,7 +3,7 @@
 October 20th, 2026
 
 ### Daily Quote:
-> The best way to predict the future is to invent it.
-> 	- Alan Kay
+> Time is an illusion. Lunchtime doubly so.
+> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
 
 Stay Curious and keep Exploring!
