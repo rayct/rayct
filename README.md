@@ -3,7 +3,7 @@
 October 20th, 2026
 
 ### Daily Quote:
-> Time is an illusion. Lunchtime doubly so.
-> 	- Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
+> The cure for boredom is curiosity. There is no cure for curiosity.
+> 	- Dorothy Parker
 
 Stay Curious and keep Exploring!
