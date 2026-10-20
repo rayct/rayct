@@ -1,9 +1,9 @@
 # Welcome
 
-October 19th, 2026
+October 20th, 2026
 
 ### Daily Quote:
-> The greatest scientists are artists as well.
-> 	- Albert Einstein
+> The best way to predict the future is to invent it.
+> 	- Alan Kay
 
 Stay Curious and keep Exploring!
