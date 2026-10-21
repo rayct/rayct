@@ -3,7 +3,7 @@
 October 21st, 2026
 
 ### Daily Quote:
-> If I have seen further it is by standing on the shoulders of giants.
-> 	- Isaac Newton
+> I would rather have questions that can't be answered than answers that can't be questioned.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
