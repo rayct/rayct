@@ -3,7 +3,7 @@
 October 21st, 2026
 
 ### Daily Quote:
-> Perspective is worth 80 IQ points.
-> 	- Alan Kay
+> We are an impossibility in an impossible universe.
+> 	- Ray Bradbury
 
 Stay Curious and keep Exploring!
