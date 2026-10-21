@@ -3,7 +3,7 @@
 October 21st, 2026
 
 ### Daily Quote:
-> We are an impossibility in an impossible universe.
-> 	- Ray Bradbury
+> If I have seen further it is by standing on the shoulders of giants.
+> 	- Isaac Newton
 
 Stay Curious and keep Exploring!
