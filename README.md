@@ -1,9 +1,9 @@
 # Welcome
 
-October 20th, 2026
+October 21st, 2026
 
 ### Daily Quote:
-> The cure for boredom is curiosity. There is no cure for curiosity.
-> 	- Dorothy Parker
+> Perspective is worth 80 IQ points.
+> 	- Alan Kay
 
 Stay Curious and keep Exploring!
