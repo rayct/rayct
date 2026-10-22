@@ -3,7 +3,7 @@
 October 22nd, 2026
 
 ### Daily Quote:
-> Science is the great antidote to the poison of enthusiasm and superstition.
-> 	- Adam Smith
+> Equipped with his five senses, man explores the universe around him and calls the adventure Science.
+> 	- Edwin Powell Hubble
 
 Stay Curious and keep Exploring!
