@@ -3,7 +3,7 @@
 October 23rd, 2026
 
 ### Daily Quote:
-> Nature uses only the longest threads to weave her patterns.
-> 	- Richard P. Feynman
+> Controlling complexity is the essence of computer programming.
+> 	- Brian Kernighan
 
 Stay Curious and keep Exploring!
