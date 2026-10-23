@@ -1,9 +1,9 @@
 # Welcome
 
-October 22nd, 2026
+October 23rd, 2026
 
 ### Daily Quote:
-> He who is fixed to a star does not change his mind.
-> 	- Leonardo da Vinci
+> Nature uses only the longest threads to weave her patterns.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
