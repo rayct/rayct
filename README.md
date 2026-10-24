@@ -1,9 +1,9 @@
 # Welcome
 
-October 23rd, 2026
+October 24th, 2026
 
 ### Daily Quote:
-> Controlling complexity is the essence of computer programming.
-> 	- Brian Kernighan
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
+> 	- Alan Turing
 
 Stay Curious and keep Exploring!
