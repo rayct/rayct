@@ -3,7 +3,7 @@
 October 25th, 2026
 
 ### Daily Quote:
-> Programs must be written for people to read, and only incidentally for machines to execute.
-> 	- Harold Abelson
+> Every brilliant experiment, like every great work of art, starts with an act of imagination.
+> 	- Jonah Lehrer
 
 Stay Curious and keep Exploring!
