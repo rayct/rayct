@@ -1,9 +1,9 @@
 # Welcome
 
-October 24th, 2026
+October 25th, 2026
 
 ### Daily Quote:
-> Science is organized knowledge. Wisdom is organized life.
-> 	- Immanuel Kant
+> Programs must be written for people to read, and only incidentally for machines to execute.
+> 	- Harold Abelson
 
 Stay Curious and keep Exploring!
