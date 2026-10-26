@@ -1,9 +1,9 @@
 # Welcome
 
-October 25th, 2026
+October 26th, 2026
 
 ### Daily Quote:
-> Every brilliant experiment, like every great work of art, starts with an act of imagination.
-> 	- Jonah Lehrer
+> The first principle is that you must not fool yourself—and you are the easiest person to fool.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
