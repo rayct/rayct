@@ -3,7 +3,7 @@
 October 27th, 2026
 
 ### Daily Quote:
-> Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
-> 	- Jane Goodall
+> The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
+> 	- Nikola Tesla
 
 Stay Curious and keep Exploring!
