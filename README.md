@@ -1,9 +1,9 @@
 # Welcome
 
-October 26th, 2026
+October 27th, 2026
 
 ### Daily Quote:
-> Absence of evidence is not evidence of absence.
-> 	- Carl Sagan
+> Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
+> 	- Jane Goodall
 
 Stay Curious and keep Exploring!
