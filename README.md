@@ -1,9 +1,9 @@
 # Welcome
 
-October 27th, 2026
+October 28th, 2026
 
 ### Daily Quote:
-> The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
-> 	- Nikola Tesla
+> The universe is not only stranger than we imagine, it is stranger than we can imagine.
+> 	- J.B.S. Haldane
 
 Stay Curious and keep Exploring!
