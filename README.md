@@ -3,7 +3,7 @@
 October 28th, 2026
 
 ### Daily Quote:
-> The universe is not only stranger than we imagine, it is stranger than we can imagine.
-> 	- J.B.S. Haldane
+> The task is not so much to see what no one yet has seen, but to think what nobody yet has thought about that which everybody sees.
+> 	- Erwin Schrödinger
 
 Stay Curious and keep Exploring!
