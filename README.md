@@ -1,9 +1,9 @@
 # Welcome
 
-October 28th, 2026
+October 29th, 2026
 
 ### Daily Quote:
-> The task is not so much to see what no one yet has seen, but to think what nobody yet has thought about that which everybody sees.
-> 	- Erwin Schrödinger
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
