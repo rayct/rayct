@@ -3,7 +3,7 @@
 October 30th, 2026
 
 ### Daily Quote:
-> What we observe is not nature itself, but nature exposed to our method of questioning.
-> 	- Werner Heisenberg
+> The most incomprehensible thing about the world is that it is comprehensible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
