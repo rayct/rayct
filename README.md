@@ -1,9 +1,9 @@
 # Welcome
 
-October 29th, 2026
+October 30th, 2026
 
 ### Daily Quote:
-> Any sufficiently advanced technology is indistinguishable from magic.
-> 	- Arthur C. Clarke
+> What we observe is not nature itself, but nature exposed to our method of questioning.
+> 	- Werner Heisenberg
 
 Stay Curious and keep Exploring!
