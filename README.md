@@ -1,9 +1,9 @@
 # Welcome
 
-October 30th, 2026
+October 31st, 2026
 
 ### Daily Quote:
-> The most incomprehensible thing about the world is that it is comprehensible.
-> 	- Albert Einstein
+> The universe seems neither benign nor hostile, merely indifferent.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
