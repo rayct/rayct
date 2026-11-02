@@ -1,9 +1,9 @@
 # Welcome
 
-November 1st, 2026
+November 2nd, 2026
 
 ### Daily Quote:
-> Mathematics is the language with which God has written the universe.
-> 	- Galileo Galilei
+> The good thing about science is that it’s self-correcting.
+> 	- Neil deGrasse Tyson
 
 Stay Curious and keep Exploring!
