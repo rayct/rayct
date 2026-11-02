@@ -3,7 +3,7 @@
 November 2nd, 2026
 
 ### Daily Quote:
-> The good thing about science is that it’s self-correcting.
-> 	- Neil deGrasse Tyson
+> Computer science is no more about computers than astronomy is about telescopes.
+> 	- Edsger W. Dijkstra
 
 Stay Curious and keep Exploring!
