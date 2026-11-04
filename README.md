@@ -3,7 +3,7 @@
 November 4th, 2026
 
 ### Daily Quote:
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-> 	- Albert Einstein
+> In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
+> 	- Geoffrey Hinton
 
 Stay Curious and keep Exploring!
