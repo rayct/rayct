@@ -3,7 +3,7 @@
 November 6th, 2026
 
 ### Daily Quote:
-> Intelligence is the ability to adapt to change.
-> 	- Stephen Hawking
+> Today's science is tomorrow's technology.
+> 	- Edward Teller
 
 Stay Curious and keep Exploring!
