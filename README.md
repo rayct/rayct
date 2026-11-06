@@ -1,9 +1,9 @@
 # Welcome
 
-November 5th, 2026
+November 6th, 2026
 
 ### Daily Quote:
-> The good thing about science is that it’s true whether or not you believe in it.
-> 	- Neil deGrasse Tyson
+> Intelligence is the ability to adapt to change.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
