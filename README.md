@@ -3,7 +3,7 @@
 November 6th, 2026
 
 ### Daily Quote:
-> Today's science is tomorrow's technology.
-> 	- Edward Teller
+> Science is nothing but perception.
+> 	- Plato
 
 Stay Curious and keep Exploring!
