@@ -1,9 +1,9 @@
 # Welcome
 
-November 6th, 2026
+November 7th, 2026
 
 ### Daily Quote:
-> Science is nothing but perception.
-> 	- Plato
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> 	- Isaac Asimov
 
 Stay Curious and keep Exploring!
