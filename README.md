@@ -3,7 +3,7 @@
 November 8th, 2026
 
 ### Daily Quote:
-> What I cannot create, I do not understand.
-> 	- Richard P. Feynman
+> Only those who attempt the absurd can achieve the impossible.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
