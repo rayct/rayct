@@ -1,9 +1,9 @@
 # Welcome
 
-November 7th, 2026
+November 8th, 2026
 
 ### Daily Quote:
-> Research is what I'm doing when I don't know what I'm doing.
-> 	- Wernher von Braun
+> What I cannot create, I do not understand.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
