@@ -3,7 +3,7 @@
 November 8th, 2026
 
 ### Daily Quote:
-> Only those who attempt the absurd can achieve the impossible.
+> The more I study science, the more I believe in God.
 > 	- Albert Einstein
 
 Stay Curious and keep Exploring!
