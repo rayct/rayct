@@ -1,9 +1,9 @@
 # Welcome
 
-November 8th, 2026
+November 9th, 2026
 
 ### Daily Quote:
-> The more I study science, the more I believe in God.
-> 	- Albert Einstein
+> Only when the last tree has been cut down, the last fish been caught, and the last stream poisoned, will we realize we cannot eat money.
+>      - Cree Indian Prophecy
 
 Stay Curious and keep Exploring!
