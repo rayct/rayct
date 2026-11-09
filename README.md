@@ -3,7 +3,7 @@
 November 9th, 2026
 
 ### Daily Quote:
-> Only when the last tree has been cut down, the last fish been caught, and the last stream poisoned, will we realize we cannot eat money.
->      - Cree Indian Prophecy
+> Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself.
+> 	- Richard Feynman
 
 Stay Curious and keep Exploring!
