@@ -1,9 +1,9 @@
 # Welcome
 
-November 9th, 2026
+November 10th, 2026
 
 ### Daily Quote:
-> Progress is made by trial and failure; the failures are generally a hundred times more numerous than the successes; yet they are usually left unchronicled.
-> 	- William Ramsay
+> Historically when humans play God, it never goes well - God always wins.
+>      - @emmar-h2025
 
 Stay Curious and keep Exploring!
