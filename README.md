@@ -3,7 +3,7 @@
 November 10th, 2026
 
 ### Daily Quote:
-> Historically when humans play God, it never goes well - God always wins.
->      - @emmar-h2025
+> Physics isn't a religion. If it were, we'd have a much easier time raising money.
+> 	- Leon M. Lederman
 
 Stay Curious and keep Exploring!
