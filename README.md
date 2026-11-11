@@ -1,9 +1,9 @@
 # Welcome
 
-November 10th, 2026
+November 11th, 2026
 
 ### Daily Quote:
-> Physics isn't a religion. If it were, we'd have a much easier time raising money.
-> 	- Leon M. Lederman
+> If you can't explain it simply, you don't understand it well enough.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
