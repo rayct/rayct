@@ -3,7 +3,7 @@
 November 12th, 2026
 
 ### Daily Quote:
-> The laws of physics are the same everywhere in the universe.
+> To confine our attention to terrestrial matters would be to limit the human spirit.
 > 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
