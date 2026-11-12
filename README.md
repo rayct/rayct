@@ -1,9 +1,9 @@
 # Welcome
 
-November 11th, 2026
+November 12th, 2026
 
 ### Daily Quote:
-> Nothing in life is to be feared, it is only to be understood.
-> 	- Marie Curie
+> The laws of physics are the same everywhere in the universe.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
