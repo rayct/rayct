@@ -1,9 +1,9 @@
 # Welcome
 
-November 12th, 2026
+November 13th, 2026
 
 ### Daily Quote:
-> To confine our attention to terrestrial matters would be to limit the human spirit.
-> 	- Stephen Hawking
+> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
