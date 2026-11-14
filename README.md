@@ -1,9 +1,9 @@
 # Welcome
 
-November 13th, 2026
+November 14th, 2026
 
 ### Daily Quote:
-> Books break the shackles of time. A book is proof that humans are capable of working magic.
-> 	- Carl Sagan
+> Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think.
+> 	- Jacob Bronowski
 
 Stay Curious and keep Exploring!
