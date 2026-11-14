@@ -3,7 +3,7 @@
 November 14th, 2026
 
 ### Daily Quote:
-> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
-> 	- Georg C. Lichtenberg
+> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
