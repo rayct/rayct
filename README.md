@@ -1,9 +1,9 @@
 # Welcome
 
-November 14th, 2026
+November 15th, 2026
 
 ### Daily Quote:
-> The great discovery of our age is that we can know the structure of the universe, the structure of the atom, and the structure of life.
-> 	- Richard P. Feynman
+> I do not believe that the universe is in any way different from what it seems to be, but I do believe that we do not know nearly enough to have the right to be sure.
+> 	- J. B. S. Haldane
 
 Stay Curious and keep Exploring!
