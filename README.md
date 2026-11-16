@@ -3,7 +3,7 @@
 November 16th, 2026
 
 ### Daily Quote:
-> Far better an approximate answer to the right question than an exact answer to the wrong one.
-> 	- John Tukey
+> Exploration is in our nature. We began as wanderers, and we are wanderers still.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
