@@ -3,7 +3,7 @@
 November 16th, 2026
 
 ### Daily Quote:
-> The beauty of a flower is a scientific fact.
-> 	- Richard P. Feynman
+> Far better an approximate answer to the right question than an exact answer to the wrong one.
+> 	- John Tukey
 
 Stay Curious and keep Exploring!
