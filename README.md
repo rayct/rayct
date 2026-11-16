@@ -1,9 +1,9 @@
 # Welcome
 
-November 15th, 2026
+November 16th, 2026
 
 ### Daily Quote:
-> We are like butterflies who flutter for a day and think it is forever.
-> 	- Carl Sagan
+> The beauty of a flower is a scientific fact.
+> 	- Richard P. Feynman
 
 Stay Curious and keep Exploring!
