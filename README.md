@@ -3,7 +3,7 @@
 November 17th, 2026
 
 ### Daily Quote:
-> Far better an approximate answer to the right question than an exact answer to the wrong one.
-> 	- John Tukey
+> The universe seems neither benign nor hostile, merely indifferent.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
