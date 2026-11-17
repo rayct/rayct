@@ -3,7 +3,7 @@
 November 17th, 2026
 
 ### Daily Quote:
-> The universe seems neither benign nor hostile, merely indifferent.
-> 	- Carl Sagan
+> We still do not know one thousandth of one percent of what nature has revealed to us.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
