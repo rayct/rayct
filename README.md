@@ -1,9 +1,9 @@
 # Welcome
 
-November 16th, 2026
+November 17th, 2026
 
 ### Daily Quote:
-> Exploration is in our nature. We began as wanderers, and we are wanderers still.
-> 	- Carl Sagan
+> Far better an approximate answer to the right question than an exact answer to the wrong one.
+> 	- John Tukey
 
 Stay Curious and keep Exploring!
