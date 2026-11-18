@@ -3,7 +3,7 @@
 November 18th, 2026
 
 ### Daily Quote:
-> The art and science of asking questions is the source of all knowledge.
-> 	- Thomas Berger
+> Astronomy compels the soul to look upwards and leads us from this world to another.
+> 	- Plato
 
 Stay Curious and keep Exploring!
