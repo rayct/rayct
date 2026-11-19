@@ -3,7 +3,7 @@
 November 19th, 2026
 
 ### Daily Quote:
-> Simplicity is prerequisite for reliability.
-> 	- Edsger W. Dijkstra
+> The universe is full of magical things patiently waiting for our wits to grow sharper.
+> 	- Eden Phillpotts
 
 Stay Curious and keep Exploring!
