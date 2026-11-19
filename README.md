@@ -1,9 +1,9 @@
 # Welcome
 
-November 18th, 2026
+November 19th, 2026
 
 ### Daily Quote:
-> The future belongs to those who believe in the beauty of their dreams.
-> 	- Eleanor Roosevelt
+> Simplicity is prerequisite for reliability.
+> 	- Edsger W. Dijkstra
 
 Stay Curious and keep Exploring!
