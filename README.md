@@ -3,7 +3,7 @@
 November 20th, 2026
 
 ### Daily Quote:
-> Science is what we understand well enough to explain to a computer. Art is everything else we do.
-> 	- Donald Knuth
+> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
