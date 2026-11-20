@@ -1,9 +1,9 @@
 # Welcome
 
-November 19th, 2026
+November 20th, 2026
 
 ### Daily Quote:
-> The greatest scientists are artists as well.
-> 	- Albert Einstein
+> Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> 	- Donald Knuth
 
 Stay Curious and keep Exploring!
