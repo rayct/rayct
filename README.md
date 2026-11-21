@@ -1,9 +1,9 @@
 # Welcome
 
-November 20th, 2026
+November 21st, 2026
 
 ### Daily Quote:
-> It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.
-> 	- Carl Sagan
+> In science, we must be interested in things, not in persons.
+> 	- Marie Curie
 
 Stay Curious and keep Exploring!
