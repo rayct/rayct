@@ -1,9 +1,9 @@
 # Welcome
 
-November 21st, 2026
+November 22nd, 2026
 
 ### Daily Quote:
-> Everything is theoretically impossible, until it is done.
-> 	- Robert A. Heinlein
+> Controlling complexity is the essence of computer programming.
+> 	- Brian Kernighan
 
 Stay Curious and keep Exploring!
