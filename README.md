@@ -3,7 +3,7 @@
 November 23rd, 2026
 
 ### Daily Quote:
-> Beware of bugs in the above code; I have only proved it correct, not tried it.
-> 	- Donald Knuth
+> Chance favors the prepared mind.
+> 	- Louis Pasteur
 
 Stay Curious and keep Exploring!
