@@ -1,9 +1,9 @@
 # Welcome
 
-November 23rd, 2026
+November 24th, 2026
 
 ### Daily Quote:
-> Chance favors the prepared mind.
-> 	- Louis Pasteur
+> Science is organized knowledge. Wisdom is organized life.
+> 	- Immanuel Kant
 
 Stay Curious and keep Exploring!
