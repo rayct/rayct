@@ -3,7 +3,7 @@
 November 24th, 2026
 
 ### Daily Quote:
-> Science is organized knowledge. Wisdom is organized life.
-> 	- Immanuel Kant
+> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
