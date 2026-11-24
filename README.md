@@ -3,7 +3,7 @@
 November 24th, 2026
 
 ### Daily Quote:
-> For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.
-> 	- Carl Sagan
+> The important thing is not to stop questioning. Curiosity has its own reason for existing.
+> 	- Albert Einstein
 
 Stay Curious and keep Exploring!
