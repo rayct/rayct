@@ -1,9 +1,9 @@
 # Welcome
 
-November 24th, 2026
+November 25th, 2026
 
 ### Daily Quote:
-> The important thing is not to stop questioning. Curiosity has its own reason for existing.
-> 	- Albert Einstein
+> Remember to look up at the stars and not down at your feet.
+> 	- Stephen Hawking
 
 Stay Curious and keep Exploring!
