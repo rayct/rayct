@@ -3,7 +3,7 @@
 November 25th, 2026
 
 ### Daily Quote:
-> Remember to look up at the stars and not down at your feet.
-> 	- Stephen Hawking
+> Research is what I'm doing when I don't know what I'm doing.
+> 	- Wernher von Braun
 
 Stay Curious and keep Exploring!
