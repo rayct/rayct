@@ -1,9 +1,9 @@
 # Welcome
 
-November 25th, 2026
+November 26th, 2026
 
 ### Daily Quote:
-> Research is what I'm doing when I don't know what I'm doing.
-> 	- Wernher von Braun
+> Physics isn't a religion. If it were, we'd have a much easier time raising money.
+> 	- Leon M. Lederman
 
 Stay Curious and keep Exploring!
