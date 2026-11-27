@@ -1,9 +1,9 @@
 # Welcome
 
-November 26th, 2026
+November 27th, 2026
 
 ### Daily Quote:
-> Chimpanzees, gorillas, orangutans have been living for hundreds of thousands of years in their forest, living fantastic lives, never overpopulating, never destroying the forest.
-> 	- Jane Goodall
+> In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
+> 	- Geoffrey Hinton
 
 Stay Curious and keep Exploring!
