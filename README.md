@@ -3,7 +3,7 @@
 November 27th, 2026
 
 ### Daily Quote:
-> In the long run, curiosity-driven research just works better. Real breakthroughs come from people focusing on what they’re excited about.
-> 	- Geoffrey Hinton
+> Science is a way of thinking much more than it is a body of knowledge.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
