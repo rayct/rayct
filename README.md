@@ -3,7 +3,7 @@
 November 28th, 2026
 
 ### Daily Quote:
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-> 	- Albert Einstein
+> We are star stuff, we are the cosmos made conscious and life is the means by which the universe understands itself.
+> 	- Carl Sagan
 
 Stay Curious and keep Exploring!
